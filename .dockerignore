@@ -1,0 +1,5 @@
+.git
+vendor
+data/*.sqlite*
+var/cache/smarty/*
+.env

@@ -1,0 +1,7 @@
+/vendor/
+/data/*.sqlite
+/data/*.sqlite-wal
+/data/*.sqlite-shm
+/var/cache/smarty/*
+!/var/cache/smarty/.gitkeep
+.env

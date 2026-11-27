@@ -1,0 +1,31 @@
+services:
+  php:
+    build:
+      context: .
+      dockerfile: docker/php/Dockerfile
+    restart: unless-stopped
+    environment:
+      APP_DEBUG: ${APP_DEBUG:-0}
+      DB_PATH: /var/www/html/data/trivial.sqlite
+    volumes:
+      # El código se monta desde tu carpeta: cambias un archivo y se ve al recargar
+      - ./:/var/www/html
+      # La base de datos vive en un volumen aparte: sobrevive a reconstrucciones
+      - trivial_data:/var/www/html/data
+      # Caché de plantillas compiladas (debe poder escribirla PHP)
+      - smarty_cache:/var/www/html/var/cache/smarty
+
+  nginx:
+    image: nginx:1.27-alpine
+    restart: unless-stopped
+    depends_on:
+      - php
+    ports:
+      - "${APP_PORT:-8080}:80"
+    volumes:
+      - ./public:/var/www/html/public:ro
+      - ./docker/nginx/default.conf:/etc/nginx/conf.d/default.conf:ro
+
+volumes:
+  trivial_data:
+  smarty_cache:
