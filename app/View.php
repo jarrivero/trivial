@@ -23,8 +23,11 @@ final class View
         // Escapa TODAS las variables {$algo} por defecto (protección XSS).
         // Si alguna vez necesitas HTML sin escapar: {$algo nofilter}
         $this->smarty->setEscapeHtml(true);
-        // En pruebas recompila al momento; en producción no comprueba cambios.
-        $this->smarty->setCompileCheck($debug ? Smarty::COMPILECHECK_ON : Smarty::COMPILECHECK_OFF);
+        // Recompila la plantilla si el archivo .tpl ha cambiado. Siempre activo:
+        // si no, tras un "git pull" se seguirían viendo las páginas viejas
+        // (la caché de plantillas vive en un volumen que sobrevive a reconstrucciones).
+        // Cuesta solo mirar la fecha del archivo, inapreciable.
+        $this->smarty->setCompileCheck(Smarty::COMPILECHECK_ON);
     }
 
     public function render(ResponseInterface $response, string $template, array $data = []): ResponseInterface
