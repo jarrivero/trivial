@@ -8,11 +8,11 @@ services:
       APP_DEBUG: ${APP_DEBUG:-0}
       DB_PATH: /var/www/html/data/trivial.sqlite
     volumes:
-      # El código se monta desde tu carpeta: cambias un archivo y se ve al recargar
+      # Code is mounted from your folder: change a file and reload to see it
       - ./:/var/www/html
-      # La base de datos vive en un volumen aparte: sobrevive a reconstrucciones
+      # The database lives in its own volume: it survives rebuilds
       - trivial_data:/var/www/html/data
-      # Caché de plantillas compiladas (debe poder escribirla PHP)
+      # Compiled template cache (PHP must be able to write it)
       - smarty_cache:/var/www/html/var/cache/smarty
 
   nginx:

@@ -7,8 +7,8 @@ namespace App;
 use Illuminate\Database\Capsule\Manager as Capsule;
 
 /**
- * Arranca Eloquent contra un archivo SQLite y aplica los ajustes
- * necesarios para que varios jugadores escriban a la vez sin bloqueos.
+ * Boots Eloquent against a SQLite file and applies the settings needed
+ * so several players can write at once without locking errors.
  */
 final class Database
 {
@@ -16,7 +16,7 @@ final class Database
     {
         $path = $config['path'];
 
-        // SQLite crea el archivo, pero no la carpeta.
+        // SQLite creates the file, but not the folder.
         $dir = dirname($path);
         if (!is_dir($dir)) {
             mkdir($dir, 0775, true);
@@ -32,19 +32,19 @@ final class Database
             'prefix'                  => '',
             'foreign_key_constraints' => true,
         ]);
-        $capsule->setAsGlobal();   // permite usar Capsule::table(...) y Schema
-        $capsule->bootEloquent();  // permite usar modelos Eloquent
+        $capsule->setAsGlobal();   // enables Capsule::table(...) and Schema
+        $capsule->bootEloquent();  // enables Eloquent models
 
         $pdo = $capsule->getConnection()->getPdo();
 
-        // WAL: los lectores (polling cada 2-3 s) no bloquean al que escribe.
-        // Se guarda en el propio archivo, pero repetirlo es inocuo.
+        // WAL: readers (polling every 1-2 s) do not block the writer.
+        // It is stored in the file itself, but repeating it is harmless.
         $pdo->exec('PRAGMA journal_mode = WAL');
-        // Esperar en vez de fallar si la BD está ocupada un instante.
+        // Wait instead of failing if the DB is busy for a moment.
         $pdo->exec('PRAGMA busy_timeout = ' . (int) $config['busy_timeout']);
-        // Las claves foráneas en SQLite van desactivadas por defecto.
+        // Foreign keys are disabled by default in SQLite.
         $pdo->exec('PRAGMA foreign_keys = ON');
-        // Con WAL, NORMAL es seguro y bastante más rápido que FULL.
+        // With WAL, NORMAL is safe and much faster than FULL.
         $pdo->exec('PRAGMA synchronous = NORMAL');
 
         return $capsule;

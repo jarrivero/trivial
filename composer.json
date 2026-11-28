@@ -1,6 +1,6 @@
 {
     "name": "jarrivero/trivial",
-    "description": "Trivial multijugador para jugar con amigos (Slim 4 + Eloquent + SQLite + Smarty)",
+    "description": "Multiplayer trivia game to play with friends (Slim 4 + Eloquent + SQLite + Smarty)",
     "type": "project",
     "license": "proprietary",
     "require": {

@@ -1,0 +1,1506 @@
+[
+  {
+    "text": "¿Cuál es el elemento químico con símbolo «O»?",
+    "category": "Ciencia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Oxígeno",
+        "is_correct": true
+      },
+      {
+        "text": "Oganesón",
+        "is_correct": false
+      },
+      {
+        "text": "Osmio",
+        "is_correct": false
+      },
+      {
+        "text": "Oro",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 3"
+  },
+  {
+    "text": "¿Quién pintó «La última cena»?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Miguel Ángel",
+        "is_correct": false
+      },
+      {
+        "text": "Pablo Picasso",
+        "is_correct": false
+      },
+      {
+        "text": "Vincent van Gogh",
+        "is_correct": false
+      },
+      {
+        "text": "Leonardo da Vinci",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 4"
+  },
+  {
+    "text": "¿Cuántos lados tiene un heptágono?",
+    "category": "Ciencia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": true
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 9"
+  },
+  {
+    "text": "¿Qué idioma es el más hablado del mundo como lengua nativa?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Español",
+        "is_correct": false
+      },
+      {
+        "text": "Inglés",
+        "is_correct": false
+      },
+      {
+        "text": "Chino mandarín",
+        "is_correct": true
+      },
+      {
+        "text": "Hindi",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 10"
+  },
+  {
+    "text": "¿Cuál es la capital de Argentina?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Buenos Aires",
+        "is_correct": true
+      },
+      {
+        "text": "Rosario",
+        "is_correct": false
+      },
+      {
+        "text": "Mendoza",
+        "is_correct": false
+      },
+      {
+        "text": "Córdoba",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 51"
+  },
+  {
+    "text": "¿Qué artista pintó «El grito»?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Edvard Munch",
+        "is_correct": true
+      },
+      {
+        "text": "Vincent van Gogh",
+        "is_correct": false
+      },
+      {
+        "text": "Salvador Dalí",
+        "is_correct": false
+      },
+      {
+        "text": "Pablo Picasso",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 52"
+  },
+  {
+    "text": "¿Qué escritor creó el personaje de Sherlock Holmes?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Agatha Christie",
+        "is_correct": false
+      },
+      {
+        "text": "Arthur Conan Doyle",
+        "is_correct": true
+      },
+      {
+        "text": "Edgar Allan Poe",
+        "is_correct": false
+      },
+      {
+        "text": "Charles Dickens",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 57"
+  },
+  {
+    "text": "¿Cuál es el hueso más pequeño del cuerpo humano?",
+    "category": "Ciencia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Yunque",
+        "is_correct": false
+      },
+      {
+        "text": "Estribo",
+        "is_correct": true
+      },
+      {
+        "text": "Vértebra",
+        "is_correct": false
+      },
+      {
+        "text": "Martillo",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 58"
+  },
+  {
+    "text": "¿Qué país ganó el primer Mundial de Fútbol en 1930?",
+    "category": "Deporte",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Uruguay",
+        "is_correct": true
+      },
+      {
+        "text": "Italia",
+        "is_correct": false
+      },
+      {
+        "text": "Argentina",
+        "is_correct": false
+      },
+      {
+        "text": "Brasil",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 59"
+  },
+  {
+    "text": "¿Qué famoso científico formuló las leyes del movimiento?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Galileo Galilei",
+        "is_correct": false
+      },
+      {
+        "text": "Nikola Tesla",
+        "is_correct": false
+      },
+      {
+        "text": "Albert Einstein",
+        "is_correct": false
+      },
+      {
+        "text": "Isaac Newton",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 61"
+  },
+  {
+    "text": "¿Cuál es el océano más pequeño del mundo?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Antártico",
+        "is_correct": false
+      },
+      {
+        "text": "Ártico",
+        "is_correct": true
+      },
+      {
+        "text": "Índico",
+        "is_correct": false
+      },
+      {
+        "text": "Atlántico",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 62"
+  },
+  {
+    "text": "¿En qué país se encuentra la Torre Eiffel?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Alemania",
+        "is_correct": false
+      },
+      {
+        "text": "España",
+        "is_correct": false
+      },
+      {
+        "text": "Italia",
+        "is_correct": false
+      },
+      {
+        "text": "Francia",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 63"
+  },
+  {
+    "text": "¿Qué famoso líder indio promovió la resistencia no violenta?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Gandhi",
+        "is_correct": true
+      },
+      {
+        "text": "Tagore",
+        "is_correct": false
+      },
+      {
+        "text": "Nehru",
+        "is_correct": false
+      },
+      {
+        "text": "Bose",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 66"
+  },
+  {
+    "text": "¿Cuál es la montaña más alta de África?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Monte Elbrús",
+        "is_correct": false
+      },
+      {
+        "text": "Monte Kenia",
+        "is_correct": false
+      },
+      {
+        "text": "Monte Stanley",
+        "is_correct": false
+      },
+      {
+        "text": "Kilimanjaro",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 70"
+  },
+  {
+    "text": "¿Qué pintor español es conocido por su etapa «cubista»?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Salvador Dalí",
+        "is_correct": false
+      },
+      {
+        "text": "Pablo Picasso",
+        "is_correct": true
+      },
+      {
+        "text": "Antoni Tàpies",
+        "is_correct": false
+      },
+      {
+        "text": "Joan Miró",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 71"
+  },
+  {
+    "text": "¿Qué elemento químico tiene el símbolo «Na»?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Nitrógeno",
+        "is_correct": false
+      },
+      {
+        "text": "Níquel",
+        "is_correct": false
+      },
+      {
+        "text": "Neón",
+        "is_correct": false
+      },
+      {
+        "text": "Sodio",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 72"
+  },
+  {
+    "text": "¿Cuál es el idioma oficial de Brasil?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Portugués",
+        "is_correct": true
+      },
+      {
+        "text": "Inglés",
+        "is_correct": false
+      },
+      {
+        "text": "Español",
+        "is_correct": false
+      },
+      {
+        "text": "Brasileño",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 75"
+  },
+  {
+    "text": "¿Qué famoso filósofo escribió «El Príncipe»?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Descartes",
+        "is_correct": false
+      },
+      {
+        "text": "Aristóteles",
+        "is_correct": false
+      },
+      {
+        "text": "Platón",
+        "is_correct": false
+      },
+      {
+        "text": "Maquiavelo",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 76"
+  },
+  {
+    "text": "¿Qué famoso compositor austriaco era niño prodigio?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Haydn",
+        "is_correct": false
+      },
+      {
+        "text": "Beethoven",
+        "is_correct": false
+      },
+      {
+        "text": "Mozart",
+        "is_correct": true
+      },
+      {
+        "text": "Bach",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 79"
+  },
+  {
+    "text": "¿Qué país es el mayor productor de café en el mundo?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Etiopía",
+        "is_correct": false
+      },
+      {
+        "text": "Brasil",
+        "is_correct": true
+      },
+      {
+        "text": "Vietnam",
+        "is_correct": false
+      },
+      {
+        "text": "Colombia",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 80"
+  },
+  {
+    "text": "¿Qué famoso explorador llegó a América en 1492?",
+    "category": "Historia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Vasco da Gama",
+        "is_correct": false
+      },
+      {
+        "text": "Marco Polo",
+        "is_correct": false
+      },
+      {
+        "text": "Fernando de Magallanes",
+        "is_correct": false
+      },
+      {
+        "text": "Cristóbal Colón",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 83"
+  },
+  {
+    "text": "¿Qué país es conocido como «la tierra del sol naciente»?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Tailandia",
+        "is_correct": false
+      },
+      {
+        "text": "China",
+        "is_correct": false
+      },
+      {
+        "text": "Corea del Sur",
+        "is_correct": false
+      },
+      {
+        "text": "Japón",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 86"
+  },
+  {
+    "text": "¿Qué famoso inventor desarrolló el bombilla eléctrica?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Thomas Edison",
+        "is_correct": true
+      },
+      {
+        "text": "Guglielmo Marconi",
+        "is_correct": false
+      },
+      {
+        "text": "Alexander Graham Bell",
+        "is_correct": false
+      },
+      {
+        "text": "Nikola Tesla",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 90"
+  },
+  {
+    "text": "¿Qué famoso compositor ruso escribió «El lago de los cisnes»?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Shostakovich",
+        "is_correct": false
+      },
+      {
+        "text": "Tchaikovsky",
+        "is_correct": true
+      },
+      {
+        "text": "Rachmaninoff",
+        "is_correct": false
+      },
+      {
+        "text": "Stravinsky",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 92"
+  },
+  {
+    "text": "¿Qué país es el mayor productor de petróleo en el mundo?",
+    "category": "Geografía",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Rusia",
+        "is_correct": false
+      },
+      {
+        "text": "Arabia Saudita",
+        "is_correct": false
+      },
+      {
+        "text": "Estados Unidos",
+        "is_correct": true
+      },
+      {
+        "text": "Irak",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 95",
+    "needs_review": true
+  },
+  {
+    "text": "¿Qué famoso pintor holandés cortó parte de su oreja?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Rembrandt",
+        "is_correct": false
+      },
+      {
+        "text": "Piet Mondrian",
+        "is_correct": false
+      },
+      {
+        "text": "Johannes Vermeer",
+        "is_correct": false
+      },
+      {
+        "text": "Vincent van Gogh",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 96"
+  },
+  {
+    "text": "¿Qué país tiene la bandera roja con una gran estrella amarilla?",
+    "category": "Geografía",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Laos",
+        "is_correct": false
+      },
+      {
+        "text": "Corea del Norte",
+        "is_correct": false
+      },
+      {
+        "text": "China",
+        "is_correct": false
+      },
+      {
+        "text": "Vietnam",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 99"
+  },
+  {
+    "text": "¿Qué famoso escritor ruso escribió «Guerra y Paz»?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Vladimir Nabokov",
+        "is_correct": false
+      },
+      {
+        "text": "León Tolstói",
+        "is_correct": true
+      },
+      {
+        "text": "Fiódor Dostoyevski",
+        "is_correct": false
+      },
+      {
+        "text": "Antón Chéjov",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 100"
+  },
+  {
+    "text": "¿Cuál es el metal más abundante en la corteza terrestre?",
+    "category": "Ciencia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Calcio",
+        "is_correct": false
+      },
+      {
+        "text": "Hierro",
+        "is_correct": false
+      },
+      {
+        "text": "Aluminio",
+        "is_correct": true
+      },
+      {
+        "text": "Sodio",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 102"
+  },
+  {
+    "text": "¿Qué famoso filósofo dijo «Pienso, luego existo»?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Platón",
+        "is_correct": false
+      },
+      {
+        "text": "Aristóteles",
+        "is_correct": false
+      },
+      {
+        "text": "Descartes",
+        "is_correct": true
+      },
+      {
+        "text": "Sócrates",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 106"
+  },
+  {
+    "text": "¿Qué ciudad es conocida como «La Ciudad Eterna»?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Roma",
+        "is_correct": true
+      },
+      {
+        "text": "Atenas",
+        "is_correct": false
+      },
+      {
+        "text": "Jerusalén",
+        "is_correct": false
+      },
+      {
+        "text": "París",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 110"
+  },
+  {
+    "text": "¿Qué elemento químico tiene el símbolo «K»?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Potasio",
+        "is_correct": true
+      },
+      {
+        "text": "Kalio",
+        "is_correct": false
+      },
+      {
+        "text": "Kurio",
+        "is_correct": false
+      },
+      {
+        "text": "Kriptón",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 111"
+  },
+  {
+    "text": "¿Qué famoso líder indio fue asesinado en 1948?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Indira Gandhi",
+        "is_correct": false
+      },
+      {
+        "text": "Jawaharlal Nehru",
+        "is_correct": false
+      },
+      {
+        "text": "Rajiv Gandhi",
+        "is_correct": false
+      },
+      {
+        "text": "Mahatma Gandhi",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 112"
+  },
+  {
+    "text": "¿Qué país tiene la mayor cantidad de pirámides?",
+    "category": "Geografía",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Sudán",
+        "is_correct": true
+      },
+      {
+        "text": "México",
+        "is_correct": false
+      },
+      {
+        "text": "Egipto",
+        "is_correct": false
+      },
+      {
+        "text": "Perú",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 113",
+    "needs_review": true
+  },
+  {
+    "text": "¿Qué famoso científico descubrió la radiactividad?",
+    "category": "Ciencia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Henri Becquerel",
+        "is_correct": true
+      },
+      {
+        "text": "Marie Curie",
+        "is_correct": false
+      },
+      {
+        "text": "Ernest Rutherford",
+        "is_correct": false
+      },
+      {
+        "text": "Max Planck",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 114"
+  },
+  {
+    "text": "¿Qué planeta tiene el día más corto del sistema solar?",
+    "category": "Ciencia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Mercurio",
+        "is_correct": false
+      },
+      {
+        "text": "Saturno",
+        "is_correct": false
+      },
+      {
+        "text": "Júpiter",
+        "is_correct": true
+      },
+      {
+        "text": "Venus",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 118"
+  },
+  {
+    "text": "¿Qué país fue dividido por el paralelo 38?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Vietnam",
+        "is_correct": false
+      },
+      {
+        "text": "Alemania",
+        "is_correct": false
+      },
+      {
+        "text": "Corea",
+        "is_correct": true
+      },
+      {
+        "text": "China",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 119"
+  },
+  {
+    "text": "¿Qué famoso compositor austriaco compuso «Pequeña serenata nocturna»?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Haydn",
+        "is_correct": false
+      },
+      {
+        "text": "Schubert",
+        "is_correct": false
+      },
+      {
+        "text": "Mozart",
+        "is_correct": true
+      },
+      {
+        "text": "Beethoven",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 120"
+  },
+  {
+    "text": "¿Qué famoso científico formuló las tres leyes del movimiento planetario?",
+    "category": "Ciencia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Johannes Kepler",
+        "is_correct": true
+      },
+      {
+        "text": "Galileo Galilei",
+        "is_correct": false
+      },
+      {
+        "text": "Nicolás Copérnico",
+        "is_correct": false
+      },
+      {
+        "text": "Isaac Newton",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 122"
+  },
+  {
+    "text": "¿Qué ciudad estadounidense es conocida como «La Ciudad del Viento»?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Chicago",
+        "is_correct": true
+      },
+      {
+        "text": "Nueva York",
+        "is_correct": false
+      },
+      {
+        "text": "Los Ángeles",
+        "is_correct": false
+      },
+      {
+        "text": "Boston",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 123"
+  },
+  {
+    "text": "¿Qué país tiene la bandera más antigua aún en uso?",
+    "category": "Geografía",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Suiza",
+        "is_correct": false
+      },
+      {
+        "text": "Dinamarca",
+        "is_correct": true
+      },
+      {
+        "text": "Reino Unido",
+        "is_correct": false
+      },
+      {
+        "text": "Japón",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 125",
+    "needs_review": true
+  },
+  {
+    "text": "¿Qué famoso pintor holandés pintó «La joven de la perla»?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Pieter Brueghel",
+        "is_correct": false
+      },
+      {
+        "text": "Johannes Vermeer",
+        "is_correct": true
+      },
+      {
+        "text": "Rembrandt",
+        "is_correct": false
+      },
+      {
+        "text": "Frans Hals",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 126"
+  },
+  {
+    "text": "¿Qué elemento químico es el más ligero?",
+    "category": "Ciencia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Helio",
+        "is_correct": false
+      },
+      {
+        "text": "Oxígeno",
+        "is_correct": false
+      },
+      {
+        "text": "Hidrógeno",
+        "is_correct": true
+      },
+      {
+        "text": "Litio",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 127"
+  },
+  {
+    "text": "¿Qué famoso líder ruso lideró la Revolución de Octubre?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Joseph Stalin",
+        "is_correct": false
+      },
+      {
+        "text": "Vladimir Lenin",
+        "is_correct": true
+      },
+      {
+        "text": "Nikita Khrushchev",
+        "is_correct": false
+      },
+      {
+        "text": "León Trotsky",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 128"
+  },
+  {
+    "text": "¿Qué país tiene más volcanes activos?",
+    "category": "Geografía",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Japón",
+        "is_correct": false
+      },
+      {
+        "text": "Indonesia",
+        "is_correct": true
+      },
+      {
+        "text": "Estados Unidos",
+        "is_correct": false
+      },
+      {
+        "text": "Chile",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 129",
+    "needs_review": true
+  },
+  {
+    "text": "¿Qué famoso científico propuso la teoría del Big Bang?",
+    "category": "Ciencia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Georges Lemaître",
+        "is_correct": true
+      },
+      {
+        "text": "Stephen Hawking",
+        "is_correct": false
+      },
+      {
+        "text": "Edwin Hubble",
+        "is_correct": false
+      },
+      {
+        "text": "Albert Einstein",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 130"
+  },
+  {
+    "text": "¿Qué ciudad es conocida como «La Perla del Adriático»?",
+    "category": "Geografía",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Venecia",
+        "is_correct": false
+      },
+      {
+        "text": "Split",
+        "is_correct": false
+      },
+      {
+        "text": "Atenas",
+        "is_correct": false
+      },
+      {
+        "text": "Dubrovnik",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 131"
+  },
+  {
+    "text": "¿Qué famoso escritor ruso escribió «Crimen y castigo»?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "León Tolstói",
+        "is_correct": false
+      },
+      {
+        "text": "Antón Chéjov",
+        "is_correct": false
+      },
+      {
+        "text": "Fiódor Dostoyevski",
+        "is_correct": true
+      },
+      {
+        "text": "Nikolái Gógol",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 132"
+  },
+  {
+    "text": "¿Qué elemento químico tiene el símbolo «Ag»?",
+    "category": "Ciencia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Argón",
+        "is_correct": false
+      },
+      {
+        "text": "Aluminio",
+        "is_correct": false
+      },
+      {
+        "text": "Oro",
+        "is_correct": false
+      },
+      {
+        "text": "Plata",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 133"
+  },
+  {
+    "text": "¿Qué país tiene la mayor cantidad de lagos naturales?",
+    "category": "Geografía",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Rusia",
+        "is_correct": false
+      },
+      {
+        "text": "Canadá",
+        "is_correct": true
+      },
+      {
+        "text": "Finlandia",
+        "is_correct": false
+      },
+      {
+        "text": "Suecia",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 135"
+  },
+  {
+    "text": "¿Qué famoso filósofo griego fue maestro de Alejandro Magno?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Sócrates",
+        "is_correct": false
+      },
+      {
+        "text": "Platón",
+        "is_correct": false
+      },
+      {
+        "text": "Aristóteles",
+        "is_correct": true
+      },
+      {
+        "text": "Pitágoras",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 138"
+  },
+  {
+    "text": "¿Qué famoso compositor alemán compuso «Para Elisa»?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Handel",
+        "is_correct": false
+      },
+      {
+        "text": "Bach",
+        "is_correct": false
+      },
+      {
+        "text": "Mozart",
+        "is_correct": false
+      },
+      {
+        "text": "Beethoven",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 140"
+  },
+  {
+    "text": "¿Qué elemento químico tiene el símbolo «Hg»?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Hidrógeno",
+        "is_correct": false
+      },
+      {
+        "text": "Helio",
+        "is_correct": false
+      },
+      {
+        "text": "Mercurio",
+        "is_correct": true
+      },
+      {
+        "text": "Magnesio",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 141"
+  },
+  {
+    "text": "¿Qué famoso líder egipcio nacionalizó el Canal de Suez en 1956?",
+    "category": "Historia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Hosni Mubarak",
+        "is_correct": false
+      },
+      {
+        "text": "Mohamed Morsi",
+        "is_correct": false
+      },
+      {
+        "text": "Anwar Sadat",
+        "is_correct": false
+      },
+      {
+        "text": "Gamal Abdel Nasser",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 142"
+  },
+  {
+    "text": "¿Qué país tiene la capital más al norte del mundo?",
+    "category": "Geografía",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Canadá",
+        "is_correct": false
+      },
+      {
+        "text": "Islandia",
+        "is_correct": true
+      },
+      {
+        "text": "Finlandia",
+        "is_correct": false
+      },
+      {
+        "text": "Noruega",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 143"
+  },
+  {
+    "text": "¿Qué famoso científico descubrió los rayos X?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Ernest Rutherford",
+        "is_correct": false
+      },
+      {
+        "text": "Max Planck",
+        "is_correct": false
+      },
+      {
+        "text": "Marie Curie",
+        "is_correct": false
+      },
+      {
+        "text": "Wilhelm Röntgen",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 144"
+  },
+  {
+    "text": "¿Qué famoso escritor francés escribió «El conde de Montecristo»?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Alexandre Dumas",
+        "is_correct": true
+      },
+      {
+        "text": "Gustave Flaubert",
+        "is_correct": false
+      },
+      {
+        "text": "Victor Hugo",
+        "is_correct": false
+      },
+      {
+        "text": "Émile Zola",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 145"
+  },
+  {
+    "text": "¿Qué famoso pintor impresionista pintó «Nenúfares»?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Édouard Manet",
+        "is_correct": false
+      },
+      {
+        "text": "Pierre-Auguste Renoir",
+        "is_correct": false
+      },
+      {
+        "text": "Vincent van Gogh",
+        "is_correct": false
+      },
+      {
+        "text": "Claude Monet",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 147"
+  },
+  {
+    "text": "¿Qué planeta es conocido como «el planeta azul»?",
+    "category": "Ciencia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Tierra",
+        "is_correct": true
+      },
+      {
+        "text": "Neptuno",
+        "is_correct": false
+      },
+      {
+        "text": "Venus",
+        "is_correct": false
+      },
+      {
+        "text": "Urano",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 148"
+  },
+  {
+    "text": "¿Qué famoso filósofo escribió «El contrato social»?",
+    "category": "Arte y cultura",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Montesquieu",
+        "is_correct": false
+      },
+      {
+        "text": "Diderot",
+        "is_correct": false
+      },
+      {
+        "text": "Voltaire",
+        "is_correct": false
+      },
+      {
+        "text": "Rousseau",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "danb0219/preguntados (MIT), pregunta 149"
+  }
+]

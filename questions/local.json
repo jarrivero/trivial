@@ -1,0 +1,2630 @@
+[
+  {
+    "text": "¿Cuántas provincias tiene Andalucía?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": true
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es la capital de Andalucía?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Sevilla",
+        "is_correct": true
+      },
+      {
+        "text": "Málaga",
+        "is_correct": false
+      },
+      {
+        "text": "Córdoba",
+        "is_correct": false
+      },
+      {
+        "text": "Granada",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué río pasa por Sevilla y Córdoba?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Genil",
+        "is_correct": false
+      },
+      {
+        "text": "Tajo",
+        "is_correct": false
+      },
+      {
+        "text": "Guadalquivir",
+        "is_correct": true
+      },
+      {
+        "text": "Guadiana",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es el pico más alto de la península ibérica?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Veleta",
+        "is_correct": false
+      },
+      {
+        "text": "Teide",
+        "is_correct": false
+      },
+      {
+        "text": "Aneto",
+        "is_correct": false
+      },
+      {
+        "text": "Mulhacén",
+        "is_correct": true
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "El Parque Nacional de Doñana se extiende sobre todo por la provincia de...",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Málaga",
+        "is_correct": false
+      },
+      {
+        "text": "Huelva",
+        "is_correct": true
+      },
+      {
+        "text": "Almería",
+        "is_correct": false
+      },
+      {
+        "text": "Jaén",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)",
+    "needs_review": true
+  },
+  {
+    "text": "¿Qué desierto de Almería se usó para rodar muchos wésterns?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Bardenas Reales",
+        "is_correct": false
+      },
+      {
+        "text": "Tabernas",
+        "is_correct": true
+      },
+      {
+        "text": "Gorafe",
+        "is_correct": false
+      },
+      {
+        "text": "Monegros",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es la provincia andaluza con más superficie?",
+    "category": "Geografía",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Granada",
+        "is_correct": false
+      },
+      {
+        "text": "Córdoba",
+        "is_correct": false
+      },
+      {
+        "text": "Sevilla",
+        "is_correct": true
+      },
+      {
+        "text": "Jaén",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)",
+    "needs_review": true
+  },
+  {
+    "text": "¿Qué ciudad autónoma española está en el norte de África, además de Melilla?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Tetuán",
+        "is_correct": false
+      },
+      {
+        "text": "Orán",
+        "is_correct": false
+      },
+      {
+        "text": "Tánger",
+        "is_correct": false
+      },
+      {
+        "text": "Ceuta",
+        "is_correct": true
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué estrecho separa España de África?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Gibraltar",
+        "is_correct": true
+      },
+      {
+        "text": "Mesina",
+        "is_correct": false
+      },
+      {
+        "text": "Bósforo",
+        "is_correct": false
+      },
+      {
+        "text": "Magallanes",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué provincia está el Caminito del Rey?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Cádiz",
+        "is_correct": false
+      },
+      {
+        "text": "Granada",
+        "is_correct": false
+      },
+      {
+        "text": "Jaén",
+        "is_correct": false
+      },
+      {
+        "text": "Málaga",
+        "is_correct": true
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué ciudad es conocida como «la Tacita de Plata»?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Almería",
+        "is_correct": false
+      },
+      {
+        "text": "Málaga",
+        "is_correct": false
+      },
+      {
+        "text": "Cádiz",
+        "is_correct": true
+      },
+      {
+        "text": "Huelva",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "La estación de esquí de Sierra Nevada está en la provincia de...",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Almería",
+        "is_correct": false
+      },
+      {
+        "text": "Jaén",
+        "is_correct": false
+      },
+      {
+        "text": "Málaga",
+        "is_correct": false
+      },
+      {
+        "text": "Granada",
+        "is_correct": true
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué parque natural de Jaén es el espacio protegido más grande de España?",
+    "category": "Geografía",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Sierras de Cazorla, Segura y Las Villas",
+        "is_correct": true
+      },
+      {
+        "text": "Sierra de Andújar",
+        "is_correct": false
+      },
+      {
+        "text": "Sierra Mágina",
+        "is_correct": false
+      },
+      {
+        "text": "Despeñaperros",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "Según la versión oficial, ¿en qué provincia nace el río Guadalquivir?",
+    "category": "Geografía",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Jaén",
+        "is_correct": true
+      },
+      {
+        "text": "Córdoba",
+        "is_correct": false
+      },
+      {
+        "text": "Granada",
+        "is_correct": false
+      },
+      {
+        "text": "Albacete",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es la comunidad autónoma más poblada de España?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Andalucía",
+        "is_correct": true
+      },
+      {
+        "text": "Comunidad de Madrid",
+        "is_correct": false
+      },
+      {
+        "text": "Comunidad Valenciana",
+        "is_correct": false
+      },
+      {
+        "text": "Cataluña",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es la comunidad autónoma más extensa de España?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Andalucía",
+        "is_correct": false
+      },
+      {
+        "text": "Aragón",
+        "is_correct": false
+      },
+      {
+        "text": "Castilla y León",
+        "is_correct": true
+      },
+      {
+        "text": "Castilla-La Mancha",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "La Ruta de los Pueblos Blancos está principalmente en la provincia de...",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Almería",
+        "is_correct": false
+      },
+      {
+        "text": "Jaén",
+        "is_correct": false
+      },
+      {
+        "text": "Cádiz",
+        "is_correct": true
+      },
+      {
+        "text": "Huelva",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué provincia se encuentra el Cabo de Gata?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Málaga",
+        "is_correct": false
+      },
+      {
+        "text": "Granada",
+        "is_correct": false
+      },
+      {
+        "text": "Murcia",
+        "is_correct": false
+      },
+      {
+        "text": "Almería",
+        "is_correct": true
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "La Costa del Sol está en la provincia de...",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Málaga",
+        "is_correct": true
+      },
+      {
+        "text": "Almería",
+        "is_correct": false
+      },
+      {
+        "text": "Cádiz",
+        "is_correct": false
+      },
+      {
+        "text": "Huelva",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué ciudad malagueña está construida sobre un tajo con un famoso Puente Nuevo?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Mijas",
+        "is_correct": false
+      },
+      {
+        "text": "Nerja",
+        "is_correct": false
+      },
+      {
+        "text": "Antequera",
+        "is_correct": false
+      },
+      {
+        "text": "Ronda",
+        "is_correct": true
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es la isla más grande de Canarias?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Fuerteventura",
+        "is_correct": false
+      },
+      {
+        "text": "Tenerife",
+        "is_correct": true
+      },
+      {
+        "text": "Gran Canaria",
+        "is_correct": false
+      },
+      {
+        "text": "Lanzarote",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué año tomaron Granada los Reyes Católicos?",
+    "category": "Historia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "1512",
+        "is_correct": false
+      },
+      {
+        "text": "1492",
+        "is_correct": true
+      },
+      {
+        "text": "1453",
+        "is_correct": false
+      },
+      {
+        "text": "1469",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué dinastía fundó el Califato de Córdoba?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Abasí",
+        "is_correct": false
+      },
+      {
+        "text": "Nazarí",
+        "is_correct": false
+      },
+      {
+        "text": "Omeya",
+        "is_correct": true
+      },
+      {
+        "text": "Almohade",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién fue el último rey nazarí de Granada?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Boabdil",
+        "is_correct": true
+      },
+      {
+        "text": "Almanzor",
+        "is_correct": false
+      },
+      {
+        "text": "Yusuf I",
+        "is_correct": false
+      },
+      {
+        "text": "Abderramán III",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué año se aprobó la Constitución española actual?",
+    "category": "Historia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "1975",
+        "is_correct": false
+      },
+      {
+        "text": "1978",
+        "is_correct": true
+      },
+      {
+        "text": "1977",
+        "is_correct": false
+      },
+      {
+        "text": "1981",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué día se celebra el Día de Andalucía?",
+    "category": "Historia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "28 de febrero",
+        "is_correct": true
+      },
+      {
+        "text": "12 de octubre",
+        "is_correct": false
+      },
+      {
+        "text": "2 de mayo",
+        "is_correct": false
+      },
+      {
+        "text": "6 de diciembre",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién es considerado el «padre de la patria andaluza»?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Rafael Escuredo",
+        "is_correct": false
+      },
+      {
+        "text": "Blas Infante",
+        "is_correct": true
+      },
+      {
+        "text": "Manuel Clavero",
+        "is_correct": false
+      },
+      {
+        "text": "Julio Anguita",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿De qué puerto onubense salió Colón en 1492?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Palos de la Frontera",
+        "is_correct": true
+      },
+      {
+        "text": "Cádiz",
+        "is_correct": false
+      },
+      {
+        "text": "Sanlúcar de Barrameda",
+        "is_correct": false
+      },
+      {
+        "text": "Ayamonte",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué año se celebró la Exposición Universal de Sevilla?",
+    "category": "Historia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "1992",
+        "is_correct": true
+      },
+      {
+        "text": "1988",
+        "is_correct": false
+      },
+      {
+        "text": "1996",
+        "is_correct": false
+      },
+      {
+        "text": "1982",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué batalla de 1212, en la actual provincia de Jaén, fue clave en la Reconquista?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Covadonga",
+        "is_correct": false
+      },
+      {
+        "text": "Guadalete",
+        "is_correct": false
+      },
+      {
+        "text": "Alarcos",
+        "is_correct": false
+      },
+      {
+        "text": "Las Navas de Tolosa",
+        "is_correct": true
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué apodo recibió la Constitución de Cádiz de 1812?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "La Niña",
+        "is_correct": false
+      },
+      {
+        "text": "La Chata",
+        "is_correct": false
+      },
+      {
+        "text": "La Gloriosa",
+        "is_correct": false
+      },
+      {
+        "text": "La Pepa",
+        "is_correct": true
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué batalla del año 711 abrió la conquista musulmana de la península?",
+    "category": "Historia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Covadonga",
+        "is_correct": false
+      },
+      {
+        "text": "Las Navas de Tolosa",
+        "is_correct": false
+      },
+      {
+        "text": "Guadalete",
+        "is_correct": true
+      },
+      {
+        "text": "Poitiers",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué año se votó el referéndum del 28-F por la autonomía de Andalucía?",
+    "category": "Historia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "1978",
+        "is_correct": false
+      },
+      {
+        "text": "1982",
+        "is_correct": false
+      },
+      {
+        "text": "1980",
+        "is_correct": true
+      },
+      {
+        "text": "1986",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué ciudad fundaron los fenicios con el nombre de Gadir?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Almería",
+        "is_correct": false
+      },
+      {
+        "text": "Huelva",
+        "is_correct": false
+      },
+      {
+        "text": "Cádiz",
+        "is_correct": true
+      },
+      {
+        "text": "Málaga",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cómo se llamaba Sevilla en época romana?",
+    "category": "Historia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Hispalis",
+        "is_correct": true
+      },
+      {
+        "text": "Malaca",
+        "is_correct": false
+      },
+      {
+        "text": "Gades",
+        "is_correct": false
+      },
+      {
+        "text": "Corduba",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué expedición salió de Sevilla en 1519 y dio la primera vuelta al mundo?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "La de Pizarro",
+        "is_correct": false
+      },
+      {
+        "text": "La de Hernán Cortés",
+        "is_correct": false
+      },
+      {
+        "text": "La de Magallanes y Elcano",
+        "is_correct": true
+      },
+      {
+        "text": "La de Colón",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué institución controló desde Sevilla el comercio con América a partir de 1503?",
+    "category": "Historia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "La Casa de Contratación",
+        "is_correct": true
+      },
+      {
+        "text": "El Consejo de Castilla",
+        "is_correct": false
+      },
+      {
+        "text": "La Real Audiencia",
+        "is_correct": false
+      },
+      {
+        "text": "La Mesta",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién fue elegido presidente de la Junta de Andalucía tras las primeras elecciones autonómicas de 1982?",
+    "category": "Historia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Javier Arenas",
+        "is_correct": false
+      },
+      {
+        "text": "Manuel Chaves",
+        "is_correct": false
+      },
+      {
+        "text": "Rafael Escuredo",
+        "is_correct": true
+      },
+      {
+        "text": "José Rodríguez de la Borbolla",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)",
+    "needs_review": true
+  },
+  {
+    "text": "¿En qué año entró España en la Comunidad Económica Europea?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "1979",
+        "is_correct": false
+      },
+      {
+        "text": "1986",
+        "is_correct": true
+      },
+      {
+        "text": "1982",
+        "is_correct": false
+      },
+      {
+        "text": "1992",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué rey de España abdicó en 2014?",
+    "category": "Historia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Carlos IV",
+        "is_correct": false
+      },
+      {
+        "text": "Juan Carlos I",
+        "is_correct": true
+      },
+      {
+        "text": "Alfonso XIII",
+        "is_correct": false
+      },
+      {
+        "text": "Felipe VI",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué ciudad está la Alhambra?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Córdoba",
+        "is_correct": false
+      },
+      {
+        "text": "Málaga",
+        "is_correct": false
+      },
+      {
+        "text": "Sevilla",
+        "is_correct": false
+      },
+      {
+        "text": "Granada",
+        "is_correct": true
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cómo se llama la torre campanario de la catedral de Sevilla?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Torre del Oro",
+        "is_correct": false
+      },
+      {
+        "text": "La Calahorra",
+        "is_correct": false
+      },
+      {
+        "text": "Torre de la Vela",
+        "is_correct": false
+      },
+      {
+        "text": "La Giralda",
+        "is_correct": true
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué pintor nació en Málaga en 1881?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Salvador Dalí",
+        "is_correct": false
+      },
+      {
+        "text": "Pablo Picasso",
+        "is_correct": true
+      },
+      {
+        "text": "Diego Velázquez",
+        "is_correct": false
+      },
+      {
+        "text": "Bartolomé Murillo",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué poeta granadino escribió el «Romancero gitano»?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Federico García Lorca",
+        "is_correct": true
+      },
+      {
+        "text": "Luis de Góngora",
+        "is_correct": false
+      },
+      {
+        "text": "Rafael Alberti",
+        "is_correct": false
+      },
+      {
+        "text": "Antonio Machado",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué pintor barroco nació en Sevilla en 1599?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Diego Velázquez",
+        "is_correct": true
+      },
+      {
+        "text": "Francisco de Zurbarán",
+        "is_correct": false
+      },
+      {
+        "text": "El Greco",
+        "is_correct": false
+      },
+      {
+        "text": "Francisco de Goya",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué poeta de Moguer ganó el Premio Nobel de Literatura en 1956?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Rafael Alberti",
+        "is_correct": false
+      },
+      {
+        "text": "Juan Ramón Jiménez",
+        "is_correct": true
+      },
+      {
+        "text": "Antonio Machado",
+        "is_correct": false
+      },
+      {
+        "text": "Vicente Aleixandre",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué libro de Juan Ramón Jiménez protagoniza un burro?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Platero y yo",
+        "is_correct": true
+      },
+      {
+        "text": "Campos de Castilla",
+        "is_correct": false
+      },
+      {
+        "text": "Niebla",
+        "is_correct": false
+      },
+      {
+        "text": "Marianela",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué localidad gaditana nació el poeta Rafael Alberti?",
+    "category": "Arte y cultura",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "El Puerto de Santa María",
+        "is_correct": true
+      },
+      {
+        "text": "Sanlúcar de Barrameda",
+        "is_correct": false
+      },
+      {
+        "text": "Jerez de la Frontera",
+        "is_correct": false
+      },
+      {
+        "text": "Cádiz",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué poeta sevillano ganó el Premio Nobel de Literatura en 1977?",
+    "category": "Arte y cultura",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Camilo José Cela",
+        "is_correct": false
+      },
+      {
+        "text": "Luis Cernuda",
+        "is_correct": false
+      },
+      {
+        "text": "Juan Ramón Jiménez",
+        "is_correct": false
+      },
+      {
+        "text": "Vicente Aleixandre",
+        "is_correct": true
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué ciudad se celebra la Feria de Abril?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Málaga",
+        "is_correct": false
+      },
+      {
+        "text": "Sevilla",
+        "is_correct": true
+      },
+      {
+        "text": "Jerez",
+        "is_correct": false
+      },
+      {
+        "text": "Córdoba",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué fiesta cordobesa de mayo abre al público casas decoradas con flores?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "La Feria de Abril",
+        "is_correct": false
+      },
+      {
+        "text": "La Fiesta de los Patios",
+        "is_correct": true
+      },
+      {
+        "text": "La Romería del Rocío",
+        "is_correct": false
+      },
+      {
+        "text": "El Carnaval",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿A qué municipio onubense pertenece la aldea de El Rocío?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Almonte",
+        "is_correct": true
+      },
+      {
+        "text": "Bollullos Par del Condado",
+        "is_correct": false
+      },
+      {
+        "text": "Lepe",
+        "is_correct": false
+      },
+      {
+        "text": "Moguer",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué carnaval andaluz es famoso por sus chirigotas?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "El de Cádiz",
+        "is_correct": true
+      },
+      {
+        "text": "El de Málaga",
+        "is_correct": false
+      },
+      {
+        "text": "El de Jaén",
+        "is_correct": false
+      },
+      {
+        "text": "El de Almería",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué arte fue declarado Patrimonio Cultural Inmaterial de la Humanidad por la UNESCO en 2010?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "El flamenco",
+        "is_correct": true
+      },
+      {
+        "text": "La muñeira",
+        "is_correct": false
+      },
+      {
+        "text": "La jota",
+        "is_correct": false
+      },
+      {
+        "text": "La sardana",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué ciudad está la Mezquita-Catedral?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Sevilla",
+        "is_correct": false
+      },
+      {
+        "text": "Toledo",
+        "is_correct": false
+      },
+      {
+        "text": "Córdoba",
+        "is_correct": true
+      },
+      {
+        "text": "Granada",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué ciudad de Jaén es Patrimonio de la Humanidad junto a Baeza por su arquitectura renacentista?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Andújar",
+        "is_correct": false
+      },
+      {
+        "text": "Linares",
+        "is_correct": false
+      },
+      {
+        "text": "Úbeda",
+        "is_correct": true
+      },
+      {
+        "text": "Jaén",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué torre sevillana junto al Guadalquivir fue construida por los almohades?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "La Torre del Oro",
+        "is_correct": true
+      },
+      {
+        "text": "La Torre de la Vela",
+        "is_correct": false
+      },
+      {
+        "text": "La Giralda",
+        "is_correct": false
+      },
+      {
+        "text": "La Torre Tavira",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cómo se llama el palacio y jardines de recreo de los reyes nazaríes junto a la Alhambra?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "La Alcazaba",
+        "is_correct": false
+      },
+      {
+        "text": "El Alcázar",
+        "is_correct": false
+      },
+      {
+        "text": "Medina Azahara",
+        "is_correct": false
+      },
+      {
+        "text": "El Generalife",
+        "is_correct": true
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué ciudad palatina mandó construir Abderramán III a las afueras de Córdoba?",
+    "category": "Arte y cultura",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Medina Azahara",
+        "is_correct": true
+      },
+      {
+        "text": "La Alcazaba",
+        "is_correct": false
+      },
+      {
+        "text": "Medina Sidonia",
+        "is_correct": false
+      },
+      {
+        "text": "Medinaceli",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué baile se baila en parejas en las ferias andaluzas y tiene cuatro coplas?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Las sevillanas",
+        "is_correct": true
+      },
+      {
+        "text": "La jota",
+        "is_correct": false
+      },
+      {
+        "text": "La muñeira",
+        "is_correct": false
+      },
+      {
+        "text": "El chotis",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cómo se llama el estadio del Real Betis?",
+    "category": "Deporte",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "La Rosaleda",
+        "is_correct": false
+      },
+      {
+        "text": "Nuevo Colombino",
+        "is_correct": false
+      },
+      {
+        "text": "Benito Villamarín",
+        "is_correct": true
+      },
+      {
+        "text": "Ramón Sánchez-Pizjuán",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cómo se llama el estadio del Sevilla FC?",
+    "category": "Deporte",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Benito Villamarín",
+        "is_correct": false
+      },
+      {
+        "text": "Nuevo Mirandilla",
+        "is_correct": false
+      },
+      {
+        "text": "Nuevo Los Cármenes",
+        "is_correct": false
+      },
+      {
+        "text": "Ramón Sánchez-Pizjuán",
+        "is_correct": true
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué club, fundado en 1889, es conocido como el «decano del fútbol español»?",
+    "category": "Deporte",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Athletic Club",
+        "is_correct": false
+      },
+      {
+        "text": "Recreativo de Huelva",
+        "is_correct": true
+      },
+      {
+        "text": "Real Racing Club",
+        "is_correct": false
+      },
+      {
+        "text": "Sevilla FC",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué estadio juega el Málaga CF?",
+    "category": "Deporte",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Nuevo Colombino",
+        "is_correct": false
+      },
+      {
+        "text": "Nuevo Mirandilla",
+        "is_correct": false
+      },
+      {
+        "text": "La Rosaleda",
+        "is_correct": true
+      },
+      {
+        "text": "Nuevo Arcángel",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuántos Roland Garros ganó Rafa Nadal?",
+    "category": "Deporte",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": true
+      },
+      {
+        "text": "13",
+        "is_correct": false
+      },
+      {
+        "text": "15",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué año ganó España el Mundial de fútbol?",
+    "category": "Deporte",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "2006",
+        "is_correct": false
+      },
+      {
+        "text": "2014",
+        "is_correct": false
+      },
+      {
+        "text": "2008",
+        "is_correct": false
+      },
+      {
+        "text": "2010",
+        "is_correct": true
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué circuito andaluz acoge el Gran Premio de España de motociclismo?",
+    "category": "Deporte",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "MotorLand Aragón",
+        "is_correct": false
+      },
+      {
+        "text": "Circuito de Jerez",
+        "is_correct": true
+      },
+      {
+        "text": "Circuito Ricardo Tormo",
+        "is_correct": false
+      },
+      {
+        "text": "Montmeló",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué jugadora onubense de bádminton fue campeona olímpica en Río 2016?",
+    "category": "Deporte",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Lydia Valentín",
+        "is_correct": false
+      },
+      {
+        "text": "Gemma Mengual",
+        "is_correct": false
+      },
+      {
+        "text": "Mireia Belmonte",
+        "is_correct": false
+      },
+      {
+        "text": "Carolina Marín",
+        "is_correct": true
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué ciudad juega el Unicaja de baloncesto?",
+    "category": "Deporte",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Sevilla",
+        "is_correct": false
+      },
+      {
+        "text": "Granada",
+        "is_correct": false
+      },
+      {
+        "text": "Almería",
+        "is_correct": false
+      },
+      {
+        "text": "Málaga",
+        "is_correct": true
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué año se celebraron los Juegos Olímpicos de Barcelona?",
+    "category": "Deporte",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "1992",
+        "is_correct": true
+      },
+      {
+        "text": "1996",
+        "is_correct": false
+      },
+      {
+        "text": "1988",
+        "is_correct": false
+      },
+      {
+        "text": "1984",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién marcó el gol de España en la final del Mundial de 2010?",
+    "category": "Deporte",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Fernando Torres",
+        "is_correct": false
+      },
+      {
+        "text": "Andrés Iniesta",
+        "is_correct": true
+      },
+      {
+        "text": "Xavi Hernández",
+        "is_correct": false
+      },
+      {
+        "text": "David Villa",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué pueblo sevillano nació Sergio Ramos?",
+    "category": "Deporte",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Camas",
+        "is_correct": true
+      },
+      {
+        "text": "Écija",
+        "is_correct": false
+      },
+      {
+        "text": "Utrera",
+        "is_correct": false
+      },
+      {
+        "text": "Dos Hermanas",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué año acogió Sierra Nevada el Campeonato del Mundo de Esquí Alpino?",
+    "category": "Deporte",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "1996",
+        "is_correct": true
+      },
+      {
+        "text": "1992",
+        "is_correct": false
+      },
+      {
+        "text": "1988",
+        "is_correct": false
+      },
+      {
+        "text": "2000",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué piloto español ha ganado dos Mundiales de Fórmula 1?",
+    "category": "Deporte",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Fernando Alonso",
+        "is_correct": true
+      },
+      {
+        "text": "Carlos Sainz",
+        "is_correct": false
+      },
+      {
+        "text": "Pedro de la Rosa",
+        "is_correct": false
+      },
+      {
+        "text": "Marc Gené",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cómo se llama el estadio del Cádiz CF desde 2021?",
+    "category": "Deporte",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Nuevo Colombino",
+        "is_correct": false
+      },
+      {
+        "text": "Nuevo Los Cármenes",
+        "is_correct": false
+      },
+      {
+        "text": "La Rosaleda",
+        "is_correct": false
+      },
+      {
+        "text": "Nuevo Mirandilla",
+        "is_correct": true
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué sopa fría andaluza lleva tomate, pimiento, pepino, ajo, aceite y pan?",
+    "category": "Gastronomía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Porra",
+        "is_correct": false
+      },
+      {
+        "text": "Gazpacho",
+        "is_correct": true
+      },
+      {
+        "text": "Salmorejo",
+        "is_correct": false
+      },
+      {
+        "text": "Ajoblanco",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué crema fría típica de Córdoba es más espesa que el gazpacho?",
+    "category": "Gastronomía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Salmorejo",
+        "is_correct": true
+      },
+      {
+        "text": "Ajoblanco",
+        "is_correct": false
+      },
+      {
+        "text": "Gazpachuelo",
+        "is_correct": false
+      },
+      {
+        "text": "Pipirrana",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué tipo de vino es típico del Marco de Jerez?",
+    "category": "Gastronomía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Rioja",
+        "is_correct": false
+      },
+      {
+        "text": "Albariño",
+        "is_correct": false
+      },
+      {
+        "text": "Txakoli",
+        "is_correct": false
+      },
+      {
+        "text": "Fino",
+        "is_correct": true
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué vino es típico de Sanlúcar de Barrameda?",
+    "category": "Gastronomía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Manzanilla",
+        "is_correct": true
+      },
+      {
+        "text": "Cava",
+        "is_correct": false
+      },
+      {
+        "text": "Verdejo",
+        "is_correct": false
+      },
+      {
+        "text": "Ribera",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué sopa fría malagueña lleva almendras y ajo y se sirve con uvas?",
+    "category": "Gastronomía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Salmorejo",
+        "is_correct": false
+      },
+      {
+        "text": "Ajoblanco",
+        "is_correct": true
+      },
+      {
+        "text": "Gazpacho",
+        "is_correct": false
+      },
+      {
+        "text": "Porra antequerana",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué pueblo de Huelva da nombre a una famosa denominación de origen de jamón ibérico?",
+    "category": "Gastronomía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Trevélez",
+        "is_correct": false
+      },
+      {
+        "text": "Guijuelo",
+        "is_correct": false
+      },
+      {
+        "text": "Lepe",
+        "is_correct": false
+      },
+      {
+        "text": "Jabugo",
+        "is_correct": true
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué provincia es la mayor productora de aceite de oliva del mundo?",
+    "category": "Gastronomía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Sevilla",
+        "is_correct": false
+      },
+      {
+        "text": "Córdoba",
+        "is_correct": false
+      },
+      {
+        "text": "Jaén",
+        "is_correct": true
+      },
+      {
+        "text": "Granada",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué dulce navideño es típico de Estepa (Sevilla)?",
+    "category": "Gastronomía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Los panellets",
+        "is_correct": false
+      },
+      {
+        "text": "Los polvorones",
+        "is_correct": true
+      },
+      {
+        "text": "El turrón",
+        "is_correct": false
+      },
+      {
+        "text": "El roscón",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cómo se llaman las sardinas ensartadas en caña y asadas en la playa de Málaga?",
+    "category": "Gastronomía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Espeto",
+        "is_correct": true
+      },
+      {
+        "text": "Pincho",
+        "is_correct": false
+      },
+      {
+        "text": "Brocheta",
+        "is_correct": false
+      },
+      {
+        "text": "Moraga",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué fritura típica de Cádiz se hace con camarones?",
+    "category": "Gastronomía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Pescaíto frito",
+        "is_correct": false
+      },
+      {
+        "text": "Boquerones al limón",
+        "is_correct": false
+      },
+      {
+        "text": "Tortillitas de camarones",
+        "is_correct": true
+      },
+      {
+        "text": "Croquetas",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué plato cordobés es un filete de cerdo enrollado con jamón, empanado y frito?",
+    "category": "Gastronomía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Flamenquín",
+        "is_correct": true
+      },
+      {
+        "text": "Pringá",
+        "is_correct": false
+      },
+      {
+        "text": "San Jacobo",
+        "is_correct": false
+      },
+      {
+        "text": "Cachopo",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué marisco es especialmente típico de Huelva?",
+    "category": "Gastronomía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "La cigala",
+        "is_correct": false
+      },
+      {
+        "text": "El carabinero",
+        "is_correct": false
+      },
+      {
+        "text": "La gamba blanca",
+        "is_correct": true
+      },
+      {
+        "text": "La gamba roja",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cómo se llama el dulce andaluz de masa frita con anís y bañada en miel?",
+    "category": "Gastronomía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Rosquillas",
+        "is_correct": false
+      },
+      {
+        "text": "Churros",
+        "is_correct": false
+      },
+      {
+        "text": "Pestiños",
+        "is_correct": true
+      },
+      {
+        "text": "Buñuelos",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué pueblo de la Alpujarra granadina es famoso por su jamón curado en altura?",
+    "category": "Gastronomía",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Guijuelo",
+        "is_correct": false
+      },
+      {
+        "text": "Trevélez",
+        "is_correct": true
+      },
+      {
+        "text": "Montánchez",
+        "is_correct": false
+      },
+      {
+        "text": "Jabugo",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿De qué comunidad es originaria la paella?",
+    "category": "Gastronomía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Murcia",
+        "is_correct": false
+      },
+      {
+        "text": "Comunidad Valenciana",
+        "is_correct": true
+      },
+      {
+        "text": "Cataluña",
+        "is_correct": false
+      },
+      {
+        "text": "Andalucía",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué cantaor de San Fernando (Cádiz) revolucionó el flamenco?",
+    "category": "Entretenimiento",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Enrique Morente",
+        "is_correct": false
+      },
+      {
+        "text": "Camarón de la Isla",
+        "is_correct": true
+      },
+      {
+        "text": "José Mercé",
+        "is_correct": false
+      },
+      {
+        "text": "Antonio Mairena",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué guitarrista flamenco de Algeciras es conocido en todo el mundo?",
+    "category": "Entretenimiento",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Paco Peña",
+        "is_correct": false
+      },
+      {
+        "text": "Paco de Lucía",
+        "is_correct": true
+      },
+      {
+        "text": "Tomatito",
+        "is_correct": false
+      },
+      {
+        "text": "Vicente Amigo",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué pueblo gaditano nació Rocío Jurado?",
+    "category": "Entretenimiento",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Chipiona",
+        "is_correct": true
+      },
+      {
+        "text": "Conil",
+        "is_correct": false
+      },
+      {
+        "text": "Rota",
+        "is_correct": false
+      },
+      {
+        "text": "Barbate",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué dúo andaluz hizo famosa la «Macarena» en todo el mundo?",
+    "category": "Entretenimiento",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Siempre Así",
+        "is_correct": false
+      },
+      {
+        "text": "Los del Río",
+        "is_correct": true
+      },
+      {
+        "text": "Los Chunguitos",
+        "is_correct": false
+      },
+      {
+        "text": "Estopa",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué monumento sevillano aparece como los Jardines del Agua de Dorne en «Juego de Tronos»?",
+    "category": "Entretenimiento",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "El Real Alcázar",
+        "is_correct": true
+      },
+      {
+        "text": "La Torre del Oro",
+        "is_correct": false
+      },
+      {
+        "text": "La Giralda",
+        "is_correct": false
+      },
+      {
+        "text": "La Plaza de España",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué plaza sevillana sale en «Star Wars: Episodio II»?",
+    "category": "Entretenimiento",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "La Plaza del Salvador",
+        "is_correct": false
+      },
+      {
+        "text": "La Plaza Nueva",
+        "is_correct": false
+      },
+      {
+        "text": "La Plaza de España",
+        "is_correct": true
+      },
+      {
+        "text": "La Alameda de Hércules",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿De qué ciudad es el cantante Pablo Alborán?",
+    "category": "Entretenimiento",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Málaga",
+        "is_correct": true
+      },
+      {
+        "text": "Sevilla",
+        "is_correct": false
+      },
+      {
+        "text": "Granada",
+        "is_correct": false
+      },
+      {
+        "text": "Madrid",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué actor malagueño protagonizó «La máscara del Zorro»?",
+    "category": "Entretenimiento",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Javier Bardem",
+        "is_correct": false
+      },
+      {
+        "text": "Antonio de la Torre",
+        "is_correct": false
+      },
+      {
+        "text": "Antonio Banderas",
+        "is_correct": true
+      },
+      {
+        "text": "Dani Rovira",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué disco de Rosalía de 2018 está muy inspirado en el flamenco?",
+    "category": "Entretenimiento",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Motomami",
+        "is_correct": false
+      },
+      {
+        "text": "El mal querer",
+        "is_correct": true
+      },
+      {
+        "text": "Lux",
+        "is_correct": false
+      },
+      {
+        "text": "Los Ángeles",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué grupo sevillano de los años 70 fue pionero del rock andaluz?",
+    "category": "Entretenimiento",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Héroes del Silencio",
+        "is_correct": false
+      },
+      {
+        "text": "Triana",
+        "is_correct": true
+      },
+      {
+        "text": "Barón Rojo",
+        "is_correct": false
+      },
+      {
+        "text": "Mecano",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué ciudad nació Lola Flores?",
+    "category": "Entretenimiento",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Málaga",
+        "is_correct": false
+      },
+      {
+        "text": "Jerez de la Frontera",
+        "is_correct": true
+      },
+      {
+        "text": "Cádiz",
+        "is_correct": false
+      },
+      {
+        "text": "Sevilla",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué mítico concurso de TVE tenía como mascota a la calabaza Ruperta?",
+    "category": "Entretenimiento",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Un, dos, tres... responda otra vez",
+        "is_correct": true
+      },
+      {
+        "text": "Pasapalabra",
+        "is_correct": false
+      },
+      {
+        "text": "Cifras y letras",
+        "is_correct": false
+      },
+      {
+        "text": "El precio justo",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué humorista malagueño popularizó expresiones como «fistro» o «pecador de la pradera»?",
+    "category": "Entretenimiento",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Paco Gandía",
+        "is_correct": false
+      },
+      {
+        "text": "Los Morancos",
+        "is_correct": false
+      },
+      {
+        "text": "Manolo Sarria",
+        "is_correct": false
+      },
+      {
+        "text": "Chiquito de la Calzada",
+        "is_correct": true
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué grupo cordobés de rock andaluz lleva el nombre de una ciudad califal?",
+    "category": "Entretenimiento",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Triana",
+        "is_correct": false
+      },
+      {
+        "text": "Alhambra",
+        "is_correct": false
+      },
+      {
+        "text": "Al-Andalus",
+        "is_correct": false
+      },
+      {
+        "text": "Medina Azahara",
+        "is_correct": true
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué paraje andaluz está ambientada la película «La isla mínima» (2014)?",
+    "category": "Entretenimiento",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Las marismas del Guadalquivir",
+        "is_correct": true
+      },
+      {
+        "text": "El Cabo de Gata",
+        "is_correct": false
+      },
+      {
+        "text": "La Alpujarra",
+        "is_correct": false
+      },
+      {
+        "text": "Sierra Nevada",
+        "is_correct": false
+      }
+    ],
+    "origin": "local",
+    "source": "Redacción propia (Claude)"
+  }
+]
