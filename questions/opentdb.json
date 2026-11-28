@@ -1,0 +1,8304 @@
+[
+  {
+    "text": "¿Cuál es la capital de Eslovaquia?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Sofía",
+        "is_correct": false
+      },
+      {
+        "text": "Bratislava",
+        "is_correct": true
+      },
+      {
+        "text": "Liubliana",
+        "is_correct": false
+      },
+      {
+        "text": "Sarajevo",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué dos países une el paso de montaña de Jaiber?",
+    "category": "Geografía",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "India y Nepal",
+        "is_correct": false
+      },
+      {
+        "text": "Pakistán e India",
+        "is_correct": false
+      },
+      {
+        "text": "Afganistán y Pakistán",
+        "is_correct": true
+      },
+      {
+        "text": "Tayikistán y Kirguistán",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿En qué continente está Gambia?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Sudamérica",
+        "is_correct": false
+      },
+      {
+        "text": "Europa",
+        "is_correct": false
+      },
+      {
+        "text": "África",
+        "is_correct": true
+      },
+      {
+        "text": "Asia",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué país africano tiene un fusil en su bandera?",
+    "category": "Geografía",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Uganda",
+        "is_correct": false
+      },
+      {
+        "text": "Etiopía",
+        "is_correct": false
+      },
+      {
+        "text": "Nigeria",
+        "is_correct": false
+      },
+      {
+        "text": "Mozambique",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué lengua europea se considera una «lengua aislada», sin parientes conocidos?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "El húngaro",
+        "is_correct": false
+      },
+      {
+        "text": "El gallego",
+        "is_correct": false
+      },
+      {
+        "text": "El maltés",
+        "is_correct": false
+      },
+      {
+        "text": "El euskera",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál de estos países insulares está en el Caribe?",
+    "category": "Geografía",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Fiyi",
+        "is_correct": false
+      },
+      {
+        "text": "Seychelles",
+        "is_correct": false
+      },
+      {
+        "text": "Barbados",
+        "is_correct": true
+      },
+      {
+        "text": "Maldivas",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Con qué país comparte Francia su frontera terrestre más larga?",
+    "category": "Geografía",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Bélgica",
+        "is_correct": false
+      },
+      {
+        "text": "Alemania",
+        "is_correct": false
+      },
+      {
+        "text": "Brasil",
+        "is_correct": true
+      },
+      {
+        "text": "España",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué país del Reino Unido tiene un dragón en su bandera?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Escocia",
+        "is_correct": false
+      },
+      {
+        "text": "Gales",
+        "is_correct": true
+      },
+      {
+        "text": "Irlanda del Norte",
+        "is_correct": false
+      },
+      {
+        "text": "Inglaterra",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál es el lago de agua dulce con más volumen de agua?",
+    "category": "Geografía",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Hurón",
+        "is_correct": false
+      },
+      {
+        "text": "Superior",
+        "is_correct": false
+      },
+      {
+        "text": "Baikal",
+        "is_correct": true
+      },
+      {
+        "text": "Míchigan",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál de estas islas del Mediterráneo pertenece a Francia?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Córcega",
+        "is_correct": true
+      },
+      {
+        "text": "Mallorca",
+        "is_correct": false
+      },
+      {
+        "text": "Malta",
+        "is_correct": false
+      },
+      {
+        "text": "Cerdeña",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál es el continente más grande y más poblado?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Europa",
+        "is_correct": false
+      },
+      {
+        "text": "América del Norte",
+        "is_correct": false
+      },
+      {
+        "text": "África",
+        "is_correct": false
+      },
+      {
+        "text": "Asia",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué país tiene en su bandera un león amarillo con una espada sobre fondo granate?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Escocia",
+        "is_correct": false
+      },
+      {
+        "text": "Bután",
+        "is_correct": false
+      },
+      {
+        "text": "Kiribati",
+        "is_correct": false
+      },
+      {
+        "text": "Sri Lanka",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Frente a la costa de qué país está la micronación no reconocida de Sealand?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Australia",
+        "is_correct": false
+      },
+      {
+        "text": "Argentina",
+        "is_correct": false
+      },
+      {
+        "text": "Reino Unido",
+        "is_correct": true
+      },
+      {
+        "text": "Japón",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿A qué país pertenece el atolón de Bikini?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Fiyi",
+        "is_correct": false
+      },
+      {
+        "text": "Islas Marshall",
+        "is_correct": true
+      },
+      {
+        "text": "Kiribati",
+        "is_correct": false
+      },
+      {
+        "text": "Bahamas",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué ciudad polaca llamaban Danzig los alemanes?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Zakopane",
+        "is_correct": false
+      },
+      {
+        "text": "Varsovia",
+        "is_correct": false
+      },
+      {
+        "text": "Gdansk",
+        "is_correct": true
+      },
+      {
+        "text": "Poznan",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál es la ciudad más grande y capital comercial de Sri Lanka?",
+    "category": "Geografía",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Colombo",
+        "is_correct": true
+      },
+      {
+        "text": "Kandy",
+        "is_correct": false
+      },
+      {
+        "text": "Moratuwa",
+        "is_correct": false
+      },
+      {
+        "text": "Negombo",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cómo se llama la península que ocupa la mayor parte de la actual Turquía?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Levante",
+        "is_correct": false
+      },
+      {
+        "text": "Mesopotamia",
+        "is_correct": false
+      },
+      {
+        "text": "Anatolia",
+        "is_correct": true
+      },
+      {
+        "text": "Tracia",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál es la capital de Groenlandia?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Sisimiut",
+        "is_correct": false
+      },
+      {
+        "text": "Nuuk",
+        "is_correct": true
+      },
+      {
+        "text": "Maniitsoq",
+        "is_correct": false
+      },
+      {
+        "text": "Narsaq",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál de estas ciudades NO está en Inglaterra?",
+    "category": "Geografía",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Southampton",
+        "is_correct": false
+      },
+      {
+        "text": "Mánchester",
+        "is_correct": false
+      },
+      {
+        "text": "Edimburgo",
+        "is_correct": true
+      },
+      {
+        "text": "Oxford",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál es la capital de Seychelles?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Yamena",
+        "is_correct": false
+      },
+      {
+        "text": "Luanda",
+        "is_correct": false
+      },
+      {
+        "text": "Trípoli",
+        "is_correct": false
+      },
+      {
+        "text": "Victoria",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿En qué ciudad india está el Taj Mahal?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Thane",
+        "is_correct": false
+      },
+      {
+        "text": "Bombay",
+        "is_correct": false
+      },
+      {
+        "text": "Faridabad",
+        "is_correct": false
+      },
+      {
+        "text": "Agra",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál es la capital de Laos?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Tarawa",
+        "is_correct": false
+      },
+      {
+        "text": "Vientián",
+        "is_correct": true
+      },
+      {
+        "text": "Vaduz",
+        "is_correct": false
+      },
+      {
+        "text": "Tegucigalpa",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué país se llama Aotearoa en maorí?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Australia",
+        "is_correct": false
+      },
+      {
+        "text": "Nueva Zelanda",
+        "is_correct": true
+      },
+      {
+        "text": "Nueva Caledonia",
+        "is_correct": false
+      },
+      {
+        "text": "Islas Salomón",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál es la capital de Rumanía?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Budapest",
+        "is_correct": false
+      },
+      {
+        "text": "Bucarest",
+        "is_correct": true
+      },
+      {
+        "text": "Belgrado",
+        "is_correct": false
+      },
+      {
+        "text": "Bratislava",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿En qué país africano es el portugués la lengua oficial?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Gabón",
+        "is_correct": false
+      },
+      {
+        "text": "Botsuana",
+        "is_correct": false
+      },
+      {
+        "text": "Mozambique",
+        "is_correct": true
+      },
+      {
+        "text": "Togo",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué país NO formó parte de la Unión Soviética?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Tayikistán",
+        "is_correct": false
+      },
+      {
+        "text": "Rumanía",
+        "is_correct": true
+      },
+      {
+        "text": "Turkmenistán",
+        "is_correct": false
+      },
+      {
+        "text": "Bielorrusia",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿En qué país está el río Taedong?",
+    "category": "Geografía",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Corea del Sur",
+        "is_correct": false
+      },
+      {
+        "text": "China",
+        "is_correct": false
+      },
+      {
+        "text": "Japón",
+        "is_correct": false
+      },
+      {
+        "text": "Corea del Norte",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál de estas islas NO pertenece a Filipinas?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Java",
+        "is_correct": true
+      },
+      {
+        "text": "Luzón",
+        "is_correct": false
+      },
+      {
+        "text": "Mindanao",
+        "is_correct": false
+      },
+      {
+        "text": "Palawan",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál es la capital de Estonia?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Tallin",
+        "is_correct": true
+      },
+      {
+        "text": "Tartu",
+        "is_correct": false
+      },
+      {
+        "text": "Riga",
+        "is_correct": false
+      },
+      {
+        "text": "Helsinki",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿A qué reino pertenece Groenlandia?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Reino Unido",
+        "is_correct": false
+      },
+      {
+        "text": "Suecia",
+        "is_correct": false
+      },
+      {
+        "text": "Noruega",
+        "is_correct": false
+      },
+      {
+        "text": "Dinamarca",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál es el país más grande con un solo huso horario?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "China",
+        "is_correct": true
+      },
+      {
+        "text": "Canadá",
+        "is_correct": false
+      },
+      {
+        "text": "India",
+        "is_correct": false
+      },
+      {
+        "text": "Rusia",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué islas se disputan Japón y Rusia?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Las Spratly",
+        "is_correct": false
+      },
+      {
+        "text": "Las Paracelso",
+        "is_correct": false
+      },
+      {
+        "text": "Las Kuriles",
+        "is_correct": true
+      },
+      {
+        "text": "Las Chagos",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál es la capital de Surinam?",
+    "category": "Geografía",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Antananarivo",
+        "is_correct": false
+      },
+      {
+        "text": "Sucre",
+        "is_correct": false
+      },
+      {
+        "text": "Tegucigalpa",
+        "is_correct": false
+      },
+      {
+        "text": "Paramaribo",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué ciudad europea tiene más kilómetros de canales?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Venecia",
+        "is_correct": false
+      },
+      {
+        "text": "Berlín",
+        "is_correct": false
+      },
+      {
+        "text": "Ámsterdam",
+        "is_correct": false
+      },
+      {
+        "text": "Birmingham",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español",
+    "needs_review": true
+  },
+  {
+    "text": "¿Cuál de estos países es una isla?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Yibuti",
+        "is_correct": false
+      },
+      {
+        "text": "Azerbaiyán",
+        "is_correct": false
+      },
+      {
+        "text": "Chipre",
+        "is_correct": true
+      },
+      {
+        "text": "El Salvador",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál es el país con más población musulmana del mundo?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Indonesia",
+        "is_correct": true
+      },
+      {
+        "text": "Pakistán",
+        "is_correct": false
+      },
+      {
+        "text": "Arabia Saudí",
+        "is_correct": false
+      },
+      {
+        "text": "Irán",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál es el quinto país más grande del mundo por superficie?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Estados Unidos",
+        "is_correct": false
+      },
+      {
+        "text": "Brasil",
+        "is_correct": true
+      },
+      {
+        "text": "India",
+        "is_correct": false
+      },
+      {
+        "text": "Australia",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál es la capital de Chile?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Santiago",
+        "is_correct": true
+      },
+      {
+        "text": "Copiapó",
+        "is_correct": false
+      },
+      {
+        "text": "Valparaíso",
+        "is_correct": false
+      },
+      {
+        "text": "Antofagasta",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿En qué isla canaria chocaron dos jumbos en 1977, en uno de los peores accidentes aéreos de la historia?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Lanzarote",
+        "is_correct": false
+      },
+      {
+        "text": "Fuerteventura",
+        "is_correct": false
+      },
+      {
+        "text": "Tenerife",
+        "is_correct": true
+      },
+      {
+        "text": "Gran Canaria",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué región rusa hace frontera con Polonia?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Samara",
+        "is_correct": false
+      },
+      {
+        "text": "Omsk",
+        "is_correct": false
+      },
+      {
+        "text": "Nizhni Nóvgorod",
+        "is_correct": false
+      },
+      {
+        "text": "Kaliningrado",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál es la capital de Corea del Sur?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Seúl",
+        "is_correct": true
+      },
+      {
+        "text": "Pionyang",
+        "is_correct": false
+      },
+      {
+        "text": "Busan",
+        "is_correct": false
+      },
+      {
+        "text": "Daegu",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cómo se llamaba antes Zimbabue?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Zambia",
+        "is_correct": false
+      },
+      {
+        "text": "Rodesia",
+        "is_correct": true
+      },
+      {
+        "text": "Bechuanalandia",
+        "is_correct": false
+      },
+      {
+        "text": "Nyasalandia",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál es la segunda ciudad más grande de Lituania?",
+    "category": "Geografía",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Kaunas",
+        "is_correct": true
+      },
+      {
+        "text": "Panevėžys",
+        "is_correct": false
+      },
+      {
+        "text": "Klaipėda",
+        "is_correct": false
+      },
+      {
+        "text": "Vilna",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál es el segundo país más grande del mundo por superficie?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Canadá",
+        "is_correct": true
+      },
+      {
+        "text": "Rusia",
+        "is_correct": false
+      },
+      {
+        "text": "China",
+        "is_correct": false
+      },
+      {
+        "text": "Estados Unidos",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál es la capital de Escocia?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Edimburgo",
+        "is_correct": true
+      },
+      {
+        "text": "Dundee",
+        "is_correct": false
+      },
+      {
+        "text": "Glasgow",
+        "is_correct": false
+      },
+      {
+        "text": "Aberdeen",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿A qué nacionalidad se refiere el prefijo «sino-», como en «sino-soviético»?",
+    "category": "Geografía",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Japonesa",
+        "is_correct": false
+      },
+      {
+        "text": "China",
+        "is_correct": true
+      },
+      {
+        "text": "Rusa",
+        "is_correct": false
+      },
+      {
+        "text": "India",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué país está completamente rodeado por Sudáfrica?",
+    "category": "Geografía",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Esuatini",
+        "is_correct": false
+      },
+      {
+        "text": "Zimbabue",
+        "is_correct": false
+      },
+      {
+        "text": "Botsuana",
+        "is_correct": false
+      },
+      {
+        "text": "Lesoto",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿En qué país africano está el canal de Suez?",
+    "category": "Geografía",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Libia",
+        "is_correct": false
+      },
+      {
+        "text": "Ghana",
+        "is_correct": false
+      },
+      {
+        "text": "Egipto",
+        "is_correct": true
+      },
+      {
+        "text": "Nigeria",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿De qué país fue dictador Pol Pot?",
+    "category": "Historia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Laos",
+        "is_correct": false
+      },
+      {
+        "text": "Vietnam",
+        "is_correct": false
+      },
+      {
+        "text": "Camboya",
+        "is_correct": true
+      },
+      {
+        "text": "Corea del Norte",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿A qué casa real pertenecía Enrique VIII de Inglaterra?",
+    "category": "Historia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Tudor",
+        "is_correct": true
+      },
+      {
+        "text": "Lancaster",
+        "is_correct": false
+      },
+      {
+        "text": "York",
+        "is_correct": false
+      },
+      {
+        "text": "Estuardo",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué fusil de asalto soviético de 1947 se sigue usando mucho hoy?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "AK-47",
+        "is_correct": true
+      },
+      {
+        "text": "MG 42",
+        "is_correct": false
+      },
+      {
+        "text": "RPK",
+        "is_correct": false
+      },
+      {
+        "text": "M16",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿En qué país actual se cultivó originalmente la patata?",
+    "category": "Historia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Estados Unidos",
+        "is_correct": false
+      },
+      {
+        "text": "México",
+        "is_correct": false
+      },
+      {
+        "text": "Irlanda",
+        "is_correct": false
+      },
+      {
+        "text": "Perú",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuántos años duró la Segunda Guerra Mundial?",
+    "category": "Historia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "7 años",
+        "is_correct": false
+      },
+      {
+        "text": "6 años",
+        "is_correct": true
+      },
+      {
+        "text": "4 años",
+        "is_correct": false
+      },
+      {
+        "text": "5 años",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Contra qué país luchó la República Neerlandesa en la guerra de los Ochenta Años?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Portugal",
+        "is_correct": false
+      },
+      {
+        "text": "España",
+        "is_correct": true
+      },
+      {
+        "text": "Inglaterra",
+        "is_correct": false
+      },
+      {
+        "text": "Francia",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Quién era primer ministro británico al estallar la Segunda Guerra Mundial en 1939?",
+    "category": "Historia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Neville Chamberlain",
+        "is_correct": true
+      },
+      {
+        "text": "Winston Churchill",
+        "is_correct": false
+      },
+      {
+        "text": "Ramsay MacDonald",
+        "is_correct": false
+      },
+      {
+        "text": "Stanley Baldwin",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál de estos reyes NO pertenecía a la dinastía de los Habsburgo?",
+    "category": "Historia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Francisco José",
+        "is_correct": false
+      },
+      {
+        "text": "Felipe V",
+        "is_correct": true
+      },
+      {
+        "text": "Felipe II",
+        "is_correct": false
+      },
+      {
+        "text": "Carlos V",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Contra qué rey inglés iba la fallida Conspiración de la Pólvora?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Carlos II",
+        "is_correct": false
+      },
+      {
+        "text": "Isabel I",
+        "is_correct": false
+      },
+      {
+        "text": "Jacobo I",
+        "is_correct": true
+      },
+      {
+        "text": "Carlos I",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cómo se llama el intercambio de enfermedades, cultivos y personas entre América y Europa tras 1492?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Ruta de la Seda",
+        "is_correct": false
+      },
+      {
+        "text": "Comercio triangular",
+        "is_correct": false
+      },
+      {
+        "text": "Intercambio colombino",
+        "is_correct": true
+      },
+      {
+        "text": "Trata atlántica",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿En qué año empezó la Primera Guerra Mundial?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "1917",
+        "is_correct": false
+      },
+      {
+        "text": "1939",
+        "is_correct": false
+      },
+      {
+        "text": "1930",
+        "is_correct": false
+      },
+      {
+        "text": "1914",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuáles fueron los primeros estados en separarse de Yugoslavia?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Montenegro y Eslovenia",
+        "is_correct": false
+      },
+      {
+        "text": "Macedonia y Montenegro",
+        "is_correct": false
+      },
+      {
+        "text": "Eslovenia y Croacia",
+        "is_correct": true
+      },
+      {
+        "text": "Eslovenia y Macedonia",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál fue la moneda oficial de Alemania hasta 2002?",
+    "category": "Historia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "El marco",
+        "is_correct": true
+      },
+      {
+        "text": "El franco",
+        "is_correct": false
+      },
+      {
+        "text": "La libra",
+        "is_correct": false
+      },
+      {
+        "text": "El chelín",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿A qué mariscal alemán llamaban «el Zorro del Desierto»?",
+    "category": "Historia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Ernst Busch",
+        "is_correct": false
+      },
+      {
+        "text": "Erwin Rommel",
+        "is_correct": true
+      },
+      {
+        "text": "Wolfram von Richthofen",
+        "is_correct": false
+      },
+      {
+        "text": "Wilhelm List",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué presidente de Estados Unidos ganó cuatro elecciones?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Theodore Roosevelt",
+        "is_correct": false
+      },
+      {
+        "text": "Abraham Lincoln",
+        "is_correct": false
+      },
+      {
+        "text": "George Washington",
+        "is_correct": false
+      },
+      {
+        "text": "Franklin D. Roosevelt",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál era el nombre original de Nueva York?",
+    "category": "Historia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Nuevo París",
+        "is_correct": false
+      },
+      {
+        "text": "Nueva Roma",
+        "is_correct": false
+      },
+      {
+        "text": "Nueva Ámsterdam",
+        "is_correct": true
+      },
+      {
+        "text": "Nuevo Londres",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué número representa la letra «D» en números romanos?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "500",
+        "is_correct": true
+      },
+      {
+        "text": "50",
+        "is_correct": false
+      },
+      {
+        "text": "100",
+        "is_correct": false
+      },
+      {
+        "text": "1000",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué arquitecto diseñó la Casa de la Cascada (Fallingwater)?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Antoni Gaudí",
+        "is_correct": false
+      },
+      {
+        "text": "Frank Gehry",
+        "is_correct": false
+      },
+      {
+        "text": "Frank Lloyd Wright",
+        "is_correct": true
+      },
+      {
+        "text": "Le Corbusier",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué revolucionario soviético fue expulsado de la URSS y asesinado en 1940 por criticar a Stalin?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Vladimir Lenin",
+        "is_correct": false
+      },
+      {
+        "text": "Lev Kámenev",
+        "is_correct": false
+      },
+      {
+        "text": "León Trotski",
+        "is_correct": true
+      },
+      {
+        "text": "Mijaíl Kalinin",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué día del calendario romano son los idus de marzo?",
+    "category": "Historia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "1 de marzo",
+        "is_correct": false
+      },
+      {
+        "text": "15 de marzo",
+        "is_correct": true
+      },
+      {
+        "text": "14 de marzo",
+        "is_correct": false
+      },
+      {
+        "text": "31 de marzo",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Quién impulsó la construcción del canal de Suez?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Isambard Brunel",
+        "is_correct": false
+      },
+      {
+        "text": "Gustave Eiffel",
+        "is_correct": false
+      },
+      {
+        "text": "Georges-Eugène Haussmann",
+        "is_correct": false
+      },
+      {
+        "text": "Ferdinand de Lesseps",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿En qué año se disolvió la Unión Soviética?",
+    "category": "Historia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "1990",
+        "is_correct": false
+      },
+      {
+        "text": "1992",
+        "is_correct": false
+      },
+      {
+        "text": "1991",
+        "is_correct": true
+      },
+      {
+        "text": "1989",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cómo fue ejecutado Sócrates?",
+    "category": "Historia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Con veneno (cicuta)",
+        "is_correct": true
+      },
+      {
+        "text": "Decapitado",
+        "is_correct": false
+      },
+      {
+        "text": "Lapidado",
+        "is_correct": false
+      },
+      {
+        "text": "Crucificado",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál de estos países NO formó parte de las Potencias Centrales en la Primera Guerra Mundial?",
+    "category": "Historia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Austria-Hungría",
+        "is_correct": false
+      },
+      {
+        "text": "Imperio otomano",
+        "is_correct": false
+      },
+      {
+        "text": "Alemania",
+        "is_correct": false
+      },
+      {
+        "text": "España",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿En qué año conquistó Inglaterra Guillermo el Conquistador?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "1066",
+        "is_correct": true
+      },
+      {
+        "text": "1123",
+        "is_correct": false
+      },
+      {
+        "text": "1205",
+        "is_correct": false
+      },
+      {
+        "text": "901",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿En qué país actual nació Stalin?",
+    "category": "Historia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Rusia",
+        "is_correct": false
+      },
+      {
+        "text": "Polonia",
+        "is_correct": false
+      },
+      {
+        "text": "Ucrania",
+        "is_correct": false
+      },
+      {
+        "text": "Georgia",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál era el nombre original de Napoleón Bonaparte?",
+    "category": "Historia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Napoleona de Buenoparte",
+        "is_correct": false
+      },
+      {
+        "text": "Napoleone di Buonaparte",
+        "is_correct": true
+      },
+      {
+        "text": "Napoleão do Boaparte",
+        "is_correct": false
+      },
+      {
+        "text": "Napoléon de Bonnepart",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿En qué año fue el atentado con gas sarín en el metro de Tokio?",
+    "category": "Historia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "1991",
+        "is_correct": false
+      },
+      {
+        "text": "2011",
+        "is_correct": false
+      },
+      {
+        "text": "1995",
+        "is_correct": true
+      },
+      {
+        "text": "2001",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿En qué año publicó Zamenhof el primer libro sobre el esperanto?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "1897",
+        "is_correct": false
+      },
+      {
+        "text": "1887",
+        "is_correct": true
+      },
+      {
+        "text": "1915",
+        "is_correct": false
+      },
+      {
+        "text": "1905",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Quién fue el último emperador de México?",
+    "category": "Historia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Porfirio Díaz",
+        "is_correct": false
+      },
+      {
+        "text": "Agustín de Iturbide",
+        "is_correct": false
+      },
+      {
+        "text": "Maximiliano de Habsburgo",
+        "is_correct": true
+      },
+      {
+        "text": "Napoleón III",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿En qué país tuvo lugar la batalla del Somme?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Alemania",
+        "is_correct": false
+      },
+      {
+        "text": "Francia",
+        "is_correct": true
+      },
+      {
+        "text": "Italia",
+        "is_correct": false
+      },
+      {
+        "text": "Bélgica",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿De qué religión son textos sagrados los Vedas?",
+    "category": "Historia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Judaísmo",
+        "is_correct": false
+      },
+      {
+        "text": "Islam",
+        "is_correct": false
+      },
+      {
+        "text": "Hinduismo",
+        "is_correct": true
+      },
+      {
+        "text": "Budismo",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿En qué año empezó la guerra de la Independencia española contra Napoleón?",
+    "category": "Historia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "1806",
+        "is_correct": false
+      },
+      {
+        "text": "1810",
+        "is_correct": false
+      },
+      {
+        "text": "1812",
+        "is_correct": false
+      },
+      {
+        "text": "1808",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cómo se conocen las guerras del siglo XV entre las casas de York y Lancaster?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Guerra de las Dos Rosas",
+        "is_correct": true
+      },
+      {
+        "text": "Guerra de los Lirios",
+        "is_correct": false
+      },
+      {
+        "text": "Guerra de los Tulipanes",
+        "is_correct": false
+      },
+      {
+        "text": "Guerra de los Narcisos",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué nombre en clave tuvo el desembarco aliado en el sur de Francia en agosto de 1944?",
+    "category": "Historia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Operación Market Garden",
+        "is_correct": false
+      },
+      {
+        "text": "Operación Torch",
+        "is_correct": false
+      },
+      {
+        "text": "Operación Overlord",
+        "is_correct": false
+      },
+      {
+        "text": "Operación Dragoon",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué país alcanzaron los navegantes portugueses en 1500?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "India",
+        "is_correct": false
+      },
+      {
+        "text": "Mozambique",
+        "is_correct": false
+      },
+      {
+        "text": "Madagascar",
+        "is_correct": false
+      },
+      {
+        "text": "Brasil",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español",
+    "needs_review": true
+  },
+  {
+    "text": "¿A qué época musical pertenece Frédéric Chopin?",
+    "category": "Arte y cultura",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Barroco",
+        "is_correct": false
+      },
+      {
+        "text": "Clasicismo",
+        "is_correct": false
+      },
+      {
+        "text": "Romanticismo",
+        "is_correct": true
+      },
+      {
+        "text": "Renacimiento",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué herbicida químico se lanzó sobre Vietnam durante la guerra?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Cianuro de hidrógeno",
+        "is_correct": false
+      },
+      {
+        "text": "Agente naranja",
+        "is_correct": true
+      },
+      {
+        "text": "Fosgeno",
+        "is_correct": false
+      },
+      {
+        "text": "Gas mostaza",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Por qué ganó Albert Einstein el Premio Nobel en 1921?",
+    "category": "Ciencia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "La dualidad onda-partícula",
+        "is_correct": false
+      },
+      {
+        "text": "La energía del punto cero",
+        "is_correct": false
+      },
+      {
+        "text": "El efecto fotoeléctrico",
+        "is_correct": true
+      },
+      {
+        "text": "La relatividad",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál era la capital de Vietnam del Sur?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Da Nang",
+        "is_correct": false
+      },
+      {
+        "text": "Hué",
+        "is_correct": false
+      },
+      {
+        "text": "Hanói",
+        "is_correct": false
+      },
+      {
+        "text": "Saigón",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué colonia se considera la última gran cesión del Imperio británico, en 1997?",
+    "category": "Historia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Irlanda",
+        "is_correct": false
+      },
+      {
+        "text": "Hong Kong",
+        "is_correct": true
+      },
+      {
+        "text": "India",
+        "is_correct": false
+      },
+      {
+        "text": "Australia",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿En qué año terminó la Gran Guerra del Norte entre Rusia y Suecia?",
+    "category": "Historia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "1727",
+        "is_correct": false
+      },
+      {
+        "text": "1726",
+        "is_correct": false
+      },
+      {
+        "text": "1721",
+        "is_correct": true
+      },
+      {
+        "text": "1724",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué rey británico era conocido como Guillermo de Orange?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Guillermo II",
+        "is_correct": false
+      },
+      {
+        "text": "Guillermo IV",
+        "is_correct": false
+      },
+      {
+        "text": "Guillermo III",
+        "is_correct": true
+      },
+      {
+        "text": "Guillermo I",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué famoso líder apache murió en 1909?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Nube Roja",
+        "is_correct": false
+      },
+      {
+        "text": "Toro Sentado",
+        "is_correct": false
+      },
+      {
+        "text": "Caballo Loco",
+        "is_correct": false
+      },
+      {
+        "text": "Gerónimo",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué conspirador inglés intentó volar el Parlamento en 1605?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Everard Digby",
+        "is_correct": false
+      },
+      {
+        "text": "Guy Fawkes",
+        "is_correct": true
+      },
+      {
+        "text": "Robert Catesby",
+        "is_correct": false
+      },
+      {
+        "text": "Francis Tresham",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿En qué prisión estuvo Hitler en 1924?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Dachau",
+        "is_correct": false
+      },
+      {
+        "text": "Landsberg",
+        "is_correct": true
+      },
+      {
+        "text": "Hohenasperg",
+        "is_correct": false
+      },
+      {
+        "text": "Spandau",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué país del sudeste asiático se llamaba antes Lan Xang?",
+    "category": "Historia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Laos",
+        "is_correct": true
+      },
+      {
+        "text": "Camboya",
+        "is_correct": false
+      },
+      {
+        "text": "Vietnam",
+        "is_correct": false
+      },
+      {
+        "text": "Tailandia",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cómo se llama la capa más baja de la atmósfera?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Estratosfera",
+        "is_correct": false
+      },
+      {
+        "text": "Termosfera",
+        "is_correct": false
+      },
+      {
+        "text": "Mesosfera",
+        "is_correct": false
+      },
+      {
+        "text": "Troposfera",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué término psicológico describe el malestar de mantener creencias contradictorias?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Síndrome del vaivén",
+        "is_correct": false
+      },
+      {
+        "text": "Disonancia cognitiva",
+        "is_correct": true
+      },
+      {
+        "text": "Visión ciega",
+        "is_correct": false
+      },
+      {
+        "text": "Cerebro dividido",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué significan las siglas RCP, la técnica de emergencia ante un paro cardiaco?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Reducción crónica del pulso",
+        "is_correct": false
+      },
+      {
+        "text": "Recuperación cerebral programada",
+        "is_correct": false
+      },
+      {
+        "text": "Reanimación cardiopulmonar",
+        "is_correct": true
+      },
+      {
+        "text": "Respuesta cardiaca primaria",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál de estos es un ejemplo de condicionamiento clásico?",
+    "category": "Ciencia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Los monos de Harlow",
+        "is_correct": false
+      },
+      {
+        "text": "La caja de Skinner",
+        "is_correct": false
+      },
+      {
+        "text": "El gato de Schrödinger",
+        "is_correct": false
+      },
+      {
+        "text": "Los perros de Pavlov",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuántos protones tiene un átomo de oxígeno?",
+    "category": "Ciencia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "8",
+        "is_correct": true
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál es el nombre científico de la rótula?",
+    "category": "Ciencia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Agujero magno",
+        "is_correct": false
+      },
+      {
+        "text": "Escápula",
+        "is_correct": false
+      },
+      {
+        "text": "Patela",
+        "is_correct": true
+      },
+      {
+        "text": "Fémur",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿En qué unidad se mide la dosis de radiación absorbida?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Vatio",
+        "is_correct": false
+      },
+      {
+        "text": "Kelvin",
+        "is_correct": false
+      },
+      {
+        "text": "Decibelio",
+        "is_correct": false
+      },
+      {
+        "text": "Gray",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿En qué parte del cuerpo está la glándula pineal?",
+    "category": "Ciencia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "En la ingle",
+        "is_correct": false
+      },
+      {
+        "text": "En el cerebro",
+        "is_correct": true
+      },
+      {
+        "text": "En la garganta",
+        "is_correct": false
+      },
+      {
+        "text": "En el pecho",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál es la unidad de la inductancia eléctrica?",
+    "category": "Ciencia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Henrio",
+        "is_correct": true
+      },
+      {
+        "text": "Weber",
+        "is_correct": false
+      },
+      {
+        "text": "Culombio",
+        "is_correct": false
+      },
+      {
+        "text": "Siemens",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿En qué constelación está el centro de la Vía Láctea?",
+    "category": "Ciencia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Sagitario",
+        "is_correct": true
+      },
+      {
+        "text": "Ofiuco",
+        "is_correct": false
+      },
+      {
+        "text": "Escorpio",
+        "is_correct": false
+      },
+      {
+        "text": "Capricornio",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuántas lunas tiene la Tierra?",
+    "category": "Ciencia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "1",
+        "is_correct": true
+      },
+      {
+        "text": "0",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué elemento químico tiene el punto de ebullición más bajo?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Helio",
+        "is_correct": true
+      },
+      {
+        "text": "Hidrógeno",
+        "is_correct": false
+      },
+      {
+        "text": "Nitrógeno",
+        "is_correct": false
+      },
+      {
+        "text": "Neón",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál es el primer elemento de la tabla periódica?",
+    "category": "Ciencia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Litio",
+        "is_correct": false
+      },
+      {
+        "text": "Helio",
+        "is_correct": false
+      },
+      {
+        "text": "Oxígeno",
+        "is_correct": false
+      },
+      {
+        "text": "Hidrógeno",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuántas copias de cada gen tienen normalmente las células humanas?",
+    "category": "Ciencia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": true
+      },
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "El científico Tetsuya Fujita creó una escala para medir...",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Terremotos",
+        "is_correct": false
+      },
+      {
+        "text": "Volcanes",
+        "is_correct": false
+      },
+      {
+        "text": "Huracanes",
+        "is_correct": false
+      },
+      {
+        "text": "Tornados",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuántas partículas hay en un mol?",
+    "category": "Ciencia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "6,002 × 10²²",
+        "is_correct": false
+      },
+      {
+        "text": "6,022 × 10²³",
+        "is_correct": true
+      },
+      {
+        "text": "6,002 × 10²³",
+        "is_correct": false
+      },
+      {
+        "text": "6,022 × 10²²",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿En qué fase pasan la mayor parte de su vida las células eucariotas?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Interfase",
+        "is_correct": true
+      },
+      {
+        "text": "Estasis",
+        "is_correct": false
+      },
+      {
+        "text": "Profase",
+        "is_correct": false
+      },
+      {
+        "text": "Telofase",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿A qué órgano afecta principalmente el alzhéimer?",
+    "category": "Ciencia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "A los pulmones",
+        "is_correct": false
+      },
+      {
+        "text": "Al corazón",
+        "is_correct": false
+      },
+      {
+        "text": "Al cerebro",
+        "is_correct": true
+      },
+      {
+        "text": "A la piel",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuántas horas dura aproximadamente un ritmo circadiano?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "24",
+        "is_correct": true
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "32",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿De qué país es originario el perro chihuahua?",
+    "category": "Naturaleza",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "España",
+        "is_correct": false
+      },
+      {
+        "text": "Francia",
+        "is_correct": false
+      },
+      {
+        "text": "México",
+        "is_correct": true
+      },
+      {
+        "text": "Rusia",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Entre qué dos planetas está el cinturón de asteroides?",
+    "category": "Ciencia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Júpiter y Saturno",
+        "is_correct": false
+      },
+      {
+        "text": "Tierra y Marte",
+        "is_correct": false
+      },
+      {
+        "text": "Mercurio y Venus",
+        "is_correct": false
+      },
+      {
+        "text": "Marte y Júpiter",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué elemento se usa normalmente para dopar el silicio de los semiconductores?",
+    "category": "Ciencia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Hierro",
+        "is_correct": false
+      },
+      {
+        "text": "Oxígeno",
+        "is_correct": false
+      },
+      {
+        "text": "Boro",
+        "is_correct": true
+      },
+      {
+        "text": "Carbono",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿A qué especie pertenece el famoso fósil homínido «Lucy»?",
+    "category": "Ciencia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Homo habilis",
+        "is_correct": false
+      },
+      {
+        "text": "Australopithecus africanus",
+        "is_correct": false
+      },
+      {
+        "text": "Homo erectus",
+        "is_correct": false
+      },
+      {
+        "text": "Australopithecus afarensis",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cómo se llama la parte masculina de la flor que produce el polen?",
+    "category": "Naturaleza",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Estambre",
+        "is_correct": true
+      },
+      {
+        "text": "Sépalo",
+        "is_correct": false
+      },
+      {
+        "text": "Pistilo",
+        "is_correct": false
+      },
+      {
+        "text": "Pétalo",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cómo se llama la ilusión auditiva de una nota que parece subir sin fin?",
+    "category": "Ciencia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Efecto McGurk",
+        "is_correct": false
+      },
+      {
+        "text": "Ilusión glissando",
+        "is_correct": false
+      },
+      {
+        "text": "Efecto Fransen",
+        "is_correct": false
+      },
+      {
+        "text": "Tono de Shepard",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "El húmero, el radio y el cúbito forman la articulación del...",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Hombro",
+        "is_correct": false
+      },
+      {
+        "text": "Rodilla",
+        "is_correct": false
+      },
+      {
+        "text": "Codo",
+        "is_correct": true
+      },
+      {
+        "text": "Tobillo",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál de estos componentes electrónicos NO es pasivo?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Resistencia",
+        "is_correct": false
+      },
+      {
+        "text": "Bobina",
+        "is_correct": false
+      },
+      {
+        "text": "Condensador",
+        "is_correct": false
+      },
+      {
+        "text": "Transistor",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál de estos científicos NO tiene un elemento químico con su nombre?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Niels Bohr",
+        "is_correct": false
+      },
+      {
+        "text": "Isaac Newton",
+        "is_correct": true
+      },
+      {
+        "text": "Albert Einstein",
+        "is_correct": false
+      },
+      {
+        "text": "Enrico Fermi",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué unidad científica lleva el nombre de un noble italiano?",
+    "category": "Ciencia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Pascal",
+        "is_correct": false
+      },
+      {
+        "text": "Hercio",
+        "is_correct": false
+      },
+      {
+        "text": "Ohmio",
+        "is_correct": false
+      },
+      {
+        "text": "Voltio",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cómo se llama la capa más externa y fina de la Tierra?",
+    "category": "Ciencia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Corteza",
+        "is_correct": true
+      },
+      {
+        "text": "Manto",
+        "is_correct": false
+      },
+      {
+        "text": "Exosfera",
+        "is_correct": false
+      },
+      {
+        "text": "Núcleo externo",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Quién desarrolló la primera vacuna eficaz contra la polio en los años 50?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Frederick Robbins",
+        "is_correct": false
+      },
+      {
+        "text": "John F. Enders",
+        "is_correct": false
+      },
+      {
+        "text": "Jonas Salk",
+        "is_correct": true
+      },
+      {
+        "text": "Thomas Weller",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿En qué desierto crece de forma natural el cactus saguaro?",
+    "category": "Naturaleza",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Desierto de Sonora",
+        "is_correct": true
+      },
+      {
+        "text": "Desierto de Gobi",
+        "is_correct": false
+      },
+      {
+        "text": "Desierto arábigo",
+        "is_correct": false
+      },
+      {
+        "text": "Desierto de Atacama",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál es la fórmula molecular del ozono?",
+    "category": "Ciencia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "SO₄",
+        "is_correct": false
+      },
+      {
+        "text": "N₂O",
+        "is_correct": false
+      },
+      {
+        "text": "O₃",
+        "is_correct": true
+      },
+      {
+        "text": "O₂",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál es el número atómico del estroncio?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "47",
+        "is_correct": false
+      },
+      {
+        "text": "38",
+        "is_correct": true
+      },
+      {
+        "text": "11",
+        "is_correct": false
+      },
+      {
+        "text": "73",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál de estas estructuras NO forma parte de una neurona?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Célula de Schwann",
+        "is_correct": false
+      },
+      {
+        "text": "Islotes de Langerhans",
+        "is_correct": true
+      },
+      {
+        "text": "Vaina de mielina",
+        "is_correct": false
+      },
+      {
+        "text": "Nodo de Ranvier",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué hay en el centro de nuestra galaxia?",
+    "category": "Ciencia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Un cuásar",
+        "is_correct": false
+      },
+      {
+        "text": "Una supernova",
+        "is_correct": false
+      },
+      {
+        "text": "Un agujero negro",
+        "is_correct": true
+      },
+      {
+        "text": "Un agujero de gusano",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué sustancia da el color verde a las hojas de las plantas?",
+    "category": "Naturaleza",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Melanina",
+        "is_correct": false
+      },
+      {
+        "text": "Hemoglobina",
+        "is_correct": false
+      },
+      {
+        "text": "Caroteno",
+        "is_correct": false
+      },
+      {
+        "text": "Clorofila",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué estudia la entomología?",
+    "category": "Naturaleza",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Los seres humanos",
+        "is_correct": false
+      },
+      {
+        "text": "El cerebro",
+        "is_correct": false
+      },
+      {
+        "text": "Los insectos",
+        "is_correct": true
+      },
+      {
+        "text": "Los peces",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Alrededor de qué planeta giran las lunas Miranda, Ariel, Umbriel, Titania y Oberón?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Neptuno",
+        "is_correct": false
+      },
+      {
+        "text": "Urano",
+        "is_correct": true
+      },
+      {
+        "text": "Júpiter",
+        "is_correct": false
+      },
+      {
+        "text": "Venus",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál de estas enfermedades la causa una bacteria?",
+    "category": "Ciencia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "El sida",
+        "is_correct": false
+      },
+      {
+        "text": "El sarampión",
+        "is_correct": false
+      },
+      {
+        "text": "La gripe",
+        "is_correct": false
+      },
+      {
+        "text": "El cólera",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cómo se llamaba el primer satélite artificial, lanzado por la URSS en 1957?",
+    "category": "Ciencia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Vostok 1",
+        "is_correct": false
+      },
+      {
+        "text": "Sputnik 1",
+        "is_correct": true
+      },
+      {
+        "text": "Soyuz 1",
+        "is_correct": false
+      },
+      {
+        "text": "Voskhod 1",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿A qué se tiene miedo irracional con la coulrofobia?",
+    "category": "Ciencia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "A los túneles",
+        "is_correct": false
+      },
+      {
+        "text": "A las agujas",
+        "is_correct": false
+      },
+      {
+        "text": "A los cementerios",
+        "is_correct": false
+      },
+      {
+        "text": "A los payasos",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál es la toxina más potente que se conoce?",
+    "category": "Ciencia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "El cianuro",
+        "is_correct": false
+      },
+      {
+        "text": "El amianto",
+        "is_correct": false
+      },
+      {
+        "text": "La ricina",
+        "is_correct": false
+      },
+      {
+        "text": "La toxina botulínica",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "El síndrome de Down suele deberse a una copia extra del cromosoma...",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "15",
+        "is_correct": false
+      },
+      {
+        "text": "18",
+        "is_correct": false
+      },
+      {
+        "text": "21",
+        "is_correct": true
+      },
+      {
+        "text": "23",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuántas cavidades tiene el corazón humano?",
+    "category": "Ciencia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": true
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál de estas partículas teóricas aún no se ha observado?",
+    "category": "Ciencia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "El bosón Z",
+        "is_correct": false
+      },
+      {
+        "text": "El gravitón",
+        "is_correct": true
+      },
+      {
+        "text": "El neutrino tau",
+        "is_correct": false
+      },
+      {
+        "text": "El gluon",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué misión Apolo fue la primera en aterrizar en la Luna?",
+    "category": "Ciencia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Apolo 10",
+        "is_correct": false
+      },
+      {
+        "text": "Apolo 11",
+        "is_correct": true
+      },
+      {
+        "text": "Apolo 9",
+        "is_correct": false
+      },
+      {
+        "text": "Apolo 13",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿En honor de quién se llama el elemento curio?",
+    "category": "Ciencia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Marie y Pierre Curie",
+        "is_correct": true
+      },
+      {
+        "text": "El astromóvil Curiosity",
+        "is_correct": false
+      },
+      {
+        "text": "El naturalista Cuvier",
+        "is_correct": false
+      },
+      {
+        "text": "La ciudad de Curitiba",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué luna es la única del sistema solar con una atmósfera densa?",
+    "category": "Ciencia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Europa",
+        "is_correct": false
+      },
+      {
+        "text": "Calisto",
+        "is_correct": false
+      },
+      {
+        "text": "Titán",
+        "is_correct": true
+      },
+      {
+        "text": "Miranda",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué científico hizo el experimento de la lámina de oro que mostró que el átomo es casi todo vacío?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Arquímedes",
+        "is_correct": false
+      },
+      {
+        "text": "Niels Bohr",
+        "is_correct": false
+      },
+      {
+        "text": "J. J. Thomson",
+        "is_correct": false
+      },
+      {
+        "text": "Ernest Rutherford",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué isótopo forma la mayor parte del uranio natural?",
+    "category": "Ciencia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Uranio-235",
+        "is_correct": false
+      },
+      {
+        "text": "Uranio-239",
+        "is_correct": false
+      },
+      {
+        "text": "Uranio-238",
+        "is_correct": true
+      },
+      {
+        "text": "Uranio-233",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿De qué expresión inglesa viene la palabra «láser»?",
+    "category": "Ciencia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Light amplification by stimulated emission of radiation",
+        "is_correct": true
+      },
+      {
+        "text": "Light amplifier by standby energy of radio",
+        "is_correct": false
+      },
+      {
+        "text": "Linear acceleration by supercharged electron rays",
+        "is_correct": false
+      },
+      {
+        "text": "Light analysis by stereo emission of rays",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué significa la «S» de NASA?",
+    "category": "Ciencia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Science (ciencia)",
+        "is_correct": false
+      },
+      {
+        "text": "Society (sociedad)",
+        "is_correct": false
+      },
+      {
+        "text": "Star (estrella)",
+        "is_correct": false
+      },
+      {
+        "text": "Space (espacio)",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuántas leyes de la termodinámica hay?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Cuatro",
+        "is_correct": true
+      },
+      {
+        "text": "Dos",
+        "is_correct": false
+      },
+      {
+        "text": "Tres",
+        "is_correct": false
+      },
+      {
+        "text": "Cinco",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué signo del zodiaco se representa con un cangrejo?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Cáncer",
+        "is_correct": true
+      },
+      {
+        "text": "Libra",
+        "is_correct": false
+      },
+      {
+        "text": "Virgo",
+        "is_correct": false
+      },
+      {
+        "text": "Sagitario",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué bebida alcohólica de patata o cereal es originaria de Polonia y Rusia?",
+    "category": "Gastronomía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Absenta",
+        "is_correct": false
+      },
+      {
+        "text": "Ron",
+        "is_correct": false
+      },
+      {
+        "text": "Sake",
+        "is_correct": false
+      },
+      {
+        "text": "Vodka",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué se expone en el museo Madame Tussauds de Londres?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Ropa de diseño",
+        "is_correct": false
+      },
+      {
+        "text": "Películas inéditas",
+        "is_correct": false
+      },
+      {
+        "text": "Figuras de cera",
+        "is_correct": true
+      },
+      {
+        "text": "Coches antiguos",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué elemento tiene el símbolo químico Kr?",
+    "category": "Ciencia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Cromo",
+        "is_correct": false
+      },
+      {
+        "text": "Curio",
+        "is_correct": false
+      },
+      {
+        "text": "Calcio",
+        "is_correct": false
+      },
+      {
+        "text": "Kriptón",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "En el póker, ¿cómo se llama la mano con un trío y una pareja?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Color",
+        "is_correct": false
+      },
+      {
+        "text": "Escalera",
+        "is_correct": false
+      },
+      {
+        "text": "Carta alta",
+        "is_correct": false
+      },
+      {
+        "text": "Full",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿De qué país es originaria la leyenda de Robin Hood?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Portugal",
+        "is_correct": false
+      },
+      {
+        "text": "Escocia",
+        "is_correct": false
+      },
+      {
+        "text": "Inglaterra",
+        "is_correct": true
+      },
+      {
+        "text": "Francia",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué empresa es dueña de Outlook?",
+    "category": "Tecnología",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Microsoft",
+        "is_correct": true
+      },
+      {
+        "text": "Apple",
+        "is_correct": false
+      },
+      {
+        "text": "Yahoo",
+        "is_correct": false
+      },
+      {
+        "text": "Google",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué planeta NO lleva el nombre de un dios griego o romano?",
+    "category": "Ciencia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Marte",
+        "is_correct": false
+      },
+      {
+        "text": "Mercurio",
+        "is_correct": false
+      },
+      {
+        "text": "La Tierra",
+        "is_correct": true
+      },
+      {
+        "text": "Júpiter",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "Las palabras «bungaló» y «champú» vienen de lenguas de qué país?",
+    "category": "Arte y cultura",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "India",
+        "is_correct": true
+      },
+      {
+        "text": "China",
+        "is_correct": false
+      },
+      {
+        "text": "Papúa Nueva Guinea",
+        "is_correct": false
+      },
+      {
+        "text": "Etiopía",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "Sin contar Japón, ¿qué país tiene más personas de origen japonés?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "China",
+        "is_correct": false
+      },
+      {
+        "text": "Estados Unidos",
+        "is_correct": false
+      },
+      {
+        "text": "Corea del Sur",
+        "is_correct": false
+      },
+      {
+        "text": "Brasil",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué lengua NO es indoeuropea?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "El griego",
+        "is_correct": false
+      },
+      {
+        "text": "El ruso",
+        "is_correct": false
+      },
+      {
+        "text": "El húngaro",
+        "is_correct": true
+      },
+      {
+        "text": "El letón",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuántas estrellas tiene la bandera de la Unión Europea?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "14",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": true
+      },
+      {
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cómo se llama el Año Nuevo judío?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Janucá",
+        "is_correct": false
+      },
+      {
+        "text": "Sucot",
+        "is_correct": false
+      },
+      {
+        "text": "Elul",
+        "is_correct": false
+      },
+      {
+        "text": "Rosh Hashaná",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿En qué ciudad sudamericana nació el cártel de Pablo Escobar?",
+    "category": "Historia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Quito",
+        "is_correct": false
+      },
+      {
+        "text": "Cali",
+        "is_correct": false
+      },
+      {
+        "text": "Bogotá",
+        "is_correct": false
+      },
+      {
+        "text": "Medellín",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué forma geométrica tienen las señales de stop?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Hexágono",
+        "is_correct": false
+      },
+      {
+        "text": "Círculo",
+        "is_correct": false
+      },
+      {
+        "text": "Octógono",
+        "is_correct": true
+      },
+      {
+        "text": "Triángulo",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Quién fue el primer presidente de México?",
+    "category": "Historia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Benito Juárez",
+        "is_correct": false
+      },
+      {
+        "text": "Guadalupe Victoria",
+        "is_correct": true
+      },
+      {
+        "text": "Miguel Hidalgo",
+        "is_correct": false
+      },
+      {
+        "text": "Vicente Guerrero",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "En la baraja francesa, ¿qué rey es el único sin bigote?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "El de tréboles",
+        "is_correct": false
+      },
+      {
+        "text": "El de picas",
+        "is_correct": false
+      },
+      {
+        "text": "El de corazones",
+        "is_correct": true
+      },
+      {
+        "text": "El de diamantes",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué lengua es la más hablada en Suiza?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Francés",
+        "is_correct": false
+      },
+      {
+        "text": "Italiano",
+        "is_correct": false
+      },
+      {
+        "text": "Alemán",
+        "is_correct": true
+      },
+      {
+        "text": "Romanche",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué prohibió el Parlamento de Cataluña en 2010?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Las corridas de toros",
+        "is_correct": true
+      },
+      {
+        "text": "Los castells",
+        "is_correct": false
+      },
+      {
+        "text": "El flamenco",
+        "is_correct": false
+      },
+      {
+        "text": "La pirotecnia",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿En cuál de estos países se conduce por la izquierda?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Japón",
+        "is_correct": true
+      },
+      {
+        "text": "Rusia",
+        "is_correct": false
+      },
+      {
+        "text": "Alemania",
+        "is_correct": false
+      },
+      {
+        "text": "China",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál es la montaña más alta de Europa?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "El Shjara (Georgia)",
+        "is_correct": false
+      },
+      {
+        "text": "El Elbrús (Rusia)",
+        "is_correct": true
+      },
+      {
+        "text": "El Mont Blanc (Francia)",
+        "is_correct": false
+      },
+      {
+        "text": "El Ararat (Turquía)",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué palabra representa la letra T en el alfabeto fonético de la OTAN?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Target",
+        "is_correct": false
+      },
+      {
+        "text": "Taxi",
+        "is_correct": false
+      },
+      {
+        "text": "Turkey",
+        "is_correct": false
+      },
+      {
+        "text": "Tango",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "El malva, que debe su nombre a una flor, es un tono de...",
+    "category": "Arte y cultura",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Marrón",
+        "is_correct": false
+      },
+      {
+        "text": "Rojo",
+        "is_correct": false
+      },
+      {
+        "text": "Rosa",
+        "is_correct": false
+      },
+      {
+        "text": "Morado",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿A qué se tiene miedo con la astrafobia?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "A la nieve",
+        "is_correct": false
+      },
+      {
+        "text": "Al viento",
+        "is_correct": false
+      },
+      {
+        "text": "A la lluvia",
+        "is_correct": false
+      },
+      {
+        "text": "A los truenos y relámpagos",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cómo llaman los marineros a la parte trasera de un barco?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Babor",
+        "is_correct": false
+      },
+      {
+        "text": "Popa",
+        "is_correct": true
+      },
+      {
+        "text": "Estribor",
+        "is_correct": false
+      },
+      {
+        "text": "Proa",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cómo llaman los marineros al lado derecho de un barco?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Babor",
+        "is_correct": false
+      },
+      {
+        "text": "Popa",
+        "is_correct": false
+      },
+      {
+        "text": "Estribor",
+        "is_correct": true
+      },
+      {
+        "text": "Proa",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿A qué se tiene miedo con la tripofobia?",
+    "category": "Ciencia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "A nadar en aguas profundas",
+        "is_correct": false
+      },
+      {
+        "text": "A hablar en público",
+        "is_correct": false
+      },
+      {
+        "text": "A comer demasiado",
+        "is_correct": false
+      },
+      {
+        "text": "A los grupos de agujeros",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Con qué se aromatiza el té Earl Grey?",
+    "category": "Gastronomía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Miel",
+        "is_correct": false
+      },
+      {
+        "text": "Aceite de bergamota",
+        "is_correct": true
+      },
+      {
+        "text": "Lavanda",
+        "is_correct": false
+      },
+      {
+        "text": "Vainilla",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿En qué está especializada la empresa Rolex?",
+    "category": "Tecnología",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Coches",
+        "is_correct": false
+      },
+      {
+        "text": "Relojes",
+        "is_correct": true
+      },
+      {
+        "text": "Ordenadores",
+        "is_correct": false
+      },
+      {
+        "text": "Material deportivo",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿De qué está hecho el haggis escocés tradicional?",
+    "category": "Gastronomía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Carne de ternera picada",
+        "is_correct": false
+      },
+      {
+        "text": "Corazón, riñones y pulmones de oveja",
+        "is_correct": false
+      },
+      {
+        "text": "Hígado, riñones y ojos de oveja",
+        "is_correct": false
+      },
+      {
+        "text": "Corazón, hígado y pulmones de oveja",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál era el destino del vuelo desaparecido MH370?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Kuala Lumpur",
+        "is_correct": false
+      },
+      {
+        "text": "Pekín",
+        "is_correct": true
+      },
+      {
+        "text": "Singapur",
+        "is_correct": false
+      },
+      {
+        "text": "Tokio",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿En qué año se independizó Ghana?",
+    "category": "Historia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "1958",
+        "is_correct": false
+      },
+      {
+        "text": "1960",
+        "is_correct": false
+      },
+      {
+        "text": "1947",
+        "is_correct": false
+      },
+      {
+        "text": "1957",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿En qué año nació Walt Disney?",
+    "category": "Entretenimiento",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "1902",
+        "is_correct": false
+      },
+      {
+        "text": "1901",
+        "is_correct": true
+      },
+      {
+        "text": "1903",
+        "is_correct": false
+      },
+      {
+        "text": "1900",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Por qué trágico suceso se recuerda la temporada 1994 de Fórmula 1?",
+    "category": "Deporte",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "La muerte de Ayrton Senna",
+        "is_correct": true
+      },
+      {
+        "text": "La descalificación de Schumacher",
+        "is_correct": false
+      },
+      {
+        "text": "El duelo final en Australia",
+        "is_correct": false
+      },
+      {
+        "text": "El incendio de Verstappen en boxes",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Quién es el máximo goleador de la historia de la selección inglesa de fútbol?",
+    "category": "Deporte",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "David Beckham",
+        "is_correct": false
+      },
+      {
+        "text": "Wayne Rooney",
+        "is_correct": false
+      },
+      {
+        "text": "Michael Owen",
+        "is_correct": false
+      },
+      {
+        "text": "Harry Kane",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "Antes de 2018, ¿qué marca japonesa era la única que había ganado las 24 Horas de Le Mans?",
+    "category": "Deporte",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Subaru",
+        "is_correct": false
+      },
+      {
+        "text": "Toyota",
+        "is_correct": false
+      },
+      {
+        "text": "Nissan",
+        "is_correct": false
+      },
+      {
+        "text": "Mazda",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuántas Premier League ganó Alex Ferguson con el Manchester United?",
+    "category": "Deporte",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "13",
+        "is_correct": true
+      },
+      {
+        "text": "11",
+        "is_correct": false
+      },
+      {
+        "text": "22",
+        "is_correct": false
+      },
+      {
+        "text": "20",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Quién fue el primer futbolista en marcar 200 goles en la Premier League?",
+    "category": "Deporte",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Alan Shearer",
+        "is_correct": true
+      },
+      {
+        "text": "Wayne Rooney",
+        "is_correct": false
+      },
+      {
+        "text": "Robbie Fowler",
+        "is_correct": false
+      },
+      {
+        "text": "Thierry Henry",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Quién ganó el oro olímpico de tenis de mesa individual masculino en Río 2016?",
+    "category": "Deporte",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Jun Mizutani (Japón)",
+        "is_correct": false
+      },
+      {
+        "text": "Zhang Jike (China)",
+        "is_correct": false
+      },
+      {
+        "text": "Vladimir Samsonov (Bielorrusia)",
+        "is_correct": false
+      },
+      {
+        "text": "Ma Long (China)",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué marca alemana de ropa deportiva tiene como logo la «Formstripe»?",
+    "category": "Deporte",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Puma",
+        "is_correct": true
+      },
+      {
+        "text": "Nike",
+        "is_correct": false
+      },
+      {
+        "text": "Reebok",
+        "is_correct": false
+      },
+      {
+        "text": "Adidas",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Quién ha jugado más partidos con la selección alemana de fútbol?",
+    "category": "Deporte",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Philipp Lahm",
+        "is_correct": false
+      },
+      {
+        "text": "Lothar Matthäus",
+        "is_correct": true
+      },
+      {
+        "text": "Oliver Kahn",
+        "is_correct": false
+      },
+      {
+        "text": "Miroslav Klose",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál de estos clubes ingleses es de Liverpool?",
+    "category": "Deporte",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Arsenal",
+        "is_correct": false
+      },
+      {
+        "text": "Everton",
+        "is_correct": true
+      },
+      {
+        "text": "Crystal Palace",
+        "is_correct": false
+      },
+      {
+        "text": "West Ham United",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué club inglés tiene el apodo de «los Zorros»?",
+    "category": "Deporte",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Northampton Town",
+        "is_correct": false
+      },
+      {
+        "text": "Bradford City",
+        "is_correct": false
+      },
+      {
+        "text": "West Bromwich Albion",
+        "is_correct": false
+      },
+      {
+        "text": "Leicester City",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué deporte se conoce como «el deporte de los reyes»?",
+    "category": "Deporte",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Las justas",
+        "is_correct": false
+      },
+      {
+        "text": "La esgrima",
+        "is_correct": false
+      },
+      {
+        "text": "Las carreras de caballos",
+        "is_correct": true
+      },
+      {
+        "text": "El ajedrez",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿A qué selección ganó Inglaterra en la final del Mundial de 1966?",
+    "category": "Deporte",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Brasil",
+        "is_correct": false
+      },
+      {
+        "text": "Alemania Occidental",
+        "is_correct": true
+      },
+      {
+        "text": "Unión Soviética",
+        "is_correct": false
+      },
+      {
+        "text": "Portugal",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿De qué continente son los clubes que juegan la Liga de Campeones de la UEFA?",
+    "category": "Deporte",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Sudamérica",
+        "is_correct": false
+      },
+      {
+        "text": "África",
+        "is_correct": false
+      },
+      {
+        "text": "Asia",
+        "is_correct": false
+      },
+      {
+        "text": "Europa",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué equipo ganó por sorpresa la Premier League 2015-16?",
+    "category": "Deporte",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Chelsea",
+        "is_correct": false
+      },
+      {
+        "text": "Manchester United",
+        "is_correct": false
+      },
+      {
+        "text": "Liverpool",
+        "is_correct": false
+      },
+      {
+        "text": "Leicester City",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Quién ganó la Liga de Campeones de la UEFA en 2017?",
+    "category": "Deporte",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Juventus",
+        "is_correct": false
+      },
+      {
+        "text": "AS Mónaco",
+        "is_correct": false
+      },
+      {
+        "text": "Atlético de Madrid",
+        "is_correct": false
+      },
+      {
+        "text": "Real Madrid",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Con qué equipo ganó Steven Gerrard la Liga de Campeones?",
+    "category": "Deporte",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Manchester City",
+        "is_correct": false
+      },
+      {
+        "text": "Chelsea",
+        "is_correct": false
+      },
+      {
+        "text": "Real Madrid",
+        "is_correct": false
+      },
+      {
+        "text": "Liverpool",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué equipo inglés tiene el apodo de «los Tigres»?",
+    "category": "Deporte",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Cardiff City",
+        "is_correct": false
+      },
+      {
+        "text": "Bristol City",
+        "is_correct": false
+      },
+      {
+        "text": "Hull City",
+        "is_correct": true
+      },
+      {
+        "text": "Manchester City",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "En 1988 McLaren ganó todas las carreras de F1 menos una. ¿Cuál?",
+    "category": "Deporte",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Gran Premio de Japón",
+        "is_correct": false
+      },
+      {
+        "text": "Gran Premio de Mónaco",
+        "is_correct": false
+      },
+      {
+        "text": "Gran Premio de Brasil",
+        "is_correct": false
+      },
+      {
+        "text": "Gran Premio de Italia",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿De qué equipo inglés es el estadio Stadium of Light?",
+    "category": "Deporte",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Manchester United",
+        "is_correct": false
+      },
+      {
+        "text": "Leeds United",
+        "is_correct": false
+      },
+      {
+        "text": "Newcastle",
+        "is_correct": false
+      },
+      {
+        "text": "Sunderland",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Quién ganó el Mundial de pilotos de Fórmula 1 en 2016?",
+    "category": "Deporte",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Max Verstappen",
+        "is_correct": false
+      },
+      {
+        "text": "Lewis Hamilton",
+        "is_correct": false
+      },
+      {
+        "text": "Kimi Räikkönen",
+        "is_correct": false
+      },
+      {
+        "text": "Nico Rosberg",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué piloto de Fórmula 1 era apodado «el Profesor»?",
+    "category": "Deporte",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Ayrton Senna",
+        "is_correct": false
+      },
+      {
+        "text": "Emerson Fittipaldi",
+        "is_correct": false
+      },
+      {
+        "text": "Niki Lauda",
+        "is_correct": false
+      },
+      {
+        "text": "Alain Prost",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué país organizó el Mundial de fútbol de 2018?",
+    "category": "Deporte",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Rusia",
+        "is_correct": true
+      },
+      {
+        "text": "Alemania",
+        "is_correct": false
+      },
+      {
+        "text": "Estados Unidos",
+        "is_correct": false
+      },
+      {
+        "text": "Catar",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿De qué equipo es el Etihad Stadium?",
+    "category": "Deporte",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Arsenal",
+        "is_correct": false
+      },
+      {
+        "text": "Blackpool",
+        "is_correct": false
+      },
+      {
+        "text": "Manchester United",
+        "is_correct": false
+      },
+      {
+        "text": "Manchester City",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Quién marcó el gol de la victoria en el descuento de la final de la Champions de 1999 entre el Manchester United y el Bayern?",
+    "category": "Deporte",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "David Beckham",
+        "is_correct": false
+      },
+      {
+        "text": "Andy Cole",
+        "is_correct": false
+      },
+      {
+        "text": "Dwight Yorke",
+        "is_correct": false
+      },
+      {
+        "text": "Ole Gunnar Solskjær",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cómo acabó el Brasil-Alemania del Mundial de 2014?",
+    "category": "Deporte",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "2-6",
+        "is_correct": false
+      },
+      {
+        "text": "1-7",
+        "is_correct": true
+      },
+      {
+        "text": "1-6",
+        "is_correct": false
+      },
+      {
+        "text": "1-5",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿De qué están hechas las escamas de las serpientes y de la mayoría de lagartos?",
+    "category": "Naturaleza",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Quitina",
+        "is_correct": false
+      },
+      {
+        "text": "Queratina",
+        "is_correct": true
+      },
+      {
+        "text": "Cartílago",
+        "is_correct": false
+      },
+      {
+        "text": "Calcio",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué raza de perro debe su nombre a una región de Croacia?",
+    "category": "Naturaleza",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Dálmata",
+        "is_correct": true
+      },
+      {
+        "text": "Pomerania",
+        "is_correct": false
+      },
+      {
+        "text": "Pequinés",
+        "is_correct": false
+      },
+      {
+        "text": "Chihuahua",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué tipo de animal es un bonobo?",
+    "category": "Naturaleza",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Un roedor",
+        "is_correct": false
+      },
+      {
+        "text": "Un simio",
+        "is_correct": true
+      },
+      {
+        "text": "Un felino",
+        "is_correct": false
+      },
+      {
+        "text": "Un loro",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál es el nombre científico del guepardo?",
+    "category": "Naturaleza",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Panthera onca",
+        "is_correct": false
+      },
+      {
+        "text": "Acinonyx jubatus",
+        "is_correct": true
+      },
+      {
+        "text": "Felis catus",
+        "is_correct": false
+      },
+      {
+        "text": "Lynx rufus",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué significa «hipopótamo» y de qué idioma viene?",
+    "category": "Naturaleza",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Cerdo gordo (latín)",
+        "is_correct": false
+      },
+      {
+        "text": "Cerdo gordo (griego)",
+        "is_correct": false
+      },
+      {
+        "text": "Caballo de río (latín)",
+        "is_correct": false
+      },
+      {
+        "text": "Caballo de río (griego)",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cómo se conoce popularmente la encefalopatía espongiforme bovina?",
+    "category": "Naturaleza",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Enfermedad de Weil",
+        "is_correct": false
+      },
+      {
+        "text": "Fiebre aftosa",
+        "is_correct": false
+      },
+      {
+        "text": "Fiebre de la leche",
+        "is_correct": false
+      },
+      {
+        "text": "Mal de las vacas locas",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "Un animal carnívoro come carne. ¿Qué come uno nucívoro?",
+    "category": "Naturaleza",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Fruta",
+        "is_correct": false
+      },
+      {
+        "text": "Algas",
+        "is_correct": false
+      },
+      {
+        "text": "Nada",
+        "is_correct": false
+      },
+      {
+        "text": "Frutos secos",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cómo se llama el refugio subterráneo donde vive el conejo?",
+    "category": "Naturaleza",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Cubil",
+        "is_correct": false
+      },
+      {
+        "text": "Colmena",
+        "is_correct": false
+      },
+      {
+        "text": "Nido",
+        "is_correct": false
+      },
+      {
+        "text": "Madriguera",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál es el animal más rápido del mundo?",
+    "category": "Naturaleza",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Tábano",
+        "is_correct": false
+      },
+      {
+        "text": "Guepardo",
+        "is_correct": false
+      },
+      {
+        "text": "Águila real",
+        "is_correct": false
+      },
+      {
+        "text": "Halcón peregrino",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué animal se domesticó en un famoso experimento soviético iniciado en 1959?",
+    "category": "Naturaleza",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "El zorro",
+        "is_correct": true
+      },
+      {
+        "text": "El oso",
+        "is_correct": false
+      },
+      {
+        "text": "La paloma",
+        "is_correct": false
+      },
+      {
+        "text": "El lobo",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿De qué color es la hembra del mirlo común?",
+    "category": "Naturaleza",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Marrón",
+        "is_correct": true
+      },
+      {
+        "text": "Blanca",
+        "is_correct": false
+      },
+      {
+        "text": "Negra",
+        "is_correct": false
+      },
+      {
+        "text": "Amarilla",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Con qué pez se prepara el fugu japonés?",
+    "category": "Gastronomía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Lubina",
+        "is_correct": false
+      },
+      {
+        "text": "Caballa",
+        "is_correct": false
+      },
+      {
+        "text": "Salmón",
+        "is_correct": false
+      },
+      {
+        "text": "Pez globo",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿De qué está hecho el cuerno del rinoceronte?",
+    "category": "Naturaleza",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Marfil",
+        "is_correct": false
+      },
+      {
+        "text": "Hueso",
+        "is_correct": false
+      },
+      {
+        "text": "Piel",
+        "is_correct": false
+      },
+      {
+        "text": "Queratina",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "La caquexia crónica solo afecta a una familia de animales. ¿Cuál?",
+    "category": "Naturaleza",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Cérvidos",
+        "is_correct": true
+      },
+      {
+        "text": "Homínidos",
+        "is_correct": false
+      },
+      {
+        "text": "Cánidos",
+        "is_correct": false
+      },
+      {
+        "text": "Félidos",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿De qué país es originario el kakapo, un loro grande, nocturno y que no vuela?",
+    "category": "Naturaleza",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Sudáfrica",
+        "is_correct": false
+      },
+      {
+        "text": "Nueva Zelanda",
+        "is_correct": true
+      },
+      {
+        "text": "Madagascar",
+        "is_correct": false
+      },
+      {
+        "text": "Australia",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿De qué color es la piel del oso polar?",
+    "category": "Naturaleza",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Negra",
+        "is_correct": true
+      },
+      {
+        "text": "Gris",
+        "is_correct": false
+      },
+      {
+        "text": "Rosa",
+        "is_correct": false
+      },
+      {
+        "text": "Blanca",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿De qué país son originarios los wombats?",
+    "category": "Naturaleza",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Indonesia",
+        "is_correct": false
+      },
+      {
+        "text": "Nueva Zelanda",
+        "is_correct": false
+      },
+      {
+        "text": "Australia",
+        "is_correct": true
+      },
+      {
+        "text": "Papúa Nueva Guinea",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué tipo de animal es el llamado «pollo de montaña»?",
+    "category": "Naturaleza",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Una mosca",
+        "is_correct": false
+      },
+      {
+        "text": "Una rana",
+        "is_correct": true
+      },
+      {
+        "text": "Un caballo",
+        "is_correct": false
+      },
+      {
+        "text": "Un ave",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuántas especies de hiena existen hoy?",
+    "category": "Naturaleza",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": true
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué ave nace con garras en las alas?",
+    "category": "Naturaleza",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "El cormorán",
+        "is_correct": false
+      },
+      {
+        "text": "El hoacín",
+        "is_correct": true
+      },
+      {
+        "text": "El casuario",
+        "is_correct": false
+      },
+      {
+        "text": "El secretario",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál es la serpiente venenosa más larga del mundo?",
+    "category": "Naturaleza",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Anaconda verde",
+        "is_correct": false
+      },
+      {
+        "text": "Cobra real",
+        "is_correct": true
+      },
+      {
+        "text": "Taipán del interior",
+        "is_correct": false
+      },
+      {
+        "text": "Serpiente marina de vientre amarillo",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cómo se llama la abeja macho que nace de un huevo sin fecundar?",
+    "category": "Naturaleza",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Reina",
+        "is_correct": false
+      },
+      {
+        "text": "Zángano",
+        "is_correct": true
+      },
+      {
+        "text": "Soldado",
+        "is_correct": false
+      },
+      {
+        "text": "Obrera",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál es el nombre científico del chimpancé común?",
+    "category": "Naturaleza",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Panthera leo",
+        "is_correct": false
+      },
+      {
+        "text": "Pan paniscus",
+        "is_correct": false
+      },
+      {
+        "text": "Pan troglodytes",
+        "is_correct": true
+      },
+      {
+        "text": "Gorilla gorilla",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál es el nombre científico del ser humano actual?",
+    "category": "Naturaleza",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Homo ergaster",
+        "is_correct": false
+      },
+      {
+        "text": "Homo neanderthalensis",
+        "is_correct": false
+      },
+      {
+        "text": "Homo sapiens",
+        "is_correct": true
+      },
+      {
+        "text": "Homo erectus",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál de estos animales NO existe?",
+    "category": "Naturaleza",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "El león de Nemea",
+        "is_correct": true
+      },
+      {
+        "text": "El dragón de mar",
+        "is_correct": false
+      },
+      {
+        "text": "El demonio de Tasmania",
+        "is_correct": false
+      },
+      {
+        "text": "El calamar gigante",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué significan los nombres de Huginn y Muninn, los cuervos de Odín?",
+    "category": "Mitología",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Pensamiento y memoria",
+        "is_correct": true
+      },
+      {
+        "text": "Sueño y vigilia",
+        "is_correct": false
+      },
+      {
+        "text": "Poder y paz",
+        "is_correct": false
+      },
+      {
+        "text": "Guerra y saber",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Quién era el dios romano del fuego?",
+    "category": "Mitología",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Apolo",
+        "is_correct": false
+      },
+      {
+        "text": "Júpiter",
+        "is_correct": false
+      },
+      {
+        "text": "Vulcano",
+        "is_correct": true
+      },
+      {
+        "text": "Mercurio",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál de estos NO es una de las Moiras griegas?",
+    "category": "Mitología",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Átropos",
+        "is_correct": false
+      },
+      {
+        "text": "Láquesis",
+        "is_correct": false
+      },
+      {
+        "text": "Narciso",
+        "is_correct": true
+      },
+      {
+        "text": "Cloto",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál fue el castigo de Sísifo?",
+    "category": "Mitología",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Talar un árbol que volvía a crecer",
+        "is_correct": false
+      },
+      {
+        "text": "Estar en un lago sin poder beber",
+        "is_correct": false
+      },
+      {
+        "text": "Estar atado a una roca mientras un águila le comía",
+        "is_correct": false
+      },
+      {
+        "text": "Subir eternamente una roca por una colina",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué diosa lanzó la manzana de oro «para la más bella» en el banquete de los dioses?",
+    "category": "Mitología",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Eris",
+        "is_correct": true
+      },
+      {
+        "text": "Artemisa",
+        "is_correct": false
+      },
+      {
+        "text": "Ares",
+        "is_correct": false
+      },
+      {
+        "text": "Hades",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué personaje griego bajó al inframundo a rescatar a su esposa Eurídice?",
+    "category": "Mitología",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Dédalo",
+        "is_correct": false
+      },
+      {
+        "text": "Perseo",
+        "is_correct": false
+      },
+      {
+        "text": "Heracles",
+        "is_correct": false
+      },
+      {
+        "text": "Orfeo",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál de estos dioses romanos no tiene equivalente griego?",
+    "category": "Mitología",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Vulcano",
+        "is_correct": false
+      },
+      {
+        "text": "Jano",
+        "is_correct": true
+      },
+      {
+        "text": "Juno",
+        "is_correct": false
+      },
+      {
+        "text": "Marte",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "El hipogrifo tiene la parte delantera de águila y la trasera de...",
+    "category": "Mitología",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "León",
+        "is_correct": false
+      },
+      {
+        "text": "Caballo",
+        "is_correct": true
+      },
+      {
+        "text": "Tigre",
+        "is_correct": false
+      },
+      {
+        "text": "Dragón",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué dios griego y romano lo era de la música, la profecía, la poesía y la luz del sol?",
+    "category": "Mitología",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Atenea",
+        "is_correct": false
+      },
+      {
+        "text": "Afrodita",
+        "is_correct": false
+      },
+      {
+        "text": "Apolo",
+        "is_correct": true
+      },
+      {
+        "text": "Artemisa",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "La marca Nike toma su nombre de la diosa griega de la...",
+    "category": "Mitología",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Honra",
+        "is_correct": false
+      },
+      {
+        "text": "Victoria",
+        "is_correct": true
+      },
+      {
+        "text": "Fuerza",
+        "is_correct": false
+      },
+      {
+        "text": "Valentía",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿De qué era diosa Hera?",
+    "category": "Mitología",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "De la agricultura",
+        "is_correct": false
+      },
+      {
+        "text": "Del matrimonio",
+        "is_correct": true
+      },
+      {
+        "text": "De la guerra",
+        "is_correct": false
+      },
+      {
+        "text": "Del mar",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué punto débil de Aquiles aprovechó Paris?",
+    "category": "Mitología",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "La espalda",
+        "is_correct": false
+      },
+      {
+        "text": "La rodilla",
+        "is_correct": false
+      },
+      {
+        "text": "El talón",
+        "is_correct": true
+      },
+      {
+        "text": "El cuello",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué es Yggdrasil en la mitología nórdica?",
+    "category": "Mitología",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Una montaña",
+        "is_correct": false
+      },
+      {
+        "text": "Un templo",
+        "is_correct": false
+      },
+      {
+        "text": "Un castillo",
+        "is_correct": false
+      },
+      {
+        "text": "Un árbol",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué significa el jeroglífico egipcio anj (ankh)?",
+    "category": "Mitología",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Odio",
+        "is_correct": false
+      },
+      {
+        "text": "Vida",
+        "is_correct": true
+      },
+      {
+        "text": "Veneno",
+        "is_correct": false
+      },
+      {
+        "text": "Amor",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "En la mitología africana, ¿qué forma toma el embaucador Anansi?",
+    "category": "Mitología",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Cocodrilo",
+        "is_correct": false
+      },
+      {
+        "text": "Perro salvaje",
+        "is_correct": false
+      },
+      {
+        "text": "Araña",
+        "is_correct": true
+      },
+      {
+        "text": "Mono",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "Perséfone debe volver al inframundo porque comió semillas de...",
+    "category": "Mitología",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Naranja",
+        "is_correct": false
+      },
+      {
+        "text": "Girasol",
+        "is_correct": false
+      },
+      {
+        "text": "Granada",
+        "is_correct": true
+      },
+      {
+        "text": "Higo",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué criatura mitológica es mitad hombre y mitad caballo?",
+    "category": "Mitología",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Pegaso",
+        "is_correct": false
+      },
+      {
+        "text": "La gorgona",
+        "is_correct": false
+      },
+      {
+        "text": "El minotauro",
+        "is_correct": false
+      },
+      {
+        "text": "El centauro",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuántas cabezas tiene Cerbero?",
+    "category": "Mitología",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Quién era el padre de Ícaro, que voló demasiado cerca del sol?",
+    "category": "Mitología",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Perseo",
+        "is_correct": false
+      },
+      {
+        "text": "Dédalo",
+        "is_correct": true
+      },
+      {
+        "text": "Zeus",
+        "is_correct": false
+      },
+      {
+        "text": "Minos",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Quién era el rey de los dioses griegos?",
+    "category": "Mitología",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Zeus",
+        "is_correct": true
+      },
+      {
+        "text": "Hermes",
+        "is_correct": false
+      },
+      {
+        "text": "Apolo",
+        "is_correct": false
+      },
+      {
+        "text": "Poseidón",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "Según el folclore japonés, ¿cuál es la comida favorita del kappa?",
+    "category": "Mitología",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "La calabaza",
+        "is_correct": false
+      },
+      {
+        "text": "Los pepinos",
+        "is_correct": true
+      },
+      {
+        "text": "Los fideos soba",
+        "is_correct": false
+      },
+      {
+        "text": "La berenjena",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Quién era el dios griego de la muerte apacible?",
+    "category": "Mitología",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Tánatos",
+        "is_correct": true
+      },
+      {
+        "text": "Tártaro",
+        "is_correct": false
+      },
+      {
+        "text": "Hades",
+        "is_correct": false
+      },
+      {
+        "text": "Moros",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿De quién era hija Hel en la mitología nórdica?",
+    "category": "Mitología",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Odín",
+        "is_correct": false
+      },
+      {
+        "text": "Loki",
+        "is_correct": true
+      },
+      {
+        "text": "Balder",
+        "is_correct": false
+      },
+      {
+        "text": "Thor",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué criaturas mitológicas tienen cara de mujer y cuerpo de buitre?",
+    "category": "Mitología",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Las gorgonas",
+        "is_correct": false
+      },
+      {
+        "text": "Las ninfas",
+        "is_correct": false
+      },
+      {
+        "text": "Las arpías",
+        "is_correct": true
+      },
+      {
+        "text": "Las sirenas",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué isla protegía Talos, el gigante mítico de bronce?",
+    "category": "Mitología",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Sicilia",
+        "is_correct": false
+      },
+      {
+        "text": "Cerdeña",
+        "is_correct": false
+      },
+      {
+        "text": "Creta",
+        "is_correct": true
+      },
+      {
+        "text": "Chipre",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué elemento es básico en la arquitectura gótica?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "El techo artesonado",
+        "is_correct": false
+      },
+      {
+        "text": "El arco de herradura",
+        "is_correct": false
+      },
+      {
+        "text": "El frontón triangular",
+        "is_correct": false
+      },
+      {
+        "text": "El arco apuntado",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿En qué ciudad nació y murió Alberto Durero?",
+    "category": "Arte y cultura",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Berlín",
+        "is_correct": false
+      },
+      {
+        "text": "Augsburgo",
+        "is_correct": false
+      },
+      {
+        "text": "Núremberg",
+        "is_correct": true
+      },
+      {
+        "text": "Bamberg",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿A qué movimiento artístico pertenece «La noche estrellada» de Van Gogh?",
+    "category": "Arte y cultura",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Neoclasicismo",
+        "is_correct": false
+      },
+      {
+        "text": "Impresionismo",
+        "is_correct": false
+      },
+      {
+        "text": "Postimpresionismo",
+        "is_correct": true
+      },
+      {
+        "text": "Romanticismo",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿De qué movimiento formó parte el pintor Piet Mondrian?",
+    "category": "Arte y cultura",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Neoplasticismo",
+        "is_correct": true
+      },
+      {
+        "text": "Precisionismo",
+        "is_correct": false
+      },
+      {
+        "text": "Impresionismo",
+        "is_correct": false
+      },
+      {
+        "text": "Cubismo",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál es la obra de ficción más antigua que se conoce?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "El poema de Gilgamesh",
+        "is_correct": true
+      },
+      {
+        "text": "El papiro de Ani",
+        "is_correct": false
+      },
+      {
+        "text": "El código de Hammurabi",
+        "is_correct": false
+      },
+      {
+        "text": "La piedra de Rosetta",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué artista diseñó el logotipo de Chupa Chups?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Pablo Picasso",
+        "is_correct": false
+      },
+      {
+        "text": "Joan Miró",
+        "is_correct": false
+      },
+      {
+        "text": "Salvador Dalí",
+        "is_correct": true
+      },
+      {
+        "text": "Andy Warhol",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué movimiento artístico cofundó Pablo Picasso?",
+    "category": "Arte y cultura",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Cubismo",
+        "is_correct": true
+      },
+      {
+        "text": "Expresionismo",
+        "is_correct": false
+      },
+      {
+        "text": "Impresionismo",
+        "is_correct": false
+      },
+      {
+        "text": "Futurismo",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué escultor griego hizo la estatua de Atenea Partenos del Partenón?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Escopas",
+        "is_correct": false
+      },
+      {
+        "text": "Praxíteles",
+        "is_correct": false
+      },
+      {
+        "text": "Fidias",
+        "is_correct": true
+      },
+      {
+        "text": "Hesíodo",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿A qué isla se trasladó Paul Gauguin en 1895?",
+    "category": "Arte y cultura",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Creta",
+        "is_correct": false
+      },
+      {
+        "text": "Mallorca",
+        "is_correct": false
+      },
+      {
+        "text": "Sicilia",
+        "is_correct": false
+      },
+      {
+        "text": "Tahití",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Quién esculpió el «David» de Florencia?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Miguel Ángel",
+        "is_correct": true
+      },
+      {
+        "text": "Donatello",
+        "is_correct": false
+      },
+      {
+        "text": "Bernini",
+        "is_correct": false
+      },
+      {
+        "text": "Rodin",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Quién pintó «Gótico americano»?",
+    "category": "Arte y cultura",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Pablo Picasso",
+        "is_correct": false
+      },
+      {
+        "text": "Grant Wood",
+        "is_correct": true
+      },
+      {
+        "text": "Marc Chagall",
+        "is_correct": false
+      },
+      {
+        "text": "Edward Hopper",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál de estos cuadros NO es de Van Gogh?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "El dormitorio en Arlés",
+        "is_correct": false
+      },
+      {
+        "text": "La noche estrellada",
+        "is_correct": false
+      },
+      {
+        "text": "Terraza de café por la noche",
+        "is_correct": false
+      },
+      {
+        "text": "La novena ola",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué artista tenía un estudio llamado «The Factory»?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Peter Blake",
+        "is_correct": false
+      },
+      {
+        "text": "David Hockney",
+        "is_correct": false
+      },
+      {
+        "text": "Roy Lichtenstein",
+        "is_correct": false
+      },
+      {
+        "text": "Andy Warhol",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál de estos cuadros NO pintó Vermeer?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "La joven de la perla",
+        "is_correct": false
+      },
+      {
+        "text": "Baco",
+        "is_correct": true
+      },
+      {
+        "text": "La lechera",
+        "is_correct": false
+      },
+      {
+        "text": "La encajera",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿A qué guerra respondía el «Guernica» de Picasso?",
+    "category": "Arte y cultura",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "La Guerra Civil española",
+        "is_correct": true
+      },
+      {
+        "text": "La Primera Guerra Mundial",
+        "is_correct": false
+      },
+      {
+        "text": "La guerra de Cuba",
+        "is_correct": false
+      },
+      {
+        "text": "La guerra de Crimea",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cómo se traduce el título del libro de Hitler «Mein Kampf»?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Mi deseo",
+        "is_correct": false
+      },
+      {
+        "text": "Mi lucha",
+        "is_correct": true
+      },
+      {
+        "text": "Mi tristeza",
+        "is_correct": false
+      },
+      {
+        "text": "Mi odio",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué novela clásica empieza con la frase «Llamadme Ismael»?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Cumbres borrascosas",
+        "is_correct": false
+      },
+      {
+        "text": "Secuestrado",
+        "is_correct": false
+      },
+      {
+        "text": "Moby Dick",
+        "is_correct": true
+      },
+      {
+        "text": "Historia de dos ciudades",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál de estos autores NO nació en Inglaterra?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Graham Greene",
+        "is_correct": false
+      },
+      {
+        "text": "Arthur C. Clarke",
+        "is_correct": false
+      },
+      {
+        "text": "H. G. Wells",
+        "is_correct": false
+      },
+      {
+        "text": "Arthur Conan Doyle",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿En qué posición juega Harry Potter al quidditch?",
+    "category": "Entretenimiento",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Guardián",
+        "is_correct": false
+      },
+      {
+        "text": "Golpeador",
+        "is_correct": false
+      },
+      {
+        "text": "Cazador",
+        "is_correct": false
+      },
+      {
+        "text": "Buscador",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cómo se llama el submarino del capitán Nemo en «Veinte mil leguas de viaje submarino»?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Nautilus",
+        "is_correct": true
+      },
+      {
+        "text": "Atlántida",
+        "is_correct": false
+      },
+      {
+        "text": "Poseidón",
+        "is_correct": false
+      },
+      {
+        "text": "Neptuno",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "En «El libro de la selva» de Kipling, ¿qué tipo de serpiente es Kaa?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Cobra",
+        "is_correct": false
+      },
+      {
+        "text": "Víbora",
+        "is_correct": false
+      },
+      {
+        "text": "Pitón",
+        "is_correct": true
+      },
+      {
+        "text": "Anaconda",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Quién escribió «Fahrenheit 451»?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Isaac Asimov",
+        "is_correct": false
+      },
+      {
+        "text": "Ray Bradbury",
+        "is_correct": true
+      },
+      {
+        "text": "Philip K. Dick",
+        "is_correct": false
+      },
+      {
+        "text": "Stephen King",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "En «1984» de Orwell, ¿cómo se llama el régimen que controla Oceanía?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Neobolchevismo",
+        "is_correct": false
+      },
+      {
+        "text": "Culto a la muerte",
+        "is_correct": false
+      },
+      {
+        "text": "Alianza Terrestre",
+        "is_correct": false
+      },
+      {
+        "text": "Socing (Ingsoc)",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "En «El hobbit», ¿quién mata al dragón Smaug?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Bardo",
+        "is_correct": true
+      },
+      {
+        "text": "Thorin",
+        "is_correct": false
+      },
+      {
+        "text": "Bilbo Bolsón",
+        "is_correct": false
+      },
+      {
+        "text": "Gandalf",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Quién escribió «Historia de dos ciudades»?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Roald Dahl",
+        "is_correct": false
+      },
+      {
+        "text": "Charles Dickens",
+        "is_correct": true
+      },
+      {
+        "text": "Charles Darwin",
+        "is_correct": false
+      },
+      {
+        "text": "Mark Twain",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué novela lleva el subtítulo «El moderno Prometeo»?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "La leyenda de Sleepy Hollow",
+        "is_correct": false
+      },
+      {
+        "text": "Frankenstein",
+        "is_correct": true
+      },
+      {
+        "text": "El extraño caso del doctor Jekyll y míster Hyde",
+        "is_correct": false
+      },
+      {
+        "text": "Drácula",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Quién escribió «El manifiesto comunista» junto a Karl Marx?",
+    "category": "Historia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Robert Owen",
+        "is_correct": false
+      },
+      {
+        "text": "Paul Lafargue",
+        "is_correct": false
+      },
+      {
+        "text": "Aleksandr Kérenski",
+        "is_correct": false
+      },
+      {
+        "text": "Friedrich Engels",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Quién dirigió las películas de «Kill Bill»?",
+    "category": "Entretenimiento",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Quentin Tarantino",
+        "is_correct": true
+      },
+      {
+        "text": "Stanley Kubrick",
+        "is_correct": false
+      },
+      {
+        "text": "Robert Rodriguez",
+        "is_correct": false
+      },
+      {
+        "text": "David Lean",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Quién escribió y dirigió «Platoon» (1986)?",
+    "category": "Entretenimiento",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Francis Ford Coppola",
+        "is_correct": false
+      },
+      {
+        "text": "Michael Cimino",
+        "is_correct": false
+      },
+      {
+        "text": "Oliver Stone",
+        "is_correct": true
+      },
+      {
+        "text": "Stanley Kubrick",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué película dejó de ser la más taquillera de la historia cuando llegó «Avatar»?",
+    "category": "Entretenimiento",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Titanic",
+        "is_correct": true
+      },
+      {
+        "text": "Star Wars",
+        "is_correct": false
+      },
+      {
+        "text": "Tiburón",
+        "is_correct": false
+      },
+      {
+        "text": "Lo que el viento se llevó",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿En qué película ganadora del Óscar son protagonistas Velma Kelly y Roxie Hart?",
+    "category": "Entretenimiento",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Chicago",
+        "is_correct": true
+      },
+      {
+        "text": "Dreamgirls",
+        "is_correct": false
+      },
+      {
+        "text": "Cabaret",
+        "is_correct": false
+      },
+      {
+        "text": "All That Jazz",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál de estos actores NO sale en «Salvar al soldado Ryan»?",
+    "category": "Entretenimiento",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Matt Damon",
+        "is_correct": false
+      },
+      {
+        "text": "Tom Hanks",
+        "is_correct": false
+      },
+      {
+        "text": "Vin Diesel",
+        "is_correct": false
+      },
+      {
+        "text": "Ralph Fiennes",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué personaje hizo famoso a Bela Lugosi en 1931?",
+    "category": "Entretenimiento",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "El hombre lobo",
+        "is_correct": false
+      },
+      {
+        "text": "El doctor Frankenstein",
+        "is_correct": false
+      },
+      {
+        "text": "El conde Drácula",
+        "is_correct": true
+      },
+      {
+        "text": "La criatura de la laguna negra",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Quién interpretó a Han Solo en la saga principal de «Star Wars»?",
+    "category": "Entretenimiento",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Mark Hamill",
+        "is_correct": false
+      },
+      {
+        "text": "Alec Guinness",
+        "is_correct": false
+      },
+      {
+        "text": "Peter Cushing",
+        "is_correct": false
+      },
+      {
+        "text": "Harrison Ford",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿En qué película se disfraza Robin Williams de mujer?",
+    "category": "Entretenimiento",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Señora Doubtfire",
+        "is_correct": true
+      },
+      {
+        "text": "El club de los poetas muertos",
+        "is_correct": false
+      },
+      {
+        "text": "Despertares",
+        "is_correct": false
+      },
+      {
+        "text": "Jumanji",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué actor dirigió y protagonizó con Emily Blunt «Un lugar tranquilo» (2018)?",
+    "category": "Entretenimiento",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Willem Dafoe",
+        "is_correct": false
+      },
+      {
+        "text": "Josh Brolin",
+        "is_correct": false
+      },
+      {
+        "text": "John Krasinski",
+        "is_correct": true
+      },
+      {
+        "text": "Keanu Reeves",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué película de Stanley Kubrick adapta una novela de Stephen King?",
+    "category": "Entretenimiento",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "2001: Una odisea del espacio",
+        "is_correct": false
+      },
+      {
+        "text": "Eyes Wide Shut",
+        "is_correct": false
+      },
+      {
+        "text": "¿Teléfono rojo? Volamos hacia Moscú",
+        "is_correct": false
+      },
+      {
+        "text": "El resplandor",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál de estas películas NO está basada en un libro?",
+    "category": "Entretenimiento",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Ciudadano Kane",
+        "is_correct": true
+      },
+      {
+        "text": "Parque Jurásico",
+        "is_correct": false
+      },
+      {
+        "text": "Forrest Gump",
+        "is_correct": false
+      },
+      {
+        "text": "El padrino",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué grupo publicó el disco «The Bends» en 1995?",
+    "category": "Entretenimiento",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Coldplay",
+        "is_correct": false
+      },
+      {
+        "text": "U2",
+        "is_correct": false
+      },
+      {
+        "text": "Radiohead",
+        "is_correct": true
+      },
+      {
+        "text": "Nirvana",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál fue el primer disco de Pink Floyd?",
+    "category": "Entretenimiento",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Wish You Were Here",
+        "is_correct": false
+      },
+      {
+        "text": "Meddle",
+        "is_correct": false
+      },
+      {
+        "text": "The Piper at the Gates of Dawn",
+        "is_correct": true
+      },
+      {
+        "text": "The Dark Side of the Moon",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué problema de Etiopía quería denunciar la canción «Do They Know It's Christmas?» de Band Aid?",
+    "category": "Entretenimiento",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "La contaminación",
+        "is_correct": false
+      },
+      {
+        "text": "Las violaciones de derechos humanos",
+        "is_correct": false
+      },
+      {
+        "text": "El terrorismo",
+        "is_correct": false
+      },
+      {
+        "text": "La hambruna",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué instrumento de metal tiene el sonido más grave de la orquesta?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "La trompeta",
+        "is_correct": false
+      },
+      {
+        "text": "El saxofón",
+        "is_correct": false
+      },
+      {
+        "text": "La tuba",
+        "is_correct": true
+      },
+      {
+        "text": "El trombón",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál es el nombre real del rapero Eminem?",
+    "category": "Entretenimiento",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Shawn Carter",
+        "is_correct": false
+      },
+      {
+        "text": "Marshall Mathers",
+        "is_correct": true
+      },
+      {
+        "text": "Calvin Broadus",
+        "is_correct": false
+      },
+      {
+        "text": "Nasir Jones",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué cantante británica aparece sampleada en «Stan» de Eminem?",
+    "category": "Entretenimiento",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Adele",
+        "is_correct": false
+      },
+      {
+        "text": "Lily Allen",
+        "is_correct": false
+      },
+      {
+        "text": "Dido",
+        "is_correct": true
+      },
+      {
+        "text": "Leona Lewis",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué disco de los Beatles no muestra a ningún miembro del grupo en la portada?",
+    "category": "Entretenimiento",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Abbey Road",
+        "is_correct": false
+      },
+      {
+        "text": "Rubber Soul",
+        "is_correct": false
+      },
+      {
+        "text": "The Beatles (el Álbum Blanco)",
+        "is_correct": true
+      },
+      {
+        "text": "Magical Mystery Tour",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿De qué grupo juvenil de los 90 formó parte Justin Timberlake?",
+    "category": "Entretenimiento",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Backstreet Boys",
+        "is_correct": false
+      },
+      {
+        "text": "Boyzone",
+        "is_correct": false
+      },
+      {
+        "text": "Westlife",
+        "is_correct": false
+      },
+      {
+        "text": "*NSYNC",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Quién grabó en 1975 el disco «Captain Fantastic and the Brown Dirt Cowboy»?",
+    "category": "Entretenimiento",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Joe Cocker",
+        "is_correct": false
+      },
+      {
+        "text": "Billy Joel",
+        "is_correct": false
+      },
+      {
+        "text": "Elton John",
+        "is_correct": true
+      },
+      {
+        "text": "John Denver",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál de estos raperos NO es del Wu-Tang Clan?",
+    "category": "Entretenimiento",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Dr. Dre",
+        "is_correct": true
+      },
+      {
+        "text": "Ol' Dirty Bastard",
+        "is_correct": false
+      },
+      {
+        "text": "Method Man",
+        "is_correct": false
+      },
+      {
+        "text": "GZA",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cómo se llama la capa 7 del modelo OSI?",
+    "category": "Tecnología",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Sesión",
+        "is_correct": false
+      },
+      {
+        "text": "Aplicación",
+        "is_correct": true
+      },
+      {
+        "text": "Red",
+        "is_correct": false
+      },
+      {
+        "text": "Presentación",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cómo se llama la capa 4 del modelo OSI?",
+    "category": "Tecnología",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Transporte",
+        "is_correct": true
+      },
+      {
+        "text": "Enlace de datos",
+        "is_correct": false
+      },
+      {
+        "text": "Sesión",
+        "is_correct": false
+      },
+      {
+        "text": "Red",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿En qué puerto funciona HTTP por defecto?",
+    "category": "Tecnología",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "80",
+        "is_correct": true
+      },
+      {
+        "text": "23",
+        "is_correct": false
+      },
+      {
+        "text": "443",
+        "is_correct": false
+      },
+      {
+        "text": "53",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué dominio de internet corresponde a Tuvalu?",
+    "category": "Tecnología",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": ".tv",
+        "is_correct": true
+      },
+      {
+        "text": ".tl",
+        "is_correct": false
+      },
+      {
+        "text": ".tt",
+        "is_correct": false
+      },
+      {
+        "text": ".tu",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cómo se llama el sistema de numeración en base 16?",
+    "category": "Tecnología",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Octal",
+        "is_correct": false
+      },
+      {
+        "text": "Hexadecimal",
+        "is_correct": true
+      },
+      {
+        "text": "Binario",
+        "is_correct": false
+      },
+      {
+        "text": "Duodecimal",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál de estos programas NO es un editor de gráficos de mapa de bits?",
+    "category": "Tecnología",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Paint.NET",
+        "is_correct": false
+      },
+      {
+        "text": "Adobe Photoshop",
+        "is_correct": false
+      },
+      {
+        "text": "GIMP",
+        "is_correct": false
+      },
+      {
+        "text": "Inkscape",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué etiqueta HTML no estándar se usaba para hacer que el texto se desplazara por la pantalla?",
+    "category": "Tecnología",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "<marquee>",
+        "is_correct": true
+      },
+      {
+        "text": "<slide>",
+        "is_correct": false
+      },
+      {
+        "text": "<move>",
+        "is_correct": false
+      },
+      {
+        "text": "<scroll>",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "En informática, ¿qué significan las siglas MIDI?",
+    "category": "Tecnología",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Musical Instrument Data Interface",
+        "is_correct": false
+      },
+      {
+        "text": "Modular Interface of Digital Instruments",
+        "is_correct": false
+      },
+      {
+        "text": "Musical Instrument Digital Interface",
+        "is_correct": true
+      },
+      {
+        "text": "Musical Interface of Digital Instruments",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué significan las siglas de la empresa HP?",
+    "category": "Tecnología",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Husker-Pollock",
+        "is_correct": false
+      },
+      {
+        "text": "Hellman-Pohl",
+        "is_correct": false
+      },
+      {
+        "text": "Howard Packmann",
+        "is_correct": false
+      },
+      {
+        "text": "Hewlett-Packard",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿En qué año compró Lenovo la división de ordenadores personales de IBM?",
+    "category": "Tecnología",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "2008",
+        "is_correct": false
+      },
+      {
+        "text": "1999",
+        "is_correct": false
+      },
+      {
+        "text": "2005",
+        "is_correct": true
+      },
+      {
+        "text": "2002",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué atajo de teclado copia en Windows?",
+    "category": "Tecnología",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Ctrl + C",
+        "is_correct": true
+      },
+      {
+        "text": "Ctrl + X",
+        "is_correct": false
+      },
+      {
+        "text": "Alt + X",
+        "is_correct": false
+      },
+      {
+        "text": "Alt + C",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿A qué país corresponde el dominio .at?",
+    "category": "Tecnología",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Austria",
+        "is_correct": true
+      },
+      {
+        "text": "Argentina",
+        "is_correct": false
+      },
+      {
+        "text": "Angola",
+        "is_correct": false
+      },
+      {
+        "text": "Australia",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué significan las siglas RAID?",
+    "category": "Tecnología",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Random Access Internal Drive",
+        "is_correct": false
+      },
+      {
+        "text": "Redundant Array of Independent Disks",
+        "is_correct": true
+      },
+      {
+        "text": "Range of Applications with Identical Designs",
+        "is_correct": false
+      },
+      {
+        "text": "Rapid Access for Indexed Devices",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuánto mide una dirección IPv6?",
+    "category": "Tecnología",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "128 bytes",
+        "is_correct": false
+      },
+      {
+        "text": "128 bits",
+        "is_correct": true
+      },
+      {
+        "text": "32 bits",
+        "is_correct": false
+      },
+      {
+        "text": "64 bits",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué creó Linus Torvalds?",
+    "category": "Tecnología",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Linux",
+        "is_correct": true
+      },
+      {
+        "text": "Python",
+        "is_correct": false
+      },
+      {
+        "text": "Microsoft Windows",
+        "is_correct": false
+      },
+      {
+        "text": "Wikipedia",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál de estas distribuciones de probabilidad NO es discreta?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Poisson",
+        "is_correct": false
+      },
+      {
+        "text": "Hipergeométrica",
+        "is_correct": false
+      },
+      {
+        "text": "Normal",
+        "is_correct": true
+      },
+      {
+        "text": "Binomial",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué matemático rechazó la Medalla Fields?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Terence Tao",
+        "is_correct": false
+      },
+      {
+        "text": "Grigori Perelman",
+        "is_correct": true
+      },
+      {
+        "text": "Andrew Wiles",
+        "is_correct": false
+      },
+      {
+        "text": "Edward Witten",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál es el valor aproximado del número e?",
+    "category": "Ciencia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "1,62",
+        "is_correct": false
+      },
+      {
+        "text": "3,14",
+        "is_correct": false
+      },
+      {
+        "text": "2,72",
+        "is_correct": true
+      },
+      {
+        "text": "1,41",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "En una distribución normal, ¿a cuántas desviaciones típicas de la media está el 95 % de los datos?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "2",
+        "is_correct": true
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "1",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuántos grados tiene una circunferencia completa?",
+    "category": "Ciencia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "360",
+        "is_correct": true
+      },
+      {
+        "text": "90",
+        "is_correct": false
+      },
+      {
+        "text": "180",
+        "is_correct": false
+      },
+      {
+        "text": "720",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Quién demostró el último teorema de Fermat?",
+    "category": "Ciencia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Andrew Wiles",
+        "is_correct": true
+      },
+      {
+        "text": "Carl Friedrich Gauss",
+        "is_correct": false
+      },
+      {
+        "text": "Srinivasa Ramanujan",
+        "is_correct": false
+      },
+      {
+        "text": "Leonhard Euler",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuántas caras tiene una banda de Möbius?",
+    "category": "Ciencia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "1",
+        "is_correct": true
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "En el sistema hexadecimal, ¿qué va después del 9?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "0",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "La letra A",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Con qué letra se representa la unidad imaginaria?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "n",
+        "is_correct": false
+      },
+      {
+        "text": "i",
+        "is_correct": true
+      },
+      {
+        "text": "e",
+        "is_correct": false
+      },
+      {
+        "text": "x",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Cuál es el número más pequeño que se puede escribir como suma de dos cubos positivos de dos formas distintas?",
+    "category": "Ciencia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "91",
+        "is_correct": false
+      },
+      {
+        "text": "561",
+        "is_correct": false
+      },
+      {
+        "text": "4104",
+        "is_correct": false
+      },
+      {
+        "text": "1729",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿Qué dos personas descubrieron por separado el cálculo diferencial?",
+    "category": "Ciencia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Newton y Leibniz",
+        "is_correct": true
+      },
+      {
+        "text": "Descartes y Pascal",
+        "is_correct": false
+      },
+      {
+        "text": "Euclides y Pitágoras",
+        "is_correct": false
+      },
+      {
+        "text": "Platón y Aristóteles",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  },
+  {
+    "text": "¿A qué temperatura coinciden los grados Celsius y Fahrenheit?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "40",
+        "is_correct": false
+      },
+      {
+        "text": "0",
+        "is_correct": false
+      },
+      {
+        "text": "-40",
+        "is_correct": true
+      },
+      {
+        "text": "100",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Open Trivia DB (CC BY-SA 4.0), traducida al español"
+  }
+]

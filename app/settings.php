@@ -3,8 +3,8 @@
 declare(strict_types=1);
 
 /*
- * Configuración en un solo sitio. Las rutas son absolutas para que
- * funcione igual en Docker, en local o en un hosting compartido.
+ * Settings in one place. Paths are absolute so it works the same in
+ * Docker, locally or on shared hosting.
  */
 
 $root = dirname(__DIR__);
@@ -14,8 +14,8 @@ return [
 
     'db' => [
         'path' => getenv('DB_PATH') ?: $root . '/data/trivial.sqlite',
-        // Milisegundos que SQLite espera si otro proceso está escribiendo,
-        // en lugar de fallar al instante con "database is locked".
+        // Milliseconds SQLite waits if another process is writing,
+        // instead of failing at once with "database is locked".
         'busy_timeout' => 5000,
     ],
 
@@ -26,7 +26,7 @@ return [
 
     'session' => [
         'name'     => 'trivial_sid',
-        // 12 horas: suficiente para una tarde de partidas y para reconectar.
+        // 12 hours: enough for an afternoon of games and for reconnecting.
         'lifetime' => 60 * 60 * 12,
     ],
 ];

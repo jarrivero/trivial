@@ -1,0 +1,5653 @@
+[
+  {
+    "text": "¿Cuál es la capital de Australia?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Canberra",
+        "is_correct": true
+      },
+      {
+        "text": "Perth",
+        "is_correct": false
+      },
+      {
+        "text": "Melbourne",
+        "is_correct": false
+      },
+      {
+        "text": "Sídney",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es el río más caudaloso del mundo?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Nilo",
+        "is_correct": false
+      },
+      {
+        "text": "Misisipi",
+        "is_correct": false
+      },
+      {
+        "text": "Amazonas",
+        "is_correct": true
+      },
+      {
+        "text": "Yangtsé",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es el océano más grande?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Pacífico",
+        "is_correct": true
+      },
+      {
+        "text": "Índico",
+        "is_correct": false
+      },
+      {
+        "text": "Atlántico",
+        "is_correct": false
+      },
+      {
+        "text": "Ártico",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es el país más grande del mundo?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Canadá",
+        "is_correct": false
+      },
+      {
+        "text": "Estados Unidos",
+        "is_correct": false
+      },
+      {
+        "text": "Rusia",
+        "is_correct": true
+      },
+      {
+        "text": "China",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es la capital de Canadá?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Toronto",
+        "is_correct": false
+      },
+      {
+        "text": "Vancouver",
+        "is_correct": false
+      },
+      {
+        "text": "Montreal",
+        "is_correct": false
+      },
+      {
+        "text": "Ottawa",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es la montaña más alta del mundo?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Everest",
+        "is_correct": true
+      },
+      {
+        "text": "Aconcagua",
+        "is_correct": false
+      },
+      {
+        "text": "Kilimanjaro",
+        "is_correct": false
+      },
+      {
+        "text": "K2",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué continente está Egipto?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "África",
+        "is_correct": true
+      },
+      {
+        "text": "Europa",
+        "is_correct": false
+      },
+      {
+        "text": "Oceanía",
+        "is_correct": false
+      },
+      {
+        "text": "Asia",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué país tiene más habitantes desde 2023?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Estados Unidos",
+        "is_correct": false
+      },
+      {
+        "text": "India",
+        "is_correct": true
+      },
+      {
+        "text": "Indonesia",
+        "is_correct": false
+      },
+      {
+        "text": "China",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es la capital de Japón?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Tokio",
+        "is_correct": true
+      },
+      {
+        "text": "Pekín",
+        "is_correct": false
+      },
+      {
+        "text": "Kioto",
+        "is_correct": false
+      },
+      {
+        "text": "Osaka",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es el desierto cálido más grande del mundo?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Atacama",
+        "is_correct": false
+      },
+      {
+        "text": "Sahara",
+        "is_correct": true
+      },
+      {
+        "text": "Kalahari",
+        "is_correct": false
+      },
+      {
+        "text": "Gobi",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es la capital de Turquía?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Esmirna",
+        "is_correct": false
+      },
+      {
+        "text": "Antalya",
+        "is_correct": false
+      },
+      {
+        "text": "Estambul",
+        "is_correct": false
+      },
+      {
+        "text": "Ankara",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué país está Machu Picchu?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Bolivia",
+        "is_correct": false
+      },
+      {
+        "text": "Chile",
+        "is_correct": false
+      },
+      {
+        "text": "México",
+        "is_correct": false
+      },
+      {
+        "text": "Perú",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es el lago más grande de África?",
+    "category": "Geografía",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Lago Chad",
+        "is_correct": false
+      },
+      {
+        "text": "Lago Victoria",
+        "is_correct": true
+      },
+      {
+        "text": "Lago Malaui",
+        "is_correct": false
+      },
+      {
+        "text": "Lago Tanganica",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es el país más pequeño del mundo?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Mónaco",
+        "is_correct": false
+      },
+      {
+        "text": "Ciudad del Vaticano",
+        "is_correct": true
+      },
+      {
+        "text": "Liechtenstein",
+        "is_correct": false
+      },
+      {
+        "text": "San Marino",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es la capital de Brasil?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Brasilia",
+        "is_correct": true
+      },
+      {
+        "text": "São Paulo",
+        "is_correct": false
+      },
+      {
+        "text": "Río de Janeiro",
+        "is_correct": false
+      },
+      {
+        "text": "Salvador",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué río pasa por París?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Sena",
+        "is_correct": true
+      },
+      {
+        "text": "Ródano",
+        "is_correct": false
+      },
+      {
+        "text": "Támesis",
+        "is_correct": false
+      },
+      {
+        "text": "Loira",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué país está la ciudad de Tombuctú?",
+    "category": "Geografía",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Mauritania",
+        "is_correct": false
+      },
+      {
+        "text": "Chad",
+        "is_correct": false
+      },
+      {
+        "text": "Níger",
+        "is_correct": false
+      },
+      {
+        "text": "Malí",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es la capital de Nueva Zelanda?",
+    "category": "Geografía",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Wellington",
+        "is_correct": true
+      },
+      {
+        "text": "Queenstown",
+        "is_correct": false
+      },
+      {
+        "text": "Christchurch",
+        "is_correct": false
+      },
+      {
+        "text": "Auckland",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué cordillera se considera frontera natural entre Europa y Asia?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Los Apeninos",
+        "is_correct": false
+      },
+      {
+        "text": "Los Alpes",
+        "is_correct": false
+      },
+      {
+        "text": "Los Urales",
+        "is_correct": true
+      },
+      {
+        "text": "Los Pirineos",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "Además de Israel y Palestina, ¿qué país baña el mar Muerto?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Jordania",
+        "is_correct": true
+      },
+      {
+        "text": "Egipto",
+        "is_correct": false
+      },
+      {
+        "text": "Líbano",
+        "is_correct": false
+      },
+      {
+        "text": "Siria",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es la isla más grande del mundo?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Borneo",
+        "is_correct": false
+      },
+      {
+        "text": "Gran Bretaña",
+        "is_correct": false
+      },
+      {
+        "text": "Madagascar",
+        "is_correct": false
+      },
+      {
+        "text": "Groenlandia",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué país tiene forma de bota?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Italia",
+        "is_correct": true
+      },
+      {
+        "text": "Croacia",
+        "is_correct": false
+      },
+      {
+        "text": "Portugal",
+        "is_correct": false
+      },
+      {
+        "text": "Grecia",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es la capital de Marruecos?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Rabat",
+        "is_correct": true
+      },
+      {
+        "text": "Fez",
+        "is_correct": false
+      },
+      {
+        "text": "Casablanca",
+        "is_correct": false
+      },
+      {
+        "text": "Marrakech",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuántos estados tiene Estados Unidos?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "50",
+        "is_correct": true
+      },
+      {
+        "text": "52",
+        "is_correct": false
+      },
+      {
+        "text": "51",
+        "is_correct": false
+      },
+      {
+        "text": "48",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cómo se llama el punto más profundo de los océanos?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Fosa de Puerto Rico",
+        "is_correct": false
+      },
+      {
+        "text": "Fosa de Java",
+        "is_correct": false
+      },
+      {
+        "text": "Fosa de Tonga",
+        "is_correct": false
+      },
+      {
+        "text": "Fosa de las Marianas",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es la capital de Kazajistán?",
+    "category": "Geografía",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Biskek",
+        "is_correct": false
+      },
+      {
+        "text": "Almaty",
+        "is_correct": false
+      },
+      {
+        "text": "Astaná",
+        "is_correct": true
+      },
+      {
+        "text": "Taskent",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es el río más largo de Europa?",
+    "category": "Geografía",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Rin",
+        "is_correct": false
+      },
+      {
+        "text": "Volga",
+        "is_correct": true
+      },
+      {
+        "text": "Danubio",
+        "is_correct": false
+      },
+      {
+        "text": "Dniéper",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué país está el Kilimanjaro?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Uganda",
+        "is_correct": false
+      },
+      {
+        "text": "Tanzania",
+        "is_correct": true
+      },
+      {
+        "text": "Kenia",
+        "is_correct": false
+      },
+      {
+        "text": "Etiopía",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es la moneda del Reino Unido?",
+    "category": "Geografía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Euro",
+        "is_correct": false
+      },
+      {
+        "text": "Corona",
+        "is_correct": false
+      },
+      {
+        "text": "Libra esterlina",
+        "is_correct": true
+      },
+      {
+        "text": "Dólar",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué país está la antigua ciudad de Petra?",
+    "category": "Geografía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Turquía",
+        "is_correct": false
+      },
+      {
+        "text": "Egipto",
+        "is_correct": false
+      },
+      {
+        "text": "Jordania",
+        "is_correct": true
+      },
+      {
+        "text": "Irán",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué año llegó el ser humano a la Luna?",
+    "category": "Historia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "1972",
+        "is_correct": false
+      },
+      {
+        "text": "1959",
+        "is_correct": false
+      },
+      {
+        "text": "1965",
+        "is_correct": false
+      },
+      {
+        "text": "1969",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién fue el primer emperador romano?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Julio César",
+        "is_correct": false
+      },
+      {
+        "text": "Augusto",
+        "is_correct": true
+      },
+      {
+        "text": "Nerón",
+        "is_correct": false
+      },
+      {
+        "text": "Trajano",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué año empezó la Segunda Guerra Mundial?",
+    "category": "Historia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "1936",
+        "is_correct": false
+      },
+      {
+        "text": "1941",
+        "is_correct": false
+      },
+      {
+        "text": "1914",
+        "is_correct": false
+      },
+      {
+        "text": "1939",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué año comenzó la Revolución francesa?",
+    "category": "Historia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "1789",
+        "is_correct": true
+      },
+      {
+        "text": "1815",
+        "is_correct": false
+      },
+      {
+        "text": "1848",
+        "is_correct": false
+      },
+      {
+        "text": "1776",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién fue el primer presidente de Estados Unidos?",
+    "category": "Historia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Thomas Jefferson",
+        "is_correct": false
+      },
+      {
+        "text": "George Washington",
+        "is_correct": true
+      },
+      {
+        "text": "John Adams",
+        "is_correct": false
+      },
+      {
+        "text": "Abraham Lincoln",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué civilización construyó Machu Picchu?",
+    "category": "Historia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Los incas",
+        "is_correct": true
+      },
+      {
+        "text": "Los mayas",
+        "is_correct": false
+      },
+      {
+        "text": "Los aztecas",
+        "is_correct": false
+      },
+      {
+        "text": "Los olmecas",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿De qué faraón descubrió Howard Carter la tumba en 1922?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Tutankamón",
+        "is_correct": true
+      },
+      {
+        "text": "Keops",
+        "is_correct": false
+      },
+      {
+        "text": "Ramsés II",
+        "is_correct": false
+      },
+      {
+        "text": "Akenatón",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué año terminó la Primera Guerra Mundial?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "1919",
+        "is_correct": false
+      },
+      {
+        "text": "1917",
+        "is_correct": false
+      },
+      {
+        "text": "1914",
+        "is_correct": false
+      },
+      {
+        "text": "1918",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué famoso transatlántico se hundió en 1912?",
+    "category": "Historia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Lusitania",
+        "is_correct": false
+      },
+      {
+        "text": "Queen Mary",
+        "is_correct": false
+      },
+      {
+        "text": "Titanic",
+        "is_correct": true
+      },
+      {
+        "text": "Britannic",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién fue derrotado en la batalla de Waterloo?",
+    "category": "Historia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Wellington",
+        "is_correct": false
+      },
+      {
+        "text": "Luis XVI",
+        "is_correct": false
+      },
+      {
+        "text": "Nelson",
+        "is_correct": false
+      },
+      {
+        "text": "Napoleón",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué ciudad romana sepultó el Vesubio en el año 79?",
+    "category": "Historia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Nápoles",
+        "is_correct": false
+      },
+      {
+        "text": "Roma",
+        "is_correct": false
+      },
+      {
+        "text": "Ostia",
+        "is_correct": false
+      },
+      {
+        "text": "Pompeya",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué año cayó Constantinopla en manos otomanas?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "1517",
+        "is_correct": false
+      },
+      {
+        "text": "1492",
+        "is_correct": false
+      },
+      {
+        "text": "1204",
+        "is_correct": false
+      },
+      {
+        "text": "1453",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién dirigía la URSS durante la Segunda Guerra Mundial?",
+    "category": "Historia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Jruschov",
+        "is_correct": false
+      },
+      {
+        "text": "Lenin",
+        "is_correct": false
+      },
+      {
+        "text": "Stalin",
+        "is_correct": true
+      },
+      {
+        "text": "Trotski",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué pueblo tenía su capital en Tenochtitlan?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Los aztecas (mexicas)",
+        "is_correct": true
+      },
+      {
+        "text": "Los mayas",
+        "is_correct": false
+      },
+      {
+        "text": "Los incas",
+        "is_correct": false
+      },
+      {
+        "text": "Los toltecas",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién conquistó el imperio azteca?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Vasco Núñez de Balboa",
+        "is_correct": false
+      },
+      {
+        "text": "Francisco Pizarro",
+        "is_correct": false
+      },
+      {
+        "text": "Pedro de Valdivia",
+        "is_correct": false
+      },
+      {
+        "text": "Hernán Cortés",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién fue el primer ser humano en viajar al espacio?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "John Glenn",
+        "is_correct": false
+      },
+      {
+        "text": "Valentina Tereshkova",
+        "is_correct": false
+      },
+      {
+        "text": "Neil Armstrong",
+        "is_correct": false
+      },
+      {
+        "text": "Yuri Gagarin",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué monarca británica reinó durante 70 años?",
+    "category": "Historia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Isabel I",
+        "is_correct": false
+      },
+      {
+        "text": "Isabel II",
+        "is_correct": true
+      },
+      {
+        "text": "Victoria",
+        "is_correct": false
+      },
+      {
+        "text": "Ana",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué año declaró su independencia Estados Unidos?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "1812",
+        "is_correct": false
+      },
+      {
+        "text": "1789",
+        "is_correct": false
+      },
+      {
+        "text": "1492",
+        "is_correct": false
+      },
+      {
+        "text": "1776",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién escribió las 95 tesis en 1517?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Erasmo de Róterdam",
+        "is_correct": false
+      },
+      {
+        "text": "Enrique VIII",
+        "is_correct": false
+      },
+      {
+        "text": "Martín Lutero",
+        "is_correct": true
+      },
+      {
+        "text": "Juan Calvino",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué ciudad fue asesinado John F. Kennedy?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Washington",
+        "is_correct": false
+      },
+      {
+        "text": "Dallas",
+        "is_correct": true
+      },
+      {
+        "text": "Chicago",
+        "is_correct": false
+      },
+      {
+        "text": "Nueva York",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién fue primer ministro británico durante la mayor parte de la Segunda Guerra Mundial?",
+    "category": "Historia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Margaret Thatcher",
+        "is_correct": false
+      },
+      {
+        "text": "Clement Attlee",
+        "is_correct": false
+      },
+      {
+        "text": "Neville Chamberlain",
+        "is_correct": false
+      },
+      {
+        "text": "Winston Churchill",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cómo se llamó la guerra entre Francia e Inglaterra de 1337 a 1453?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Guerra de los Cien Años",
+        "is_correct": true
+      },
+      {
+        "text": "Guerra de las Dos Rosas",
+        "is_correct": false
+      },
+      {
+        "text": "Guerra de los Siete Años",
+        "is_correct": false
+      },
+      {
+        "text": "Guerra de los Treinta Años",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué pueblo de Mesopotamia inventó la escritura cuneiforme?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Los sumerios",
+        "is_correct": true
+      },
+      {
+        "text": "Los hititas",
+        "is_correct": false
+      },
+      {
+        "text": "Los fenicios",
+        "is_correct": false
+      },
+      {
+        "text": "Los egipcios",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿De qué país fue presidente Nelson Mandela?",
+    "category": "Historia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Kenia",
+        "is_correct": false
+      },
+      {
+        "text": "Nigeria",
+        "is_correct": false
+      },
+      {
+        "text": "Sudáfrica",
+        "is_correct": true
+      },
+      {
+        "text": "Zimbabue",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué año se lanzó la bomba atómica sobre Hiroshima?",
+    "category": "Historia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "1944",
+        "is_correct": false
+      },
+      {
+        "text": "1939",
+        "is_correct": false
+      },
+      {
+        "text": "1945",
+        "is_correct": true
+      },
+      {
+        "text": "1950",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿De qué país fue reina Cleopatra?",
+    "category": "Historia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Grecia",
+        "is_correct": false
+      },
+      {
+        "text": "Roma",
+        "is_correct": false
+      },
+      {
+        "text": "Persia",
+        "is_correct": false
+      },
+      {
+        "text": "Egipto",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué año fue la Revolución rusa?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "1921",
+        "is_correct": false
+      },
+      {
+        "text": "1905",
+        "is_correct": false
+      },
+      {
+        "text": "1917",
+        "is_correct": true
+      },
+      {
+        "text": "1898",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién fue la primera mujer en ganar un Premio Nobel?",
+    "category": "Historia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Marie Curie",
+        "is_correct": true
+      },
+      {
+        "text": "Ada Lovelace",
+        "is_correct": false
+      },
+      {
+        "text": "Rosalind Franklin",
+        "is_correct": false
+      },
+      {
+        "text": "Clara Campoamor",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué imperio fundó Gengis Kan?",
+    "category": "Historia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "El persa",
+        "is_correct": false
+      },
+      {
+        "text": "El chino",
+        "is_correct": false
+      },
+      {
+        "text": "El mongol",
+        "is_correct": true
+      },
+      {
+        "text": "El otomano",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es el símbolo químico del oro?",
+    "category": "Ciencia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Or",
+        "is_correct": false
+      },
+      {
+        "text": "Ag",
+        "is_correct": false
+      },
+      {
+        "text": "Au",
+        "is_correct": true
+      },
+      {
+        "text": "Go",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es el planeta más grande del sistema solar?",
+    "category": "Ciencia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Saturno",
+        "is_correct": false
+      },
+      {
+        "text": "Júpiter",
+        "is_correct": true
+      },
+      {
+        "text": "Neptuno",
+        "is_correct": false
+      },
+      {
+        "text": "Tierra",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es el gas más abundante en la atmósfera terrestre?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Oxígeno",
+        "is_correct": false
+      },
+      {
+        "text": "Nitrógeno",
+        "is_correct": true
+      },
+      {
+        "text": "Argón",
+        "is_correct": false
+      },
+      {
+        "text": "Dióxido de carbono",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "206",
+        "is_correct": true
+      },
+      {
+        "text": "306",
+        "is_correct": false
+      },
+      {
+        "text": "226",
+        "is_correct": false
+      },
+      {
+        "text": "186",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿A qué velocidad aproximada viaja la luz?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "30.000 km/s",
+        "is_correct": false
+      },
+      {
+        "text": "3.000 km/s",
+        "is_correct": false
+      },
+      {
+        "text": "3.000.000 km/s",
+        "is_correct": false
+      },
+      {
+        "text": "300.000 km/s",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es la fórmula química del agua?",
+    "category": "Ciencia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "H₂O₂",
+        "is_correct": false
+      },
+      {
+        "text": "H₂O",
+        "is_correct": true
+      },
+      {
+        "text": "O₂",
+        "is_correct": false
+      },
+      {
+        "text": "CO₂",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué planeta es conocido como «el planeta rojo»?",
+    "category": "Ciencia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Mercurio",
+        "is_correct": false
+      },
+      {
+        "text": "Marte",
+        "is_correct": true
+      },
+      {
+        "text": "Venus",
+        "is_correct": false
+      },
+      {
+        "text": "Júpiter",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién formuló la teoría de la relatividad?",
+    "category": "Ciencia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Stephen Hawking",
+        "is_correct": false
+      },
+      {
+        "text": "Albert Einstein",
+        "is_correct": true
+      },
+      {
+        "text": "Isaac Newton",
+        "is_correct": false
+      },
+      {
+        "text": "Niels Bohr",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué partícula del átomo tiene carga negativa?",
+    "category": "Ciencia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Fotón",
+        "is_correct": false
+      },
+      {
+        "text": "Electrón",
+        "is_correct": true
+      },
+      {
+        "text": "Protón",
+        "is_correct": false
+      },
+      {
+        "text": "Neutrón",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es el planeta más cercano al Sol?",
+    "category": "Ciencia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Venus",
+        "is_correct": false
+      },
+      {
+        "text": "Mercurio",
+        "is_correct": true
+      },
+      {
+        "text": "Tierra",
+        "is_correct": false
+      },
+      {
+        "text": "Marte",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿A qué temperatura hierve el agua a nivel del mar?",
+    "category": "Ciencia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "90 °C",
+        "is_correct": false
+      },
+      {
+        "text": "110 °C",
+        "is_correct": false
+      },
+      {
+        "text": "80 °C",
+        "is_correct": false
+      },
+      {
+        "text": "100 °C",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién descubrió la penicilina?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Louis Pasteur",
+        "is_correct": false
+      },
+      {
+        "text": "Alexander Fleming",
+        "is_correct": true
+      },
+      {
+        "text": "Santiago Ramón y Cajal",
+        "is_correct": false
+      },
+      {
+        "text": "Robert Koch",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué unidad se mide la resistencia eléctrica?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Ohmio",
+        "is_correct": true
+      },
+      {
+        "text": "Vatio",
+        "is_correct": false
+      },
+      {
+        "text": "Amperio",
+        "is_correct": false
+      },
+      {
+        "text": "Voltio",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuántos cromosomas tiene normalmente una célula humana?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "46",
+        "is_correct": true
+      },
+      {
+        "text": "48",
+        "is_correct": false
+      },
+      {
+        "text": "44",
+        "is_correct": false
+      },
+      {
+        "text": "23",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es el elemento más abundante del universo?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Hidrógeno",
+        "is_correct": true
+      },
+      {
+        "text": "Helio",
+        "is_correct": false
+      },
+      {
+        "text": "Carbono",
+        "is_correct": false
+      },
+      {
+        "text": "Oxígeno",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué valor de pH se considera neutro?",
+    "category": "Ciencia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "0",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuántos planetas tiene el sistema solar?",
+    "category": "Ciencia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "8",
+        "is_correct": true
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es el órgano más grande del cuerpo humano?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "El hígado",
+        "is_correct": false
+      },
+      {
+        "text": "El cerebro",
+        "is_correct": false
+      },
+      {
+        "text": "La piel",
+        "is_correct": true
+      },
+      {
+        "text": "El intestino",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién propuso la teoría de la evolución por selección natural?",
+    "category": "Ciencia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Gregor Mendel",
+        "is_correct": false
+      },
+      {
+        "text": "Louis Pasteur",
+        "is_correct": false
+      },
+      {
+        "text": "Lamarck",
+        "is_correct": false
+      },
+      {
+        "text": "Charles Darwin",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué metal es líquido a temperatura ambiente?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Aluminio",
+        "is_correct": false
+      },
+      {
+        "text": "Estaño",
+        "is_correct": false
+      },
+      {
+        "text": "Plomo",
+        "is_correct": false
+      },
+      {
+        "text": "Mercurio",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué grupo sanguíneo es el donante universal?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "B negativo",
+        "is_correct": false
+      },
+      {
+        "text": "0 negativo",
+        "is_correct": true
+      },
+      {
+        "text": "AB positivo",
+        "is_correct": false
+      },
+      {
+        "text": "A positivo",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué unidad se mide la frecuencia?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Julio",
+        "is_correct": false
+      },
+      {
+        "text": "Hercio",
+        "is_correct": true
+      },
+      {
+        "text": "Pascal",
+        "is_correct": false
+      },
+      {
+        "text": "Newton",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es el satélite más grande del sistema solar?",
+    "category": "Ciencia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Calisto",
+        "is_correct": false
+      },
+      {
+        "text": "Ganímedes",
+        "is_correct": true
+      },
+      {
+        "text": "Titán",
+        "is_correct": false
+      },
+      {
+        "text": "La Luna",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué gas noble da el color rojo a muchos letreros luminosos?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Argón",
+        "is_correct": false
+      },
+      {
+        "text": "Radón",
+        "is_correct": false
+      },
+      {
+        "text": "Neón",
+        "is_correct": true
+      },
+      {
+        "text": "Helio",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es el número atómico del carbono?",
+    "category": "Ciencia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": true
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es el hueso más largo del cuerpo humano?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Peroné",
+        "is_correct": false
+      },
+      {
+        "text": "Fémur",
+        "is_correct": true
+      },
+      {
+        "text": "Húmero",
+        "is_correct": false
+      },
+      {
+        "text": "Tibia",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuánto tarda aproximadamente la luz del Sol en llegar a la Tierra?",
+    "category": "Ciencia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Unos 8 segundos",
+        "is_correct": false
+      },
+      {
+        "text": "Unas 8 horas",
+        "is_correct": false
+      },
+      {
+        "text": "Un día",
+        "is_correct": false
+      },
+      {
+        "text": "Unos 8 minutos",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién formuló la ley de la gravitación universal?",
+    "category": "Ciencia",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Albert Einstein",
+        "is_correct": false
+      },
+      {
+        "text": "Johannes Kepler",
+        "is_correct": false
+      },
+      {
+        "text": "Isaac Newton",
+        "is_correct": true
+      },
+      {
+        "text": "Galileo Galilei",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cómo se llama la escala que mide la dureza de los minerales?",
+    "category": "Ciencia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Escala de Beaufort",
+        "is_correct": false
+      },
+      {
+        "text": "Escala de Kelvin",
+        "is_correct": false
+      },
+      {
+        "text": "Escala de Richter",
+        "is_correct": false
+      },
+      {
+        "text": "Escala de Mohs",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué parte de la célula es su «central de energía»?",
+    "category": "Ciencia",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "El núcleo",
+        "is_correct": false
+      },
+      {
+        "text": "La mitocondria",
+        "is_correct": true
+      },
+      {
+        "text": "El aparato de Golgi",
+        "is_correct": false
+      },
+      {
+        "text": "El ribosoma",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es el animal terrestre más rápido?",
+    "category": "Naturaleza",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Guepardo",
+        "is_correct": true
+      },
+      {
+        "text": "Gacela",
+        "is_correct": false
+      },
+      {
+        "text": "León",
+        "is_correct": false
+      },
+      {
+        "text": "Caballo",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es el animal más grande del planeta?",
+    "category": "Naturaleza",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Ballena azul",
+        "is_correct": true
+      },
+      {
+        "text": "Elefante africano",
+        "is_correct": false
+      },
+      {
+        "text": "Tiburón ballena",
+        "is_correct": false
+      },
+      {
+        "text": "Cachalote",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuántas patas tiene una araña?",
+    "category": "Naturaleza",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": true
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuántos corazones tiene un pulpo?",
+    "category": "Naturaleza",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": true
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "1",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es el ave más grande que existe?",
+    "category": "Naturaleza",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Emú",
+        "is_correct": false
+      },
+      {
+        "text": "Avestruz",
+        "is_correct": true
+      },
+      {
+        "text": "Pingüino emperador",
+        "is_correct": false
+      },
+      {
+        "text": "Cóndor",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué árbol típico de la dehesa da bellotas?",
+    "category": "Naturaleza",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Encina",
+        "is_correct": true
+      },
+      {
+        "text": "Pino",
+        "is_correct": false
+      },
+      {
+        "text": "Castaño",
+        "is_correct": false
+      },
+      {
+        "text": "Olivo",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué tipo de mamífero es el canguro?",
+    "category": "Naturaleza",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Primate",
+        "is_correct": false
+      },
+      {
+        "text": "Felino",
+        "is_correct": false
+      },
+      {
+        "text": "Roedor",
+        "is_correct": false
+      },
+      {
+        "text": "Marsupial",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cómo se llama el proceso con el que las plantas fabrican alimento usando la luz?",
+    "category": "Naturaleza",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Respiración",
+        "is_correct": false
+      },
+      {
+        "text": "Polinización",
+        "is_correct": false
+      },
+      {
+        "text": "Fotosíntesis",
+        "is_correct": true
+      },
+      {
+        "text": "Fermentación",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es el único mamífero capaz de volar?",
+    "category": "Naturaleza",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Colugo",
+        "is_correct": false
+      },
+      {
+        "text": "Murciélago",
+        "is_correct": true
+      },
+      {
+        "text": "Ardilla voladora",
+        "is_correct": false
+      },
+      {
+        "text": "Lémur",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cómo se llama la cría del caballo?",
+    "category": "Naturaleza",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Cordero",
+        "is_correct": false
+      },
+      {
+        "text": "Potro",
+        "is_correct": true
+      },
+      {
+        "text": "Ternero",
+        "is_correct": false
+      },
+      {
+        "text": "Lechón",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es el felino más grande del mundo?",
+    "category": "Naturaleza",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Leopardo",
+        "is_correct": false
+      },
+      {
+        "text": "Jaguar",
+        "is_correct": false
+      },
+      {
+        "text": "Tigre",
+        "is_correct": true
+      },
+      {
+        "text": "León",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué felino en peligro de extinción vive solo en la península ibérica?",
+    "category": "Naturaleza",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Leopardo de las nieves",
+        "is_correct": false
+      },
+      {
+        "text": "Lince ibérico",
+        "is_correct": true
+      },
+      {
+        "text": "Gato montés",
+        "is_correct": false
+      },
+      {
+        "text": "Caracal",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuántas patas tiene un insecto?",
+    "category": "Naturaleza",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál de estos animales es un anfibio?",
+    "category": "Naturaleza",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Tortuga",
+        "is_correct": false
+      },
+      {
+        "text": "Serpiente",
+        "is_correct": false
+      },
+      {
+        "text": "Lagarto",
+        "is_correct": false
+      },
+      {
+        "text": "Rana",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué animal es el símbolo de la organización WWF?",
+    "category": "Naturaleza",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Elefante",
+        "is_correct": false
+      },
+      {
+        "text": "Ballena",
+        "is_correct": false
+      },
+      {
+        "text": "Panda gigante",
+        "is_correct": true
+      },
+      {
+        "text": "Tigre",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿De qué se alimenta principalmente el panda gigante?",
+    "category": "Naturaleza",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Pescado",
+        "is_correct": false
+      },
+      {
+        "text": "Eucalipto",
+        "is_correct": false
+      },
+      {
+        "text": "Bambú",
+        "is_correct": true
+      },
+      {
+        "text": "Insectos",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Dónde está la Gran Barrera de Coral?",
+    "category": "Naturaleza",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Indonesia",
+        "is_correct": false
+      },
+      {
+        "text": "Filipinas",
+        "is_correct": false
+      },
+      {
+        "text": "Australia",
+        "is_correct": true
+      },
+      {
+        "text": "México",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué reptil es famoso por cambiar de color?",
+    "category": "Naturaleza",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Iguana",
+        "is_correct": false
+      },
+      {
+        "text": "Camaleón",
+        "is_correct": true
+      },
+      {
+        "text": "Cocodrilo",
+        "is_correct": false
+      },
+      {
+        "text": "Gecko",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué continente viven los pingüinos emperador?",
+    "category": "Naturaleza",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Sudamérica",
+        "is_correct": false
+      },
+      {
+        "text": "Ártico",
+        "is_correct": false
+      },
+      {
+        "text": "Oceanía",
+        "is_correct": false
+      },
+      {
+        "text": "Antártida",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué es una orca?",
+    "category": "Naturaleza",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Un pez",
+        "is_correct": false
+      },
+      {
+        "text": "Un tiburón",
+        "is_correct": false
+      },
+      {
+        "text": "Una ballena barbada",
+        "is_correct": false
+      },
+      {
+        "text": "Un mamífero de la familia de los delfines",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién escribió «Don Quijote de la Mancha»?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Lope de Vega",
+        "is_correct": false
+      },
+      {
+        "text": "Francisco de Quevedo",
+        "is_correct": false
+      },
+      {
+        "text": "Calderón de la Barca",
+        "is_correct": false
+      },
+      {
+        "text": "Miguel de Cervantes",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién pintó «La Gioconda» (Mona Lisa)?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Leonardo da Vinci",
+        "is_correct": true
+      },
+      {
+        "text": "Botticelli",
+        "is_correct": false
+      },
+      {
+        "text": "Miguel Ángel",
+        "is_correct": false
+      },
+      {
+        "text": "Rafael",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién pintó «Las Meninas»?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Diego Velázquez",
+        "is_correct": true
+      },
+      {
+        "text": "Murillo",
+        "is_correct": false
+      },
+      {
+        "text": "Francisco de Goya",
+        "is_correct": false
+      },
+      {
+        "text": "El Greco",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién pintó el «Guernica»?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Pablo Picasso",
+        "is_correct": true
+      },
+      {
+        "text": "Joan Miró",
+        "is_correct": false
+      },
+      {
+        "text": "Juan Gris",
+        "is_correct": false
+      },
+      {
+        "text": "Salvador Dalí",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién escribió «Cien años de soledad»?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Pablo Neruda",
+        "is_correct": false
+      },
+      {
+        "text": "Gabriel García Márquez",
+        "is_correct": true
+      },
+      {
+        "text": "Julio Cortázar",
+        "is_correct": false
+      },
+      {
+        "text": "Mario Vargas Llosa",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién escribió «Romeo y Julieta»?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "William Shakespeare",
+        "is_correct": true
+      },
+      {
+        "text": "Molière",
+        "is_correct": false
+      },
+      {
+        "text": "Oscar Wilde",
+        "is_correct": false
+      },
+      {
+        "text": "Charles Dickens",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué museo está «La Gioconda»?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Galería Uffizi",
+        "is_correct": false
+      },
+      {
+        "text": "Museo del Louvre",
+        "is_correct": true
+      },
+      {
+        "text": "Museo del Prado",
+        "is_correct": false
+      },
+      {
+        "text": "Museos Vaticanos",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién pintó «La noche estrellada»?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Edvard Munch",
+        "is_correct": false
+      },
+      {
+        "text": "Claude Monet",
+        "is_correct": false
+      },
+      {
+        "text": "Vincent van Gogh",
+        "is_correct": true
+      },
+      {
+        "text": "Paul Cézanne",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién pintó la bóveda de la Capilla Sixtina?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Caravaggio",
+        "is_correct": false
+      },
+      {
+        "text": "Leonardo da Vinci",
+        "is_correct": false
+      },
+      {
+        "text": "Miguel Ángel",
+        "is_correct": true
+      },
+      {
+        "text": "Rafael",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿A quién se atribuye «La Odisea»?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Homero",
+        "is_correct": true
+      },
+      {
+        "text": "Platón",
+        "is_correct": false
+      },
+      {
+        "text": "Sófocles",
+        "is_correct": false
+      },
+      {
+        "text": "Virgilio",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué arquitecto diseñó la Sagrada Familia?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Rafael Moneo",
+        "is_correct": false
+      },
+      {
+        "text": "Antoni Gaudí",
+        "is_correct": true
+      },
+      {
+        "text": "Lluís Domènech i Montaner",
+        "is_correct": false
+      },
+      {
+        "text": "Santiago Calatrava",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién escribió la novela «1984»?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Ray Bradbury",
+        "is_correct": false
+      },
+      {
+        "text": "George Orwell",
+        "is_correct": true
+      },
+      {
+        "text": "Aldous Huxley",
+        "is_correct": false
+      },
+      {
+        "text": "H. G. Wells",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién pintó «El jardín de las delicias»?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "El Bosco",
+        "is_correct": true
+      },
+      {
+        "text": "Rubens",
+        "is_correct": false
+      },
+      {
+        "text": "Durero",
+        "is_correct": false
+      },
+      {
+        "text": "Pieter Brueghel",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién escribió «Don Juan Tenorio»?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "José de Espronceda",
+        "is_correct": false
+      },
+      {
+        "text": "José Zorrilla",
+        "is_correct": true
+      },
+      {
+        "text": "Gustavo Adolfo Bécquer",
+        "is_correct": false
+      },
+      {
+        "text": "Tirso de Molina",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién escribió «La Divina Comedia»?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Maquiavelo",
+        "is_correct": false
+      },
+      {
+        "text": "Boccaccio",
+        "is_correct": false
+      },
+      {
+        "text": "Dante Alighieri",
+        "is_correct": true
+      },
+      {
+        "text": "Petrarca",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién pintó «La persistencia de la memoria», el cuadro de los relojes blandos?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Joan Miró",
+        "is_correct": false
+      },
+      {
+        "text": "Pablo Picasso",
+        "is_correct": false
+      },
+      {
+        "text": "Salvador Dalí",
+        "is_correct": true
+      },
+      {
+        "text": "René Magritte",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién escribió «Los miserables»?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Émile Zola",
+        "is_correct": false
+      },
+      {
+        "text": "Gustave Flaubert",
+        "is_correct": false
+      },
+      {
+        "text": "Victor Hugo",
+        "is_correct": true
+      },
+      {
+        "text": "Alexandre Dumas",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué compositor escribió la Novena Sinfonía con el «Himno de la alegría»?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Ludwig van Beethoven",
+        "is_correct": true
+      },
+      {
+        "text": "Johann Sebastian Bach",
+        "is_correct": false
+      },
+      {
+        "text": "Franz Schubert",
+        "is_correct": false
+      },
+      {
+        "text": "Wolfgang Amadeus Mozart",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué escultor creó «El pensador»?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Miguel Ángel",
+        "is_correct": false
+      },
+      {
+        "text": "Auguste Rodin",
+        "is_correct": true
+      },
+      {
+        "text": "Donatello",
+        "is_correct": false
+      },
+      {
+        "text": "Bernini",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién escribió «La metamorfosis»?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Franz Kafka",
+        "is_correct": true
+      },
+      {
+        "text": "Hermann Hesse",
+        "is_correct": false
+      },
+      {
+        "text": "Albert Camus",
+        "is_correct": false
+      },
+      {
+        "text": "Thomas Mann",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién pintó «Los fusilamientos del 3 de mayo»?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Eduardo Rosales",
+        "is_correct": false
+      },
+      {
+        "text": "Joaquín Sorolla",
+        "is_correct": false
+      },
+      {
+        "text": "Diego Velázquez",
+        "is_correct": false
+      },
+      {
+        "text": "Francisco de Goya",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién escribió «El principito»?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Julio Verne",
+        "is_correct": false
+      },
+      {
+        "text": "Antoine de Saint-Exupéry",
+        "is_correct": true
+      },
+      {
+        "text": "Albert Camus",
+        "is_correct": false
+      },
+      {
+        "text": "Victor Hugo",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién escribió «Rayuela»?",
+    "category": "Arte y cultura",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Ernesto Sabato",
+        "is_correct": false
+      },
+      {
+        "text": "Jorge Luis Borges",
+        "is_correct": false
+      },
+      {
+        "text": "Juan Rulfo",
+        "is_correct": false
+      },
+      {
+        "text": "Julio Cortázar",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué ciudad está el Museo del Prado?",
+    "category": "Arte y cultura",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Sevilla",
+        "is_correct": false
+      },
+      {
+        "text": "Valencia",
+        "is_correct": false
+      },
+      {
+        "text": "Madrid",
+        "is_correct": true
+      },
+      {
+        "text": "Barcelona",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿A qué movimiento artístico pertenece Claude Monet?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Surrealismo",
+        "is_correct": false
+      },
+      {
+        "text": "Cubismo",
+        "is_correct": false
+      },
+      {
+        "text": "Impresionismo",
+        "is_correct": true
+      },
+      {
+        "text": "Barroco",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién escribió «La vida es sueño»?",
+    "category": "Arte y cultura",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Lope de Vega",
+        "is_correct": false
+      },
+      {
+        "text": "Calderón de la Barca",
+        "is_correct": true
+      },
+      {
+        "text": "Tirso de Molina",
+        "is_correct": false
+      },
+      {
+        "text": "Miguel de Cervantes",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién escribió «Orgullo y prejuicio»?",
+    "category": "Arte y cultura",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Mary Shelley",
+        "is_correct": false
+      },
+      {
+        "text": "Virginia Woolf",
+        "is_correct": false
+      },
+      {
+        "text": "Jane Austen",
+        "is_correct": true
+      },
+      {
+        "text": "Charlotte Brontë",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuántos jugadores por equipo hay en el campo en un partido de fútbol?",
+    "category": "Deporte",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "11",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cada cuántos años se celebran los Juegos Olímpicos de verano?",
+    "category": "Deporte",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "4",
+        "is_correct": true
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿A qué deporte jugaba Michael Jordan?",
+    "category": "Deporte",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Baloncesto",
+        "is_correct": true
+      },
+      {
+        "text": "Béisbol",
+        "is_correct": false
+      },
+      {
+        "text": "Tenis",
+        "is_correct": false
+      },
+      {
+        "text": "Fútbol americano",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué país ha ganado más Mundiales de fútbol?",
+    "category": "Deporte",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Argentina",
+        "is_correct": false
+      },
+      {
+        "text": "Alemania",
+        "is_correct": false
+      },
+      {
+        "text": "Brasil",
+        "is_correct": true
+      },
+      {
+        "text": "Italia",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuántos kilómetros mide un maratón?",
+    "category": "Deporte",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "21,097 km",
+        "is_correct": false
+      },
+      {
+        "text": "42,195 km",
+        "is_correct": true
+      },
+      {
+        "text": "40 km",
+        "is_correct": false
+      },
+      {
+        "text": "45 km",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué torneo de Grand Slam se juega sobre hierba?",
+    "category": "Deporte",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "US Open",
+        "is_correct": false
+      },
+      {
+        "text": "Wimbledon",
+        "is_correct": true
+      },
+      {
+        "text": "Roland Garros",
+        "is_correct": false
+      },
+      {
+        "text": "Open de Australia",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuántos jugadores de cada equipo hay en pista en baloncesto?",
+    "category": "Deporte",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": true
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué atleta tiene el récord mundial de los 100 metros lisos?",
+    "category": "Deporte",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Tyson Gay",
+        "is_correct": false
+      },
+      {
+        "text": "Carl Lewis",
+        "is_correct": false
+      },
+      {
+        "text": "Yohan Blake",
+        "is_correct": false
+      },
+      {
+        "text": "Usain Bolt",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Dónde se celebraron los primeros Juegos Olímpicos modernos, en 1896?",
+    "category": "Deporte",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Roma",
+        "is_correct": false
+      },
+      {
+        "text": "Londres",
+        "is_correct": false
+      },
+      {
+        "text": "Atenas",
+        "is_correct": true
+      },
+      {
+        "text": "París",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuántos puntos vale un ensayo (try) en rugby union?",
+    "category": "Deporte",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "5",
+        "is_correct": true
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿A qué deporte pertenece el Tour de Francia?",
+    "category": "Deporte",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Vela",
+        "is_correct": false
+      },
+      {
+        "text": "Ciclismo",
+        "is_correct": true
+      },
+      {
+        "text": "Atletismo",
+        "is_correct": false
+      },
+      {
+        "text": "Automovilismo",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuántos aros tiene el símbolo olímpico?",
+    "category": "Deporte",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": true
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué país nació el judo?",
+    "category": "Deporte",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "China",
+        "is_correct": false
+      },
+      {
+        "text": "Corea del Sur",
+        "is_correct": false
+      },
+      {
+        "text": "Japón",
+        "is_correct": true
+      },
+      {
+        "text": "Tailandia",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "En golf, ¿cómo se llama hacer un hoyo con un golpe menos del par?",
+    "category": "Deporte",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Albatros",
+        "is_correct": false
+      },
+      {
+        "text": "Eagle",
+        "is_correct": false
+      },
+      {
+        "text": "Bogey",
+        "is_correct": false
+      },
+      {
+        "text": "Birdie",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué ciudad organizó los Juegos Olímpicos de 2024?",
+    "category": "Deporte",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "París",
+        "is_correct": true
+      },
+      {
+        "text": "Los Ángeles",
+        "is_correct": false
+      },
+      {
+        "text": "Londres",
+        "is_correct": false
+      },
+      {
+        "text": "Tokio",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué selección ganó el Mundial de fútbol de 2022?",
+    "category": "Deporte",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Croacia",
+        "is_correct": false
+      },
+      {
+        "text": "Argentina",
+        "is_correct": true
+      },
+      {
+        "text": "Brasil",
+        "is_correct": false
+      },
+      {
+        "text": "Francia",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué nadador tiene más medallas de oro olímpicas?",
+    "category": "Deporte",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Ryan Lochte",
+        "is_correct": false
+      },
+      {
+        "text": "Mark Spitz",
+        "is_correct": false
+      },
+      {
+        "text": "Michael Phelps",
+        "is_correct": true
+      },
+      {
+        "text": "Ian Thorpe",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿A cuántos sets como máximo se juega un partido masculino de Grand Slam?",
+    "category": "Deporte",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": true
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué deporte se juega con un disco llamado «puck»?",
+    "category": "Deporte",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Lacrosse",
+        "is_correct": false
+      },
+      {
+        "text": "Hockey hierba",
+        "is_correct": false
+      },
+      {
+        "text": "Curling",
+        "is_correct": false
+      },
+      {
+        "text": "Hockey sobre hielo",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuánto mide de largo una piscina olímpica?",
+    "category": "Deporte",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "25 metros",
+        "is_correct": false
+      },
+      {
+        "text": "100 metros",
+        "is_correct": false
+      },
+      {
+        "text": "50 metros",
+        "is_correct": true
+      },
+      {
+        "text": "33 metros",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuántos minutos dura un partido de fútbol sin contar descuento ni prórroga?",
+    "category": "Deporte",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "100",
+        "is_correct": false
+      },
+      {
+        "text": "120",
+        "is_correct": false
+      },
+      {
+        "text": "90",
+        "is_correct": true
+      },
+      {
+        "text": "80",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién dirigió «Parque Jurásico»?",
+    "category": "Entretenimiento",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Steven Spielberg",
+        "is_correct": true
+      },
+      {
+        "text": "James Cameron",
+        "is_correct": false
+      },
+      {
+        "text": "Ridley Scott",
+        "is_correct": false
+      },
+      {
+        "text": "George Lucas",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cómo se llama el joven mago creado por J. K. Rowling?",
+    "category": "Entretenimiento",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Merlín",
+        "is_correct": false
+      },
+      {
+        "text": "Percy Jackson",
+        "is_correct": false
+      },
+      {
+        "text": "Harry Potter",
+        "is_correct": true
+      },
+      {
+        "text": "Gandalf",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es la película más taquillera de la historia?",
+    "category": "Entretenimiento",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Vengadores: Endgame",
+        "is_correct": false
+      },
+      {
+        "text": "Titanic",
+        "is_correct": false
+      },
+      {
+        "text": "Avatar",
+        "is_correct": true
+      },
+      {
+        "text": "Star Wars: El despertar de la Fuerza",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)",
+    "needs_review": true
+  },
+  {
+    "text": "¿Qué grupo cantaba «Bohemian Rhapsody»?",
+    "category": "Entretenimiento",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Queen",
+        "is_correct": true
+      },
+      {
+        "text": "The Beatles",
+        "is_correct": false
+      },
+      {
+        "text": "The Rolling Stones",
+        "is_correct": false
+      },
+      {
+        "text": "Led Zeppelin",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿A quién se conoce como «el Rey del Pop»?",
+    "category": "Entretenimiento",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Prince",
+        "is_correct": false
+      },
+      {
+        "text": "Michael Jackson",
+        "is_correct": true
+      },
+      {
+        "text": "Freddie Mercury",
+        "is_correct": false
+      },
+      {
+        "text": "Elvis Presley",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cómo se llama el ratón más famoso de Disney?",
+    "category": "Entretenimiento",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Mickey Mouse",
+        "is_correct": true
+      },
+      {
+        "text": "Jerry",
+        "is_correct": false
+      },
+      {
+        "text": "Stuart Little",
+        "is_correct": false
+      },
+      {
+        "text": "Speedy González",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué ciudad viven Los Simpson?",
+    "category": "Entretenimiento",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Springfield",
+        "is_correct": true
+      },
+      {
+        "text": "South Park",
+        "is_correct": false
+      },
+      {
+        "text": "Shelbyville",
+        "is_correct": false
+      },
+      {
+        "text": "Quahog",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué director español ganó el Óscar con «Todo sobre mi madre»?",
+    "category": "Entretenimiento",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Fernando Trueba",
+        "is_correct": false
+      },
+      {
+        "text": "Alejandro Amenábar",
+        "is_correct": false
+      },
+      {
+        "text": "Juan Antonio Bayona",
+        "is_correct": false
+      },
+      {
+        "text": "Pedro Almodóvar",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿De qué ciudad eran The Beatles?",
+    "category": "Entretenimiento",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Londres",
+        "is_correct": false
+      },
+      {
+        "text": "Birmingham",
+        "is_correct": false
+      },
+      {
+        "text": "Mánchester",
+        "is_correct": false
+      },
+      {
+        "text": "Liverpool",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué saga aparece Darth Vader?",
+    "category": "Entretenimiento",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Matrix",
+        "is_correct": false
+      },
+      {
+        "text": "Star Trek",
+        "is_correct": false
+      },
+      {
+        "text": "Dune",
+        "is_correct": false
+      },
+      {
+        "text": "Star Wars",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué superhéroe protege la ciudad de Gotham?",
+    "category": "Entretenimiento",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Spider-Man",
+        "is_correct": false
+      },
+      {
+        "text": "Iron Man",
+        "is_correct": false
+      },
+      {
+        "text": "Superman",
+        "is_correct": false
+      },
+      {
+        "text": "Batman",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué actor protagonizó «Titanic» junto a Kate Winslet?",
+    "category": "Entretenimiento",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Johnny Depp",
+        "is_correct": false
+      },
+      {
+        "text": "Brad Pitt",
+        "is_correct": false
+      },
+      {
+        "text": "Leonardo DiCaprio",
+        "is_correct": true
+      },
+      {
+        "text": "Matt Damon",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién compuso «Las cuatro estaciones»?",
+    "category": "Entretenimiento",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Händel",
+        "is_correct": false
+      },
+      {
+        "text": "Mozart",
+        "is_correct": false
+      },
+      {
+        "text": "Bach",
+        "is_correct": false
+      },
+      {
+        "text": "Antonio Vivaldi",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué serie española trata del atraco a la Fábrica Nacional de Moneda y Timbre?",
+    "category": "Entretenimiento",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Élite",
+        "is_correct": false
+      },
+      {
+        "text": "La casa de papel",
+        "is_correct": true
+      },
+      {
+        "text": "El internado",
+        "is_correct": false
+      },
+      {
+        "text": "Vis a vis",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cómo se llama el fontanero protagonista de los videojuegos de Nintendo?",
+    "category": "Entretenimiento",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Link",
+        "is_correct": false
+      },
+      {
+        "text": "Sonic",
+        "is_correct": false
+      },
+      {
+        "text": "Luigi",
+        "is_correct": false
+      },
+      {
+        "text": "Mario",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué película de Disney aparece el león Simba?",
+    "category": "Entretenimiento",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "El libro de la selva",
+        "is_correct": false
+      },
+      {
+        "text": "Madagascar",
+        "is_correct": false
+      },
+      {
+        "text": "El rey león",
+        "is_correct": true
+      },
+      {
+        "text": "Tarzán",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué cantante colombiana interpreta «Hips Don't Lie»?",
+    "category": "Entretenimiento",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Jennifer López",
+        "is_correct": false
+      },
+      {
+        "text": "Shakira",
+        "is_correct": true
+      },
+      {
+        "text": "Thalía",
+        "is_correct": false
+      },
+      {
+        "text": "Karol G",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál fue el primer largometraje de animación de Disney (1937)?",
+    "category": "Entretenimiento",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Fantasía",
+        "is_correct": false
+      },
+      {
+        "text": "Bambi",
+        "is_correct": false
+      },
+      {
+        "text": "Blancanieves y los siete enanitos",
+        "is_correct": true
+      },
+      {
+        "text": "Pinocho",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cómo se llama el hobbit que lleva el Anillo en «El Señor de los Anillos»?",
+    "category": "Entretenimiento",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Sam",
+        "is_correct": false
+      },
+      {
+        "text": "Pippin",
+        "is_correct": false
+      },
+      {
+        "text": "Frodo",
+        "is_correct": true
+      },
+      {
+        "text": "Bilbo",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué película surcoreana ganó el Óscar a mejor película en 2020?",
+    "category": "Entretenimiento",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Parásitos",
+        "is_correct": true
+      },
+      {
+        "text": "Minari",
+        "is_correct": false
+      },
+      {
+        "text": "Burning",
+        "is_correct": false
+      },
+      {
+        "text": "Oldboy",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué instrumento tocaba Jimi Hendrix?",
+    "category": "Entretenimiento",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Bajo",
+        "is_correct": false
+      },
+      {
+        "text": "Batería",
+        "is_correct": false
+      },
+      {
+        "text": "Teclado",
+        "is_correct": false
+      },
+      {
+        "text": "Guitarra eléctrica",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Por qué película ganó Javier Bardem el Óscar?",
+    "category": "Entretenimiento",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Mar adentro",
+        "is_correct": false
+      },
+      {
+        "text": "Skyfall",
+        "is_correct": false
+      },
+      {
+        "text": "No es país para viejos",
+        "is_correct": true
+      },
+      {
+        "text": "Biutiful",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué serie aparece el físico Sheldon Cooper?",
+    "category": "Entretenimiento",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "The Big Bang Theory",
+        "is_correct": true
+      },
+      {
+        "text": "Modern Family",
+        "is_correct": false
+      },
+      {
+        "text": "Friends",
+        "is_correct": false
+      },
+      {
+        "text": "Cómo conocí a vuestra madre",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué grupo sueco cantaba «Dancing Queen»?",
+    "category": "Entretenimiento",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "ABBA",
+        "is_correct": true
+      },
+      {
+        "text": "Europe",
+        "is_correct": false
+      },
+      {
+        "text": "Ace of Base",
+        "is_correct": false
+      },
+      {
+        "text": "Roxette",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién dirigió «El laberinto del fauno»?",
+    "category": "Entretenimiento",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Alejandro González Iñárritu",
+        "is_correct": false
+      },
+      {
+        "text": "Alejandro Amenábar",
+        "is_correct": false
+      },
+      {
+        "text": "Alfonso Cuarón",
+        "is_correct": false
+      },
+      {
+        "text": "Guillermo del Toro",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué serie se dice «Se acerca el invierno»?",
+    "category": "Entretenimiento",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "The Witcher",
+        "is_correct": false
+      },
+      {
+        "text": "Vikingos",
+        "is_correct": false
+      },
+      {
+        "text": "Outlander",
+        "is_correct": false
+      },
+      {
+        "text": "Juego de Tronos",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién fundó Microsoft junto a Paul Allen?",
+    "category": "Tecnología",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Jeff Bezos",
+        "is_correct": false
+      },
+      {
+        "text": "Larry Page",
+        "is_correct": false
+      },
+      {
+        "text": "Bill Gates",
+        "is_correct": true
+      },
+      {
+        "text": "Steve Jobs",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué significan las siglas «www»?",
+    "category": "Tecnología",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Wide World Web",
+        "is_correct": false
+      },
+      {
+        "text": "Web World Wide",
+        "is_correct": false
+      },
+      {
+        "text": "World Wide Web",
+        "is_correct": true
+      },
+      {
+        "text": "World Web Wide",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién inventó la World Wide Web?",
+    "category": "Tecnología",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Linus Torvalds",
+        "is_correct": false
+      },
+      {
+        "text": "Vint Cerf",
+        "is_correct": false
+      },
+      {
+        "text": "Bill Gates",
+        "is_correct": false
+      },
+      {
+        "text": "Tim Berners-Lee",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué empresa fabrica el iPhone?",
+    "category": "Tecnología",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Apple",
+        "is_correct": true
+      },
+      {
+        "text": "Samsung",
+        "is_correct": false
+      },
+      {
+        "text": "Huawei",
+        "is_correct": false
+      },
+      {
+        "text": "Google",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuántos bits tiene un byte?",
+    "category": "Tecnología",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cómo se llama el sistema operativo de Google para móviles?",
+    "category": "Tecnología",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Android",
+        "is_correct": true
+      },
+      {
+        "text": "Windows Phone",
+        "is_correct": false
+      },
+      {
+        "text": "iOS",
+        "is_correct": false
+      },
+      {
+        "text": "Symbian",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué lenguaje de programación se llama como una serpiente?",
+    "category": "Tecnología",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Python",
+        "is_correct": true
+      },
+      {
+        "text": "Cobra",
+        "is_correct": false
+      },
+      {
+        "text": "Java",
+        "is_correct": false
+      },
+      {
+        "text": "Ruby",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué significan las siglas CPU?",
+    "category": "Tecnología",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Unidad central de procesamiento",
+        "is_correct": true
+      },
+      {
+        "text": "Unidad de potencia central",
+        "is_correct": false
+      },
+      {
+        "text": "Ordenador personal universal",
+        "is_correct": false
+      },
+      {
+        "text": "Centro de programas útiles",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué año se presentó el primer iPhone?",
+    "category": "Tecnología",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "2005",
+        "is_correct": false
+      },
+      {
+        "text": "2007",
+        "is_correct": true
+      },
+      {
+        "text": "2009",
+        "is_correct": false
+      },
+      {
+        "text": "2010",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién es considerada la primera programadora de la historia?",
+    "category": "Tecnología",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Grace Hopper",
+        "is_correct": false
+      },
+      {
+        "text": "Ada Lovelace",
+        "is_correct": true
+      },
+      {
+        "text": "Hedy Lamarr",
+        "is_correct": false
+      },
+      {
+        "text": "Marie Curie",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién fundó Facebook?",
+    "category": "Tecnología",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Larry Page",
+        "is_correct": false
+      },
+      {
+        "text": "Elon Musk",
+        "is_correct": false
+      },
+      {
+        "text": "Jack Dorsey",
+        "is_correct": false
+      },
+      {
+        "text": "Mark Zuckerberg",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué significan las siglas USB?",
+    "category": "Tecnología",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Unified Serial Board",
+        "is_correct": false
+      },
+      {
+        "text": "Universal System Bus",
+        "is_correct": false
+      },
+      {
+        "text": "User Service Bus",
+        "is_correct": false
+      },
+      {
+        "text": "Universal Serial Bus",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿De qué país es originario el sushi?",
+    "category": "Gastronomía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Corea del Sur",
+        "is_correct": false
+      },
+      {
+        "text": "China",
+        "is_correct": false
+      },
+      {
+        "text": "Tailandia",
+        "is_correct": false
+      },
+      {
+        "text": "Japón",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es el ingrediente principal del guacamole?",
+    "category": "Gastronomía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Pimiento",
+        "is_correct": false
+      },
+      {
+        "text": "Tomate",
+        "is_correct": false
+      },
+      {
+        "text": "Pepino",
+        "is_correct": false
+      },
+      {
+        "text": "Aguacate",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué queso lleva la pizza margarita?",
+    "category": "Gastronomía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Gorgonzola",
+        "is_correct": false
+      },
+      {
+        "text": "Parmesano",
+        "is_correct": false
+      },
+      {
+        "text": "Mozzarella",
+        "is_correct": true
+      },
+      {
+        "text": "Cheddar",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿De qué país es típico el gulash?",
+    "category": "Gastronomía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Hungría",
+        "is_correct": true
+      },
+      {
+        "text": "Polonia",
+        "is_correct": false
+      },
+      {
+        "text": "Alemania",
+        "is_correct": false
+      },
+      {
+        "text": "Rusia",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué café italiano lleva leche espumada y a veces cacao por encima?",
+    "category": "Gastronomía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Americano",
+        "is_correct": false
+      },
+      {
+        "text": "Ristretto",
+        "is_correct": false
+      },
+      {
+        "text": "Capuchino",
+        "is_correct": true
+      },
+      {
+        "text": "Expreso",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es la especia más cara del mundo?",
+    "category": "Gastronomía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Pimienta",
+        "is_correct": false
+      },
+      {
+        "text": "Azafrán",
+        "is_correct": true
+      },
+      {
+        "text": "Canela",
+        "is_correct": false
+      },
+      {
+        "text": "Vainilla",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿De qué fruta se obtiene el vino?",
+    "category": "Gastronomía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Ciruela",
+        "is_correct": false
+      },
+      {
+        "text": "Pera",
+        "is_correct": false
+      },
+      {
+        "text": "Uva",
+        "is_correct": true
+      },
+      {
+        "text": "Manzana",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cómo se llama el plato japonés de fideos en caldo?",
+    "category": "Gastronomía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Sashimi",
+        "is_correct": false
+      },
+      {
+        "text": "Tempura",
+        "is_correct": false
+      },
+      {
+        "text": "Gyozas",
+        "is_correct": false
+      },
+      {
+        "text": "Ramen",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿De qué continente llegó el tomate a Europa?",
+    "category": "Gastronomía",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Asia",
+        "is_correct": false
+      },
+      {
+        "text": "África",
+        "is_correct": false
+      },
+      {
+        "text": "América",
+        "is_correct": true
+      },
+      {
+        "text": "Oceanía",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién era el dios griego del mar?",
+    "category": "Mitología",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Zeus",
+        "is_correct": false
+      },
+      {
+        "text": "Hades",
+        "is_correct": false
+      },
+      {
+        "text": "Apolo",
+        "is_correct": false
+      },
+      {
+        "text": "Poseidón",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién era el dios romano de la guerra?",
+    "category": "Mitología",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Vulcano",
+        "is_correct": false
+      },
+      {
+        "text": "Júpiter",
+        "is_correct": false
+      },
+      {
+        "text": "Marte",
+        "is_correct": true
+      },
+      {
+        "text": "Mercurio",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué héroe griego realizó doce trabajos?",
+    "category": "Mitología",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Heracles (Hércules)",
+        "is_correct": true
+      },
+      {
+        "text": "Aquiles",
+        "is_correct": false
+      },
+      {
+        "text": "Perseo",
+        "is_correct": false
+      },
+      {
+        "text": "Ulises",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién es el padre de los dioses en la mitología nórdica?",
+    "category": "Mitología",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Loki",
+        "is_correct": false
+      },
+      {
+        "text": "Balder",
+        "is_correct": false
+      },
+      {
+        "text": "Thor",
+        "is_correct": false
+      },
+      {
+        "text": "Odín",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué criatura con cabeza de toro vivía en el laberinto de Creta?",
+    "category": "Mitología",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "El Minotauro",
+        "is_correct": true
+      },
+      {
+        "text": "La Esfinge",
+        "is_correct": false
+      },
+      {
+        "text": "El Centauro",
+        "is_correct": false
+      },
+      {
+        "text": "La Quimera",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién era la diosa griega de la sabiduría?",
+    "category": "Mitología",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Artemisa",
+        "is_correct": false
+      },
+      {
+        "text": "Atenea",
+        "is_correct": true
+      },
+      {
+        "text": "Hera",
+        "is_correct": false
+      },
+      {
+        "text": "Afrodita",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién abrió la caja que liberó todos los males del mundo?",
+    "category": "Mitología",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Perséfone",
+        "is_correct": false
+      },
+      {
+        "text": "Pandora",
+        "is_correct": true
+      },
+      {
+        "text": "Helena",
+        "is_correct": false
+      },
+      {
+        "text": "Medusa",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué año se firmó el Tratado de Tordesillas?",
+    "category": "Historia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "1492",
+        "is_correct": false
+      },
+      {
+        "text": "1500",
+        "is_correct": false
+      },
+      {
+        "text": "1494",
+        "is_correct": true
+      },
+      {
+        "text": "1519",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué emperador romano creó la Tetrarquía?",
+    "category": "Historia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Marco Aurelio",
+        "is_correct": false
+      },
+      {
+        "text": "Teodosio",
+        "is_correct": false
+      },
+      {
+        "text": "Diocleciano",
+        "is_correct": true
+      },
+      {
+        "text": "Constantino",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué batalla naval de 1571 enfrentó a la Liga Santa con el Imperio otomano?",
+    "category": "Historia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Lepanto",
+        "is_correct": true
+      },
+      {
+        "text": "Salamina",
+        "is_correct": false
+      },
+      {
+        "text": "Actium",
+        "is_correct": false
+      },
+      {
+        "text": "Trafalgar",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿En qué año fue la batalla de Trafalgar?",
+    "category": "Historia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "1798",
+        "is_correct": false
+      },
+      {
+        "text": "1815",
+        "is_correct": false
+      },
+      {
+        "text": "1805",
+        "is_correct": true
+      },
+      {
+        "text": "1808",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué mamífero terrestre tiene la gestación más larga?",
+    "category": "Naturaleza",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Hipopótamo",
+        "is_correct": false
+      },
+      {
+        "text": "Elefante",
+        "is_correct": true
+      },
+      {
+        "text": "Jirafa",
+        "is_correct": false
+      },
+      {
+        "text": "Rinoceronte",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cómo se llama el grupo de mamíferos que ponen huevos, como el ornitorrinco?",
+    "category": "Naturaleza",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Placentarios",
+        "is_correct": false
+      },
+      {
+        "text": "Monotremas",
+        "is_correct": true
+      },
+      {
+        "text": "Marsupiales",
+        "is_correct": false
+      },
+      {
+        "text": "Quirópteros",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué ave tiene la mayor envergadura de alas?",
+    "category": "Naturaleza",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Águila real",
+        "is_correct": false
+      },
+      {
+        "text": "Albatros viajero",
+        "is_correct": true
+      },
+      {
+        "text": "Cóndor andino",
+        "is_correct": false
+      },
+      {
+        "text": "Pelícano",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién era el barquero que cruzaba a las almas por la laguna Estigia?",
+    "category": "Mitología",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Hermes",
+        "is_correct": false
+      },
+      {
+        "text": "Cerbero",
+        "is_correct": false
+      },
+      {
+        "text": "Caronte",
+        "is_correct": true
+      },
+      {
+        "text": "Tánatos",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué tipo de organismo da al queso Roquefort sus vetas azules?",
+    "category": "Gastronomía",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Un alga",
+        "is_correct": false
+      },
+      {
+        "text": "Una levadura de cerveza",
+        "is_correct": false
+      },
+      {
+        "text": "Una bacteria",
+        "is_correct": false
+      },
+      {
+        "text": "Un hongo (moho)",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué película ganó el primer Óscar a la mejor película?",
+    "category": "Entretenimiento",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "El cantor de jazz",
+        "is_correct": false
+      },
+      {
+        "text": "Alas (Wings)",
+        "is_correct": true
+      },
+      {
+        "text": "Metrópolis",
+        "is_correct": false
+      },
+      {
+        "text": "Sin novedad en el frente",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Quién compuso la música de «Star Wars»?",
+    "category": "Entretenimiento",
+    "difficulty": "medium",
+    "options": [
+      {
+        "text": "Ennio Morricone",
+        "is_correct": false
+      },
+      {
+        "text": "Howard Shore",
+        "is_correct": false
+      },
+      {
+        "text": "Hans Zimmer",
+        "is_correct": false
+      },
+      {
+        "text": "John Williams",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué científico propuso en 1913 un modelo atómico con órbitas de energía fijas?",
+    "category": "Ciencia",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Niels Bohr",
+        "is_correct": true
+      },
+      {
+        "text": "Ernest Rutherford",
+        "is_correct": false
+      },
+      {
+        "text": "Erwin Schrödinger",
+        "is_correct": false
+      },
+      {
+        "text": "J. J. Thomson",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Qué ciudad organizó los Juegos Olímpicos de 1968?",
+    "category": "Deporte",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Múnich",
+        "is_correct": false
+      },
+      {
+        "text": "Tokio",
+        "is_correct": false
+      },
+      {
+        "text": "Roma",
+        "is_correct": false
+      },
+      {
+        "text": "Ciudad de México",
+        "is_correct": true
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es la capital de Birmania (Myanmar)?",
+    "category": "Geografía",
+    "difficulty": "hard",
+    "options": [
+      {
+        "text": "Bangkok",
+        "is_correct": false
+      },
+      {
+        "text": "Naipyidó",
+        "is_correct": true
+      },
+      {
+        "text": "Rangún",
+        "is_correct": false
+      },
+      {
+        "text": "Mandalay",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  },
+  {
+    "text": "¿Cuál es la legumbre principal del hummus?",
+    "category": "Gastronomía",
+    "difficulty": "easy",
+    "options": [
+      {
+        "text": "Judía blanca",
+        "is_correct": false
+      },
+      {
+        "text": "Lenteja",
+        "is_correct": false
+      },
+      {
+        "text": "Garbanzo",
+        "is_correct": true
+      },
+      {
+        "text": "Haba",
+        "is_correct": false
+      }
+    ],
+    "origin": "general",
+    "source": "Redacción propia (Claude)"
+  }
+]

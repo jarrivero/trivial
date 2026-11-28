@@ -8,8 +8,7 @@ use Psr\Http\Message\ResponseInterface;
 use Smarty\Smarty;
 
 /**
- * Pequeño envoltorio de Smarty para pintar una plantilla
- * dentro de una respuesta de Slim.
+ * Small Smarty wrapper to render a template into a Slim response.
  */
 final class View
 {
@@ -20,13 +19,13 @@ final class View
         $this->smarty = new Smarty();
         $this->smarty->setTemplateDir($config['templates']);
         $this->smarty->setCompileDir($config['compile']);
-        // Escapa TODAS las variables {$algo} por defecto (protección XSS).
-        // Si alguna vez necesitas HTML sin escapar: {$algo nofilter}
+        // Escape ALL {$variables} by default (XSS protection).
+        // If you ever need raw HTML: {$variable nofilter}
         $this->smarty->setEscapeHtml(true);
-        // Recompila la plantilla si el archivo .tpl ha cambiado. Siempre activo:
-        // si no, tras un "git pull" se seguirían viendo las páginas viejas
-        // (la caché de plantillas vive en un volumen que sobrevive a reconstrucciones).
-        // Cuesta solo mirar la fecha del archivo, inapreciable.
+        // Recompile a template when its .tpl file changes. Always on: otherwise,
+        // after a "git pull" the old pages would still be served (the compiled
+        // templates live in a volume that survives rebuilds).
+        // It only costs a file date check, negligible.
         $this->smarty->setCompileCheck(Smarty::COMPILECHECK_ON);
     }
 
