@@ -5,6 +5,8 @@
     {* Obligatorio para que el móvil no muestre la web "en miniatura" *}
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
     <meta name="theme-color" content="#0d6efd">
+    {* Icono de la pestaña (evita la petición a /favicon.ico, que daba 404 en los logs) *}
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎯</text></svg>">
     <title>{block name=titulo}{$titulo|default:'Trivial'}{/block}</title>
 
     <link rel="stylesheet"

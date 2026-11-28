@@ -13,6 +13,8 @@ fi
 
 # 2. Carpetas donde PHP necesita escribir (base de datos y caché de plantillas).
 mkdir -p data var/cache/smarty
+# Plantillas compiladas de la versión anterior: fuera, se regeneran solas.
+find var/cache/smarty -mindepth 1 ! -name .gitkeep -delete
 chown -R www-data:www-data data var/cache/smarty
 
 # 3. Arranca php-fpm (o el comando que se haya pedido).
