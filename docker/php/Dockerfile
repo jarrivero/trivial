@@ -8,6 +8,8 @@ FROM php:8.3-fpm-alpine
 COPY --from=composer:2 /usr/bin/composer /usr/bin/composer
 
 COPY docker/php/php.ini /usr/local/etc/php/conf.d/zz-trivial.ini
+COPY docker/php/entrypoint.sh /usr/local/bin/trivial-entrypoint
+RUN chmod +x /usr/local/bin/trivial-entrypoint
 
 WORKDIR /var/www/html
 
@@ -18,3 +20,7 @@ COPY . .
 RUN composer dump-autoload --optimize --no-dev \
     && mkdir -p data var/cache/smarty \
     && chown -R www-data:www-data data var
+
+# Al arrancar: instala vendor/ si falta y arregla permisos (ver entrypoint.sh)
+ENTRYPOINT ["trivial-entrypoint"]
+CMD ["php-fpm"]
