@@ -44,10 +44,9 @@ cp .env.example .env
 
 # 3. Construir y arrancar los contenedores
 docker compose up -d --build
-
-# 4. Instalar las librerías PHP (se hace DENTRO del contenedor)
-docker compose exec php composer install
 ```
+
+La primera vez, el contenedor de PHP instala solo las librerías (carpeta `vendor/`), así que tarda un minuto en responder. Puedes verlo con `docker compose logs -f php`: cuando ponga `ready to handle connections` ya está listo.
 
 Abre en el navegador `http://IP-DE-LA-MAQUINA:8080` y verás la página de inicio.
 Para comprobar la base de datos abre `http://IP-DE-LA-MAQUINA:8080/salud`: debe poner `"journal_mode": "wal"`.
@@ -58,6 +57,7 @@ Otros comandos útiles:
 docker compose logs -f          # ver errores en directo (Ctrl+C para salir)
 docker compose down             # parar (los datos se conservan)
 git pull && docker compose exec php composer install   # actualizar a la última versión
+docker compose exec php composer install   # reinstalar librerías a mano si hiciera falta
 ```
 
 Para ver los errores detallados en pantalla mientras pruebas, pon `APP_DEBUG=1` en `.env` y ejecuta `docker compose up -d`. **En el VPS déjalo en 0.**
