@@ -9,7 +9,7 @@ Ficheros de datos con las preguntas del juego. Todavía no se cargan solos: la i
 | `preguntados.json` | 60 | Selección del repositorio [danb0219/preguntados](https://github.com/danb0219/preguntados), licencia MIT (`origen: "general"`) |
 | `opentdb.json` | 332 | Selección de [Open Trivia DB](https://opentdb.com) traducida al español, licencia CC BY-SA 4.0 (`origen: "general"`) |
 
-Total: 723 preguntas. Las tres se mezclan en el mismo banco al jugar.
+Total: 723 preguntas. Todas se mezclan en el mismo banco al jugar.
 
 ## Formato
 
