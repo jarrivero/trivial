@@ -3,6 +3,7 @@
 declare(strict_types=1);
 
 use App\Database;
+use App\Schema;
 use App\View;
 use DI\Container;
 use Illuminate\Database\Capsule\Manager as Capsule;
@@ -43,6 +44,8 @@ $container->set(View::class, fn () => new View($settings['smarty'], $settings['d
 
 // Arrancamos la BD ya, para que los modelos Eloquent funcionen en cualquier ruta.
 $container->get(Capsule::class);
+// Crea las tablas la primera vez (o las actualiza si hay versión nueva).
+Schema::migrate();
 
 // --- Slim ---------------------------------------------------------------
 AppFactory::setContainer($container);

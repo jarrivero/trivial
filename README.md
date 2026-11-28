@@ -2,7 +2,17 @@
 
 Trivial para jugar con amigos desde el móvil. Hecho con PHP 8 + Slim 4 + Eloquent + SQLite + Smarty + Bootstrap 5.
 
-> **Estado:** Fase 1 (esqueleto). La página de inicio solo muestra el diseño; el juego llega en las siguientes fases.
+> **Estado:** Fase 2. Ya se pueden crear salas, unirse con un código, ver quién está en el lobby y chatear. El botón **Empezar** marca la partida como empezada, pero las preguntas llegan en la Fase 3.
+
+## Cómo funciona una sala (Fase 2)
+
+1. **Jugar con rivales → Crear sala**: escribes tu nombre y te da un código de 4 letras (sin I, L ni O, para que no se confundan al dictarlo).
+2. Los amigos entran con **Unirme** (código + nombre), o abriendo el enlace que mandas con **Invitar** (en el móvil abre WhatsApp, Telegram, etc.).
+3. En el **lobby** se ve la lista de jugadores (punto verde = conectado, gris = lleva más de 15 s sin dar señales) y un **chat**. La lista y el chat se actualizan solos cada 2 segundos.
+4. Quien crea la sala (👑 anfitrión) ve el botón **Empezar** (hacen falta al menos 2 jugadores). Si el anfitrión sale, el mando pasa al siguiente jugador.
+5. **Reconexión**: si recargas o cierras el navegador, vuelves a tu sala con tu nombre (la cookie dura 12 horas).
+
+Límites: 12 jugadores por sala, nombres de hasta 20 letras sin repetir dentro de la sala, mensajes de hasta 200 letras (uno por segundo como mucho). Las salas abandonadas más de 24 h se borran solas.
 
 ## Estructura de carpetas
 
@@ -10,15 +20,22 @@ Trivial para jugar con amigos desde el móvil. Hecho con PHP 8 + Slim 4 + Eloque
 trivial/
 ├── app/
 │   ├── bootstrap.php     # Cableado: sesión, base de datos, Smarty y Slim
-│   ├── routes.php        # Rutas (de momento: "/" y "/salud")
+│   ├── routes.php        # Todas las direcciones de la web
 │   ├── settings.php      # Configuración en un solo sitio
 │   ├── Database.php      # Conecta Eloquent a SQLite y activa WAL
-│   └── View.php          # Pinta plantillas Smarty dentro de Slim
+│   ├── Schema.php        # Crea las tablas la primera vez (salas, jugadores, mensajes)
+│   ├── View.php          # Pinta plantillas Smarty dentro de Slim
+│   ├── Controllers/
+│   │   └── SalaController.php  # Crear sala, unirse, lobby, chat, empezar
+│   └── Models/           # Sala, Jugador, Mensaje (tablas de la base de datos)
 ├── public/
-│   └── index.php         # Única puerta de entrada (lo único visible desde Internet)
+│   ├── index.php         # Única puerta de entrada (lo único visible desde Internet)
+│   └── js/lobby.js       # Polling del lobby y chat
 ├── templates/
 │   ├── layout.tpl        # Plantilla base: Bootstrap, viewport, ajustes móviles
-│   └── home.tpl          # Página de inicio
+│   ├── home.tpl          # Página de inicio
+│   ├── rivales.tpl       # Formularios de crear sala / unirme
+│   └── lobby.tpl         # Sala de espera con jugadores y chat
 ├── data/                 # Aquí se crea trivial.sqlite (no se sube a git)
 ├── var/cache/smarty/     # Plantillas compiladas por Smarty (no se sube a git)
 ├── docker/
@@ -56,7 +73,7 @@ Otros comandos útiles:
 ```bash
 docker compose logs -f          # ver errores en directo (Ctrl+C para salir)
 docker compose down             # parar (los datos se conservan)
-git pull && docker compose exec php composer install   # actualizar a la última versión
+git pull && docker compose up -d --build   # actualizar a la última versión
 docker compose exec php composer install   # reinstalar librerías a mano si hiciera falta
 ```
 
